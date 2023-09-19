@@ -1,0 +1,16 @@
+<map id="pandora::Cluster::GetClusterSpanX" name="pandora::Cluster::GetClusterSpanX">
+<area shape="rect" id="Node000001" title="Get minimum and maximum X positions of the calo hits in this cluster." alt="" coords="567,110,753,153"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_three_view_track_fragments_algorithm.html#ac4c5ebd63e3b54b7d65c81643a8de116" title="Calculate overlap result for track fragment candidate consisting of two sliding fit results and a lis..." alt="" coords="5,36,249,94"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="627,101,579,59,550,40,518,26,480,16,440,10,360,10,283,21,216,38,215,32,282,16,360,5,441,5,481,11,520,21,552,36,582,55,631,97"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_n_view_delta_ray_matching_algorithm.html#aac181605230498590d2768ca50f6f635" title="Create delta ray pfos maxmising completeness by searching for and merging in any stray clusters." alt="" coords="307,36,509,78"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="570,108,482,81,483,76,572,103"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_n_view_delta_ray_matching_algorithm.html#aa3efbf0e2e50f0f836230ec55b3efe1f" title="Use two clusters from different views to calculate projected positions in the remaining third view." alt="" coords="301,185,515,244"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="579,161,501,187,499,182,577,156"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_three_view_track_fragments_algorithm.html#ade08f511676067feb093570e0e67bb5c" title="Get the list of projected positions, in the third view, corresponding to a pair of sliding fit result..." alt="" coords="297,102,519,161"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="551,134,520,134,520,129,551,129"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_removal_base_tool.html#ac8a4520539e47d7c407805dbde3238ca" title="Determine whether the matched clusters suggest that the delta ray is at the endpoint of the cosmic ra..." alt="" coords="322,268,494,310"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="632,166,582,213,552,237,520,258,496,269,494,265,518,253,549,233,579,209,628,162"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_removal_base_tool.html#ac01d4e750e1104686b559b40edac09c5" title="Use two views of a delta ray pfo to calculate projected positions in a given third view." alt="" coords="26,193,228,236"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="285,217,228,217,228,212,285,212"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="281,104,248,96,250,91,282,99"/>
+</map>

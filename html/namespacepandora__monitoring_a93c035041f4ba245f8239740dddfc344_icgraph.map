@@ -1,0 +1,8 @@
+<map id="pandora_monitoring::MakePathIfNeeded" name="pandora_monitoring::MakePathIfNeeded">
+<area shape="rect" id="Node000001" title=" " alt="" coords="390,29,528,72"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="489,16,478,10,459,8,442,10,431,15,427,21,428,28,423,29,422,19,428,10,440,5,459,3,479,5,492,11"/>
+<area shape="rect" id="Node000002" href="$classpandora__monitoring_1_1_pandora_monitoring.html#a948144bcd89fbed2282566f1ef280826" title="Save the Eve Event&#45;displays." alt="" coords="202,21,342,80"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="375,53,342,53,342,48,375,48"/>
+<area shape="rect" id="Node000003" href="$class_pandora_monitoring_api.html#a2a12e904b587b5cb7e3b51e453c4d731" title="Show the Eve Event&#45;display and pause. Whilst paused, save the event displays." alt="" coords="5,29,154,72"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="186,53,154,53,154,48,186,48"/>
+</map>

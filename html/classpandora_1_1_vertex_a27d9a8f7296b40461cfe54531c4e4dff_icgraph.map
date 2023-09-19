@@ -1,0 +1,23 @@
+<map id="pandora::Vertex::GetVertexType" name="pandora::Vertex::GetVertexType">
+<area shape="rect" id="Node000001" title="Get the vertex type." alt="" coords="865,147,1074,173"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_master_algorithm.html#a78846ef144c696734fcd7489848e103d" title="Create a new vertex in the current pandora instance, based upon the provided input vertex." alt="" coords="595,5,783,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="938,139,883,100,816,62,782,50,784,45,818,58,886,95,941,135"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_vertex_helper.html#a5bd0ae3fd8ba832a4731c823db074a56" title="Get the direction of the cluster in z, using a projection of the provided vertex." alt="" coords="595,72,783,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="894,145,781,118,782,113,896,140"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_l_ar_pfo_helper.html#ab13d0833aa951fef0de5120142d3bc9a" title="Get the pfo test beam interaction vertex." alt="" coords="585,139,792,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="850,163,793,163,793,157,850,157"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_l_ar_pfo_helper.html#ae6f2016287caf24a56c1c40d6fa8ec90" title="Get the pfo vertex." alt="" coords="604,205,773,248"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="896,180,774,209,773,204,894,175"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_vertex_based_pfo_mop_up_algorithm.html#ae27eac53ad717c7bd9469957f9fc7e11" title="Whether a specified pfo is associated with a specified vertex." alt="" coords="560,272,817,315"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="941,185,886,225,818,262,788,274,786,269,816,258,883,220,938,181"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_vertex_based_pfo_mop_up_algorithm.html#a3047d018dc082308975105cbb449f0ee" title="Get cluster association details between a vertex&#45;associated cluster and a non&#45;vertex associated daugh..." alt="" coords="306,64,512,123"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="579,96,512,96,512,91,579,91"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_vertex_based_pfo_mop_up_algorithm.html#aec0d9d80e8d066d44317529cf57f6b8b" title="Get pfo association details between a vertex&#45;associated pfo and a non&#45;vertex associated daughter cand..." alt="" coords="5,72,258,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="290,96,258,96,258,91,290,91"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_custom_particle_creation_algorithm.html#acd2c8d72127d0e7ddfcff04724166877" title="Run the algorithm." alt="" coords="318,176,500,219"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="588,219,500,210,501,204,589,214"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_three_d_vertex_distance_feature_tool.html#a6b24d20d23e65155a81cfd06edc1a0f1" title=" " alt="" coords="323,243,495,285"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="589,243,496,255,495,250,588,237"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_three_d_vertex_distance_feature_tool.html#a3e2358fc5e16766c3c91f054851a0c59" title=" " alt="" coords="45,243,218,285"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="307,267,218,267,218,261,307,261"/>
+</map>

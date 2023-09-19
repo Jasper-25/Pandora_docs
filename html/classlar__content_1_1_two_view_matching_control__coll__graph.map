@@ -1,0 +1,13 @@
+<map id="lar_content::TwoViewMatchingControl&lt; T &gt;" name="lar_content::TwoViewMatchingControl&lt; T &gt;">
+<area shape="rect" id="Node000001" title="TwoViewMatchingControl class." alt="" coords="5,447,203,489"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_n_view_matching_control.html" title="NViewMatchingControl class." alt="" coords="12,355,196,397"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,413,107,446,101,446,101,413"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_matching_base_algorithm.html" title="MatchingBaseAlgorithm class." alt="" coords="16,248,192,291"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="107,306,107,354,101,354,101,306"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_algorithm.html" title="Algorithm class. Algorithm addresses are held only by the algorithm manager. They have a fully define..." alt="" coords="39,172,169,199"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="107,214,107,248,101,248,101,214"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_process.html" title="Process class." alt="" coords="42,96,166,123"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="107,138,107,172,101,172,101,138"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_pandora.html" title="Pandora class." alt="" coords="42,5,166,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="107,48,107,95,101,95,101,48"/>
+</map>

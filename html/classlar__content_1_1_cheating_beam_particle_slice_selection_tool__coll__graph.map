@@ -1,0 +1,13 @@
+<map id="lar_content::CheatingBeamParticleSliceSelectionTool" name="lar_content::CheatingBeamParticleSliceSelectionTool">
+<area shape="rect" id="Node000001" title="CheatingBeamParticleSliceSelectionTool class." alt="" coords="5,432,184,475"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_cheating_slice_selection_tool.html" title="CheatingSliceSelectionTool class." alt="" coords="8,340,181,383"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,398,97,432,92,432,92,398"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_slice_selection_base_tool.html" title="SliceSelectionBaseTool class." alt="" coords="6,248,183,291"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="97,306,97,340,92,340,92,306"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_algorithm_tool.html" title="AlgorithmTool class. Algorithm tools will tend to be tailored for specific parent algorithms,..." alt="" coords="17,172,172,199"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="97,214,97,248,92,248,92,214"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_process.html" title="Process class." alt="" coords="33,96,156,123"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="97,138,97,172,92,172,92,138"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_pandora.html" title="Pandora class." alt="" coords="33,5,156,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="97,48,97,95,92,95,92,48"/>
+</map>

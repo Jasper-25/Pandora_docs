@@ -1,0 +1,7 @@
+<map id="pandora::EnergyCorrectionPlugin" name="pandora::EnergyCorrectionPlugin">
+<area shape="rect" id="Node000001" title="EnergyCorrectionPlugin class." alt="" coords="5,172,181,215"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_process.html" title="Process class." alt="" coords="31,96,155,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,138,96,172,90,172,90,138"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_pandora.html" title="Pandora class." alt="" coords="31,5,155,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="96,48,96,95,90,95,90,48"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="lar_content::LArHierarchyHelper::MCHierarchy::Node::GetCaloHits" name="lar_content::LArHierarchyHelper::MCHierarchy::Node::GetCaloHits">
+<area shape="rect" id="Node000001" title="Retrieve the CaloHits associated with this node." alt="" coords="438,5,617,64"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_hierarchy_helper_1_1_match_info.html#ae5c218c51aed81c4a6150c54f69dcac5" title="Match the nodes in the MC and reco hierarchies." alt="" coords="222,13,390,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="423,37,390,37,390,32,423,32"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_hierarchy_helper.html#a8657464ee22dfdb135ccd31aa309a399" title="Finds the matches between reconstructed and MC hierarchies." alt="" coords="5,13,174,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="206,37,174,37,174,32,206,32"/>
+</map>

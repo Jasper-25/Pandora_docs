@@ -1,0 +1,5 @@
+<map id="lar_content::LArMCParticleHelper::SelectParticlesByHitCount" name="lar_content::LArMCParticleHelper::SelectParticlesByHitCount">
+<area shape="rect" id="Node000001" title="Filter an input vector of MCParticles to ensure they have sufficient good hits to be reconstructable." alt="" coords="5,5,226,48"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_monitoring_helper.html#a1fafe4064c9c19c7879342013aa0918b" title="Count the number of calo hits, in a provided list, of a specified type." alt="" coords="274,5,447,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,24,258,24,258,29,226,29"/>
+</map>

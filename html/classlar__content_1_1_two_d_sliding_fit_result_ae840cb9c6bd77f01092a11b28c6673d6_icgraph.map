@@ -1,0 +1,7 @@
+<map id="lar_content::TwoDSlidingFitResult::GetGlobalFitPositionAtX" name="lar_content::TwoDSlidingFitResult::GetGlobalFitPositionAtX">
+<area shape="rect" id="Node000001" title="Get global fit position for a given input x coordinate." alt="" coords="296,39,517,81"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a84a929c73951688506aa2377ede44972" title="Get extrapolated position (beyond span) for a given input x coordinate." alt="" coords="5,5,248,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="280,48,248,44,248,38,280,42"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_geometry_helper.html#ab687d837b539b20a69a59e4540594265" title="Whether there is a gap in a cluster (described via its sliding fit result) at a specified x sampling ..." alt="" coords="26,72,227,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="280,78,228,84,227,79,280,72"/>
+</map>

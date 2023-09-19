@@ -1,0 +1,13 @@
+<map id="PandoraContentApi::EndFragmentation" name="PandoraContentApi::EndFragmentation">
+<area shape="rect" id="Node000001" title="End cluster fragmentation operations on clusters in the algorithm input list." alt="" coords="626,105,767,148"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_track_refinement_base_algorithm.html#a3a16d4f7140eb76ddbc3af84baa7c0d9" title="Remove the hits from a shower cluster that belong to the main track and add them into the main track ..." alt="" coords="330,5,564,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="649,100,577,62,545,51,546,46,579,58,651,95"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_track_refinement_base_algorithm.html#a878ee090afca012c50be5bbb691ea9f0" title="Fragment a cluster using simple hit separation logic." alt="" coords="316,72,578,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="610,118,578,114,579,108,611,113"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_n_view_track_matching_algorithm.html#a922780abe531a8856827afe14155e0f5" title="Make a cluster split." alt="" coords="339,139,555,181"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="611,141,555,148,555,143,611,135"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_track_refinement_base_algorithm.html#a3e01cdbae15087db91845b45315bceee" title="Remove any hits in the upstream/downstream cluster that lie off of the main track axis (i...." alt="" coords="334,205,560,264"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="650,159,579,196,550,207,548,202,577,191,647,154"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_track_refinement_base_algorithm.html#aaea23ceb1d23fc26007d6305b9bd14be" title="Process the remnant clusters separating those that stradle the main track." alt="" coords="5,72,268,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="300,96,268,96,268,91,300,91"/>
+</map>

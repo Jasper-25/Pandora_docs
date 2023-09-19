@@ -1,0 +1,7 @@
+<map id="pandora_monitoring::PandoraMonitoring::DrawPandoraHistogram" name="pandora_monitoring::PandoraMonitoring::DrawPandoraHistogram">
+<area shape="rect" id="Node000001" title="Draw a pandora histogram." alt="" coords="219,31,384,89"/>
+<area shape="rect" id="Node000002" href="$class_pandora_monitoring_api.html#ae28db07ce388b94b7e593aa6f4fb60c7" title="Draw a pandora histogram." alt="" coords="5,5,171,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,47,171,42,172,37,204,42"/>
+<area shape="rect" id="Node000003" href="$class_pandora_monitoring_api.html#a2a31a4f04e039b7ca521a981967937aa" title="Draw a pandora histogram." alt="" coords="5,72,171,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="204,78,172,83,171,78,203,73"/>
+</map>

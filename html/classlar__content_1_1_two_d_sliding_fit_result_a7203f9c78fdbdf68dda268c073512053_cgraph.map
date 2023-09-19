@@ -1,0 +1,6 @@
+<map id="lar_content::TwoDSlidingFitResult::GetGlobalFitPositionListAtX" name="lar_content::TwoDSlidingFitResult::GetGlobalFitPositionListAtX">
+<area shape="rect" id="Node000001" title="Get a list of projected positions for a given input x coordinate." alt="" coords="5,21,207,80"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a3064f2de2921d1c6dafab3c4ae87a6a1" title="Get global fit position for a given longitudinal coordinate." alt="" coords="255,29,456,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,48,239,48,239,53,207,53"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="308,29,306,19,314,10,331,5,355,3,382,5,398,11,396,16,381,10,355,8,332,10,317,15,312,21,313,28"/>
+</map>

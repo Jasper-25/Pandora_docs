@@ -1,0 +1,37 @@
+<map id="pandora::XmlHelper::ReadVectorOfValues" name="pandora::XmlHelper::ReadVectorOfValues">
+<area shape="rect" id="Node000001" title="Read a vector of values from a (space separated) list in an xml element." alt="" coords="816,323,967,365"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_histogram.html#a73201723b9a300db84827db9e969c2d9" title="Constructor." alt="" coords="587,5,721,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="882,308,870,253,848,187,814,120,792,89,767,62,745,48,721,38,723,33,748,43,770,58,796,86,819,117,853,185,875,252,887,307"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_cluster_characterisation_base_algorithm.html#afa235bc7f44a876a8511b165ec932000" title="Read the algorithm settings." alt="" coords="540,72,768,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="877,309,861,267,838,218,806,170,767,129,749,118,752,113,770,125,811,167,843,216,866,265,882,307"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_cluster_mop_up_base_algorithm.html#ad5eaba98f7186e6262db9c83e458c2e9" title="Read the algorithm settings." alt="" coords="288,235,480,277"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="860,313,819,276,794,259,767,246,732,236,695,229,619,224,546,228,481,237,480,231,545,222,619,219,695,224,733,231,769,242,797,254,822,272,864,309"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_cluster_splitting_algorithm.html#a7225320a920dac1093572223784b8d85" title="Read the algorithm settings." alt="" coords="564,139,745,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="867,311,824,255,797,227,767,202,733,184,736,180,770,198,801,223,828,252,871,308"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_stream_selection_algorithm.html#abfb550c1eb8809cbe0ee50f1cdbc234d" title="Read the algorithm settings." alt="" coords="560,256,749,299"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="801,321,732,302,734,297,802,316"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_mop_up_base_algorithm.html#a6b817e41a9d609aa2c19666bf0a4ef8d" title="Read the algorithm settings." alt="" coords="545,323,764,365"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="801,347,764,347,764,341,801,341"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_trained_vertex_selection_algorithm.html#a68243bcb91d963da988466b9810b2924" title="Read the algorithm settings." alt="" coords="276,415,492,457"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="802,372,769,380,625,406,493,426,492,420,624,401,768,375,800,367"/>
+<area shape="rect" id="Node000014" href="$classlar__content_1_1_vertex_selection_base_algorithm.html#aa93045107289682eed75777bb4527889" title="Read the algorithm settings." alt="" coords="558,440,750,483"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="849,377,770,424,726,442,724,437,767,419,846,372"/>
+<area shape="rect" id="Node000015" href="$class_event_reading_algorithm.html#a635efbb37d59457cfa1101947a2b82b8" title="Read the algorithm settings." alt="" coords="577,507,732,549"/>
+<area shape="poly" id="edge16_Node000001_Node000015" title=" " alt="" coords="873,381,830,440,802,471,770,497,734,515,731,510,767,492,798,467,826,437,868,378"/>
+<area shape="rect" id="Node000016" href="$classpandora_1_1_xml_file_reader.html#ae50aaf18e7094e7c60c68cd7aa359a42" title=" " alt="" coords="575,573,733,616"/>
+<area shape="poly" id="edge17_Node000001_Node000016" title=" " alt="" coords="882,381,866,423,843,472,811,521,770,563,735,583,732,578,767,559,806,518,838,470,861,421,877,379"/>
+<area shape="rect" id="Node000017" href="$classpandora_1_1_xml_file_reader.html#af21568f648c1a664f8ea3448905a4b48" title=" " alt="" coords="575,640,733,683"/>
+<area shape="poly" id="edge18_Node000001_Node000017" title=" " alt="" coords="887,381,875,436,853,503,819,571,796,602,770,630,735,650,732,646,767,626,792,599,814,568,848,501,870,435,882,380"/>
+<area shape="rect" id="Node000004" href="$classlar__dl__content_1_1_dl_cluster_characterisation_algorithm.html#a3beb10349f65ec245d74b0d9e7ffdcf1" title="Read the algorithm settings." alt="" coords="299,56,469,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="525,92,469,91,470,85,525,87"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_two_d_sliding_fit_splitting_algorithm.html#a980f051a9000653c9c1a4d952abc189b" title="Read the algorithm settings." alt="" coords="302,139,466,197"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="548,166,466,168,466,163,548,160"/>
+<area shape="poly" id="edge9_Node000009_Node000005" title=" " alt="" coords="561,320,539,313,444,280,446,275,541,308,563,315"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_pfo_mop_up_base_algorithm.html#a576cee1f30135b7a822871144ef6de1b" title="Read the algorithm settings." alt="" coords="292,323,476,365"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="529,347,476,347,476,341,529,341"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_vertex_based_pfo_mop_up_algorithm.html#a68310f223458dbe186e5ad976e91a2a7" title="Read the algorithm settings." alt="" coords="5,323,228,365"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="277,347,228,347,228,341,277,341"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_mva_vertex_selection_algorithm.html#a9a63d0b30ffed9a759d5da9ab7ff2366" title="Read the algorithm settings." alt="" coords="12,415,221,457"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="260,439,221,439,221,433,260,433"/>
+<area shape="poly" id="edge15_Node000014_Node000012" title=" " alt="" coords="542,454,492,449,493,443,543,448"/>
+</map>

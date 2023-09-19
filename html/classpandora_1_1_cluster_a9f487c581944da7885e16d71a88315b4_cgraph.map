@@ -1,0 +1,29 @@
+<map id="pandora::Cluster::GetFitToAllHitsResult" name="pandora::Cluster::GetFitToAllHitsResult">
+<area shape="rect" id="Node000001" title="Get the result of a linear fit to all calo hits in the cluster." alt="" coords="5,172,166,215"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_cluster.html#a58281aa5954d0e576f11096f71a29dfe" title="Update result of linear fit to all calo hits in cluster." alt="" coords="214,172,379,215"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,191,198,191,198,196,166,196"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_cluster_fit_helper.html#ac4d0d69c1b786c1158c450baa3c1c092" title="Fit all points in a cluster." alt="" coords="427,172,595,215"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="379,191,411,191,411,196,379,196"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_cluster_fit_helper.html#afd78a8214d35cede5db97b7e00b54b79" title="Perform linear regression of x vs d and y vs d and z vs d (assuming same error on all hits)" alt="" coords="655,105,823,148"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="585,169,648,150,650,155,587,174"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_cluster.html#a7d339731c79e90e04b56d6746a641fc8" title="Get the ordered calo hit list." alt="" coords="643,172,835,215"/>
+<area shape="poly" id="edge12_Node000003_Node000013" title=" " alt="" coords="596,191,628,191,628,196,596,196"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_ordered_calo_hit_list.html#ad77035f7ad19c0f80cab30eb196e5566" title="Returns the number of elements in the container." alt="" coords="647,239,831,281"/>
+<area shape="poly" id="edge13_Node000003_Node000014" title=" " alt="" coords="587,213,650,231,648,236,585,218"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_status_code_exception.html#ab2d7dd595e5c89101434fc0a8b1a6ea2" title="Get status code." alt="" coords="883,5,1084,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="782,103,882,58,898,51,900,56,884,62,784,107"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_cartesian_vector.html#a65718b210b9077c2212572dff5e7a41b" title="Get a unit vector in the direction of the cartesian vector." alt="" coords="899,72,1068,115"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="823,113,883,104,884,110,824,118"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_cluster_fit_result.html#acaca623f18cf1538e640d9676e9bb979" title="Reset the cluster fit result." alt="" coords="899,139,1068,181"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="824,135,884,144,883,149,823,141"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_cluster_fit_result.html#a096205aeb0db4da435ec9805efc9f75e" title="Set the fit success flag." alt="" coords="899,205,1068,248"/>
+<area shape="poly" id="edge11_Node000004_Node000012" title=" " alt="" coords="810,146,836,158,860,175,884,191,896,197,894,201,881,196,857,179,833,162,808,151"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_cartesian_vector.html#a9ad3f33ea1192ed990e40786864af672" title="Get the magnitude." alt="" coords="1138,72,1306,115"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1068,91,1122,91,1122,96,1068,96"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_cartesian_vector.html#a311c121184ef7085d43e58f5f2fce3b7" title="Get the magnitude squared." alt="" coords="1359,72,1528,115"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="1306,91,1344,91,1344,96,1306,96"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_pandora_input_type.html#a41ce2e807f3031f281deb5d614c5765a" title="Reset the pandora type." alt="" coords="1132,139,1311,181"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="1068,157,1117,157,1117,163,1068,163"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_cartesian_vector.html#a14daa5dbf0e476995b39f8db43827597" title="Set the values of cartesian vector components." alt="" coords="1138,205,1306,248"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="1063,179,1129,198,1128,203,1061,184"/>
+</map>

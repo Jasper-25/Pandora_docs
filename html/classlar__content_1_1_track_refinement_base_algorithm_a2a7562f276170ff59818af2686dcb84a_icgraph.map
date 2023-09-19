@@ -1,0 +1,5 @@
+<map id="lar_content::TrackRefinementBaseAlgorithm::IsClusterRemnantDisconnected" name="lar_content::TrackRefinementBaseAlgorithm::IsClusterRemnantDisconnected">
+<area shape="rect" id="Node000001" title="Whether a remnant cluster is considered to be disconnected and therefore should undergo further fragm..." alt="" coords="316,5,533,64"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_track_refinement_base_algorithm.html#aaea23ceb1d23fc26007d6305b9bd14be" title="Process the remnant clusters separating those that stradle the main track." alt="" coords="5,13,268,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="300,37,268,37,268,32,300,32"/>
+</map>

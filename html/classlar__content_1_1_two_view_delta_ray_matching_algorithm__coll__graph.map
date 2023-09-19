@@ -1,0 +1,17 @@
+<map id="lar_content::TwoViewDeltaRayMatchingAlgorithm" name="lar_content::TwoViewDeltaRayMatchingAlgorithm">
+<area shape="rect" id="Node000001" title="TwoViewDeltaRayMatchingAlgorithm class." alt="" coords="1599,55,1773,97"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_n_view_delta_ray_matching_algorithm.html" title=" " alt="" coords="1267,47,1549,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1565,73,1598,73,1598,79,1565,79"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_n_view_matching_algorithm.html" title="NViewMatchingAlgorithm class." alt="" coords="840,5,1023,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1039,35,1267,59,1266,64,1038,40"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_matching_base_algorithm.html" title="MatchingBaseAlgorithm class." alt="" coords="606,5,782,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="798,24,839,24,839,29,798,29"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_algorithm.html" title="Algorithm class. Algorithm addresses are held only by the algorithm manager. They have a fully define..." alt="" coords="426,13,557,40"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="572,24,606,24,606,29,572,29"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_process.html" title="Process class." alt="" coords="254,13,377,40"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="393,24,426,24,426,29,393,29"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_pandora.html" title="Pandora class." alt="" coords="5,13,129,40"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="144,24,253,24,253,29,144,29"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_delta_ray_matching_containers.html" title="DeltaRayMatchingContainers class." alt="" coords="832,72,1031,115"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="1047,87,1267,78,1267,84,1047,92"/>
+</map>

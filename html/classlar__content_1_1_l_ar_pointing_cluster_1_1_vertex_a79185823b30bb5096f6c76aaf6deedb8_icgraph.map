@@ -1,0 +1,66 @@
+<map id="lar_content::LArPointingCluster::Vertex::GetPosition" name="lar_content::LArPointingCluster::Vertex::GetPosition">
+<area shape="rect" id="Node000001" title="Get the vertex position." alt="" coords="1423,449,1607,492"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_stitching_helper.html#af53caf07c587789d1259c7b5ac48072f" title="Calculate X0 for a pair of vertices." alt="" coords="1176,5,1340,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1510,434,1501,357,1480,256,1462,204,1439,152,1410,104,1373,62,1358,50,1339,42,1342,37,1360,46,1377,58,1414,101,1444,150,1467,202,1485,255,1507,356,1515,434"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_stitching_helper.html#ab8501ac1d0db79ecc858c84b346592f9" title="Given a pair of pointing clusters, find the pair of vertices with smallest yz&#45;separation." alt="" coords="1168,72,1348,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1506,435,1493,371,1468,290,1451,248,1429,207,1404,169,1373,135,1346,117,1349,113,1377,131,1408,166,1434,205,1456,246,1473,289,1498,369,1511,434"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_vertex_helper.html#a5bd0ae3fd8ba832a4731c823db074a56" title="Get the direction of the cluster in z, using a projection of the provided vertex." alt="" coords="868,132,1057,175"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1504,435,1489,381,1464,317,1446,284,1426,253,1401,226,1373,202,1337,181,1298,165,1256,153,1214,146,1131,140,1057,143,1057,138,1131,135,1215,140,1257,148,1299,160,1339,176,1377,198,1405,222,1430,250,1451,281,1468,314,1494,379,1509,433"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_l_ar_pointing_cluster_helper.html#a3c6c8d40c831aaa5a1d3fdc049aa4cd1" title="Calculate impact parameters between a pair of pointing vertices." alt="" coords="1141,315,1375,357"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1473,442,1427,409,1374,378,1331,360,1333,355,1376,374,1429,405,1476,437"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_l_ar_pointing_cluster_helper.html#ab7e14e21b0f660905af9ee75054ace5a" title="Calculate impact parameters between a pointing cluster vertex and a target position." alt="" coords="845,199,1080,241"/>
+<area shape="poly" id="edge24_Node000001_Node000008" title=" " alt="" coords="1501,435,1484,389,1458,336,1421,285,1399,263,1374,245,1339,228,1303,215,1227,200,1150,197,1080,202,1080,196,1150,192,1227,195,1305,210,1342,223,1376,240,1402,259,1425,282,1462,333,1489,387,1506,433"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_l_ar_pointing_cluster_helper.html#a6212a47d09201479190926d36c365c51" title="Calculate impact parameters between a pair of pointing vertices using yz&#45;coordinates." alt="" coords="832,265,1093,308"/>
+<area shape="poly" id="edge25_Node000001_Node000009" title=" " alt="" coords="1498,436,1479,397,1452,354,1417,312,1396,295,1374,281,1333,264,1290,253,1245,248,1200,246,1114,253,1041,267,1040,262,1114,248,1200,241,1245,242,1291,248,1335,259,1376,276,1400,291,1421,309,1456,350,1484,395,1503,434"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_l_ar_pointing_cluster_helper.html#a76ff83cf0a078a8c5e74c29ac445e4f9" title="Get intersection of vertex with target cluster." alt="" coords="865,332,1060,375"/>
+<area shape="poly" id="edge28_Node000001_Node000010" title=" " alt="" coords="1430,447,1374,432,1209,397,1060,371,1061,366,1210,392,1376,427,1432,442"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_l_ar_pointing_cluster_helper.html#aa792936e96ceb90b195ca0e633b73e02" title="Whether pointing vertex is emitted from a given position." alt="" coords="877,467,1048,509"/>
+<area shape="poly" id="edge34_Node000001_Node000011" title=" " alt="" coords="1407,477,1049,488,1049,483,1407,471"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_end_associated_pfos_tool.html#afaed9c5369e63ec8dda7c6ebd008d1d0" title="Run the algorithm tool." alt="" coords="565,533,746,576"/>
+<area shape="poly" id="edge37_Node000001_Node000013" title=" " alt="" coords="1458,501,1418,517,1376,529,1290,545,1203,556,1029,567,871,568,747,564,747,558,871,563,1029,562,1202,550,1289,539,1374,524,1416,512,1456,496"/>
+<area shape="rect" id="Node000014" href="$classlar__content_1_1_vertex_associated_pfos_tool.html#a5baf85eaaf90d97effceabe73e0df55a" title="Run the algorithm tool." alt="" coords="558,467,754,509"/>
+<area shape="poly" id="edge38_Node000001_Node000014" title=" " alt="" coords="1408,492,1290,509,1146,523,989,530,910,529,832,524,754,513,755,507,833,519,910,524,989,525,1146,518,1290,504,1407,487"/>
+<area shape="rect" id="Node000015" href="$classlar__content_1_1_l_ar_pointing_cluster_helper.html#aa23153c2605f276b88b21a3f3d9c5546" title="Whether pointing vertex is adjacent to a given position." alt="" coords="882,400,1043,443"/>
+<area shape="poly" id="edge35_Node000001_Node000015" title=" " alt="" coords="1407,464,1043,431,1043,426,1408,458"/>
+<area shape="rect" id="Node000020" href="$classlar__content_1_1_l_ar_pointing_cluster_helper.html#ae133f38aa3a232100e6cacd331c94f0c" title="Get intersection of two vertices." alt="" coords="1160,659,1356,701"/>
+<area shape="poly" id="edge26_Node000001_Node000020" title=" " alt="" coords="1489,506,1439,561,1377,618,1342,641,1308,660,1305,656,1340,637,1373,614,1436,557,1485,502"/>
+<area shape="rect" id="Node000021" href="$classlar__content_1_1_l_ar_pointing_cluster.html#aeaaf9dcfa5db9f8fbe001a9672f95429" title="Get length squared of pointing cluster." alt="" coords="1169,725,1347,768"/>
+<area shape="poly" id="edge29_Node000001_Node000021" title=" " alt="" coords="1505,508,1488,555,1460,611,1424,667,1402,693,1377,715,1349,732,1346,727,1373,711,1398,689,1419,664,1456,608,1483,553,1500,506"/>
+<area shape="rect" id="Node000023" href="$classlar__content_1_1_l_ar_pointing_cluster_helper.html#a7aaefbd44d37e29940b0fbde2048f2c9" title="Calculate distance squared between inner and outer vertices of pointing cluster." alt="" coords="1150,792,1366,835"/>
+<area shape="poly" id="edge31_Node000001_Node000023" title=" " alt="" coords="1510,508,1496,568,1471,641,1453,680,1432,717,1406,752,1377,782,1360,794,1357,789,1373,778,1402,748,1427,714,1448,677,1466,639,1491,566,1505,507"/>
+<area shape="rect" id="Node000025" href="$classlar__content_1_1_three_d_kink_base_tool.html#a24cd33884547f9697e613a0dbda7c08b" title="Whether pointing cluster labelled A extends to lowest x positions (as opposed to that labelled B)" alt="" coords="1163,859,1353,901"/>
+<area shape="poly" id="edge33_Node000001_Node000025" title=" " alt="" coords="1514,508,1503,580,1480,671,1462,719,1440,766,1411,810,1377,849,1355,864,1352,859,1373,845,1407,807,1435,764,1457,717,1475,670,1498,579,1508,507"/>
+<area shape="rect" id="Node000026" href="$classlar__content_1_1_branch_associated_pfos_tool.html#a258a2fcb4ab453d3e3ea1dc5f4b85f0e" title="Run the algorithm tool." alt="" coords="1158,925,1358,968"/>
+<area shape="poly" id="edge36_Node000001_Node000026" title=" " alt="" coords="1516,508,1509,591,1501,644,1489,700,1471,758,1447,815,1416,868,1377,915,1360,928,1356,924,1373,911,1412,865,1443,813,1466,756,1484,699,1496,643,1504,590,1511,507"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_vertex_based_pfo_mop_up_algorithm.html#a3047d018dc082308975105cbb449f0ee" title="Get cluster association details between a vertex&#45;associated cluster and a non&#45;vertex associated daugh..." alt="" coords="553,124,759,183"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="853,156,759,156,759,151,853,151"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_vertex_based_pfo_mop_up_algorithm.html#aec0d9d80e8d066d44317529cf57f6b8b" title="Get pfo association details between a vertex&#45;associated pfo and a non&#45;vertex associated daughter cand..." alt="" coords="224,132,477,175"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="537,156,477,156,477,151,537,151"/>
+<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="1227,305,1168,245,1131,215,1091,189,1056,174,1058,169,1094,184,1135,210,1172,241,1231,301"/>
+<area shape="poly" id="edge8_Node000007_Node000007" title=" " alt="" coords="1300,302,1284,296,1258,293,1233,295,1218,300,1213,306,1214,313,1209,315,1207,305,1216,296,1232,290,1258,288,1285,290,1302,297"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="1205,309,1151,282,1092,256,1057,244,1059,239,1094,251,1153,277,1207,304"/>
+<area shape="poly" id="edge10_Node000007_Node000009" title=" " alt="" coords="1125,317,1093,311,1094,306,1126,311"/>
+<area shape="poly" id="edge11_Node000007_Node000010" title=" " alt="" coords="1126,346,1061,350,1060,345,1125,341"/>
+<area shape="poly" id="edge12_Node000007_Node000011" title=" " alt="" coords="1223,369,1165,415,1094,457,1050,473,1048,468,1092,452,1162,410,1220,365"/>
+<area shape="poly" id="edge16_Node000007_Node000015" title=" " alt="" coords="1174,365,1093,389,1044,403,1042,398,1092,384,1173,360"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_shower_growing_algorithm.html#a701ca87340d0a0508f0337fe98dffb84" title="Whether a pointing cluster is assciated with a provided 2D vertex projection." alt="" coords="557,400,754,443"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="861,469,754,445,755,440,862,464"/>
+<area shape="poly" id="edge14_Node000011_Node000013" title=" " alt="" coords="862,512,747,538,746,532,861,507"/>
+<area shape="poly" id="edge15_Node000011_Node000014" title=" " alt="" coords="861,491,754,491,754,485,861,485"/>
+<area shape="poly" id="edge17_Node000015_Node000012" title=" " alt="" coords="867,424,755,424,755,419,867,419"/>
+<area shape="poly" id="edge22_Node000015_Node000013" title=" " alt="" coords="868,440,834,457,819,472,811,489,802,507,786,523,748,542,746,537,783,519,798,504,806,487,814,469,831,453,866,435"/>
+<area shape="poly" id="edge23_Node000015_Node000014" title=" " alt="" coords="868,444,755,469,754,464,867,439"/>
+<area shape="rect" id="Node000016" href="$classlar__content_1_1_vertex_based_pfo_mop_up_algorithm.html#a4598da4cf6c03627ca0c533dd37126a1" title="Whether a specified pfo is associated with a specified vertex." alt="" coords="527,333,784,376"/>
+<area shape="poly" id="edge18_Node000015_Node000016" title=" " alt="" coords="867,403,756,379,758,374,868,398"/>
+<area shape="rect" id="Node000017" href="$classlar__content_1_1_vertex_based_pfo_mop_up_algorithm.html#a71ad6b63314e127c9561973be35d8dfb" title="Get the list of input pfos and divide them into vertex&#45;associated and non&#45;vertex&#45;associated lists." alt="" coords="241,367,460,409"/>
+<area shape="poly" id="edge19_Node000016_Node000017" title=" " alt="" coords="512,373,461,379,460,373,511,368"/>
+<area shape="rect" id="Node000019" href="$classlar__content_1_1_vertex_based_pfo_mop_up_algorithm.html#ae27eac53ad717c7bd9469957f9fc7e11" title="Whether a specified pfo is associated with a specified vertex." alt="" coords="222,300,479,343"/>
+<area shape="poly" id="edge21_Node000016_Node000019" title=" " alt="" coords="511,342,479,338,480,333,512,336"/>
+<area shape="rect" id="Node000018" href="$classlar__content_1_1_vertex_based_pfo_mop_up_algorithm.html#a9e188aee8a6b3ced1eb47c31b68bfd18" title="Run the algorithm." alt="" coords="5,367,174,409"/>
+<area shape="poly" id="edge20_Node000017_Node000018" title=" " alt="" coords="225,391,174,391,174,385,225,385"/>
+<area shape="poly" id="edge27_Node000020_Node000020" title=" " alt="" coords="1300,646,1284,640,1258,637,1233,639,1218,644,1213,650,1214,657,1209,659,1207,649,1216,640,1232,634,1258,632,1285,634,1302,641"/>
+<area shape="rect" id="Node000022" href="$classlar__content_1_1_l_ar_pointing_cluster.html#a9bd82163b7cf5c09074421cf8c5fee14" title="Get length of pointing cluster." alt="" coords="882,725,1043,768"/>
+<area shape="poly" id="edge30_Node000021_Node000022" title=" " alt="" coords="1153,749,1043,749,1043,744,1153,744"/>
+<area shape="rect" id="Node000024" href="$classlar__content_1_1_l_ar_pointing_cluster_helper.html#a495a09d2fe54a6e0b5eebbdbe46a65f7" title="Calculate distance squared between inner and outer vertices of pointing cluster." alt="" coords="879,792,1046,835"/>
+<area shape="poly" id="edge32_Node000023_Node000024" title=" " alt="" coords="1134,816,1047,816,1047,811,1134,811"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="pandora::OrderedCaloHitList::Reset" name="pandora::OrderedCaloHitList::Reset">
+<area shape="rect" id="Node000001" title="Reset the ordered calo hit list, emptying its contents." alt="" coords="5,5,190,48"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_ordered_calo_hit_list.html#ad8b80b08f3ded34754c0811fe52f2bcf" title="Returns whether the map container is empty (i.e. whether its size is 0)" alt="" coords="238,5,422,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,24,222,24,222,29,190,29"/>
+</map>

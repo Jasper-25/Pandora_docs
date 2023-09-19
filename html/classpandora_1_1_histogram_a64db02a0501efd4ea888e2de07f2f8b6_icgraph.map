@@ -1,0 +1,35 @@
+<map id="pandora::Histogram::GetMinBinNumber" name="pandora::Histogram::GetMinBinNumber">
+<area shape="rect" id="Node000001" title="Get the min bin number of the histogram (ignores overflow and underflow bins)" alt="" coords="594,277,730,320"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_histogram.html#a0dde09fb7e800ebc67c83a16b30a1544" title="Get the cumulative sum of bin entries in the histogram (ignores overflow and underflow bins)" alt="" coords="391,29,531,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="648,264,633,223,611,175,581,128,545,86,529,75,532,70,548,82,586,125,615,173,638,221,653,262"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_histogram.html#a218ff1c17956da88976f163ad0d3191c" title="Get the maximum value in the histogram and the corresponding bin number (ignores overflow and underfl..." alt="" coords="394,120,528,163"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="634,267,595,221,545,177,525,165,528,161,548,172,599,217,638,263"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_histogram.html#a16073333ac9ea91fe66bc9ddd8c79145" title="Get the mean x value of entries in the histogram (ignores overflow and underflow bins)" alt="" coords="394,211,528,253"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="581,275,527,257,529,251,583,270"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_histogram.html#a25a2c5eb44b89917960fc848f422fcfe" title="Get the mean x value of entries in a specified range of the histogram (ignores overflow and underflow..." alt="" coords="394,277,528,320"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="579,301,529,301,529,296,579,296"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_histogram.html#a82d8f8fcb1ddc74e85612ab52efa825e" title="Get the standard deviation of entries in the histogram (ignores overflow and underflow bins)" alt="" coords="381,368,542,411"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="600,329,511,370,509,365,598,324"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_histogram.html#a5b1e04303d309e059dc48efdbc0cc8e2" title="Get the standard deviation of x entries in a specified range of the histogram (ignores overflow and u..." alt="" coords="381,435,542,477"/>
+<area shape="poly" id="edge10_Node000001_Node000007" title=" " alt="" coords="638,334,599,380,548,425,528,436,525,432,545,420,595,377,634,331"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_histogram.html#adefebb1d1e4b28f5d0fea01be43e11cd" title="Get the underflow bin number of the histogram." alt="" coords="376,501,546,544"/>
+<area shape="poly" id="edge11_Node000001_Node000008" title=" " alt="" coords="650,335,634,372,612,413,583,455,548,491,531,503,528,499,545,487,579,451,607,410,629,369,645,333"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="493,16,481,10,461,8,442,10,431,15,426,21,428,28,423,29,421,19,428,10,441,5,461,3,483,5,496,11"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="493,107,481,101,461,99,442,101,431,105,426,111,428,119,423,120,421,110,428,101,441,95,461,93,483,96,496,102"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="493,197,481,192,461,189,442,191,431,196,426,202,428,210,423,211,421,201,428,192,441,186,461,184,483,186,496,193"/>
+<area shape="poly" id="edge9_Node000006_Node000006" title=" " alt="" coords="493,355,481,349,461,347,442,349,431,353,426,359,428,367,423,368,421,358,428,349,441,343,461,341,483,344,496,350"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_histogram.html#a305a7ef85212d38d6848ca7e495d9783" title="Get the bin number for a specified value." alt="" coords="191,335,325,377"/>
+<area shape="poly" id="edge12_Node000008_Node000009" title=" " alt="" coords="377,494,374,491,356,466,349,440,343,416,326,391,312,380,315,376,330,388,348,414,354,439,361,463,378,488,381,490"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_histogram.html#a724113ae87c3b196515c33245131c719" title="Get the cumulative sum of bin entries in a specified range of the histogram (includes overflow and un..." alt="" coords="188,401,328,444"/>
+<area shape="poly" id="edge14_Node000008_Node000011" title=" " alt="" coords="385,497,375,492,350,475,327,458,305,447,308,442,329,454,353,471,377,487,387,492"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_histogram.html#acbfa30052db6ad7ba0e7a1eeb1bf7e9f" title="Get the maximum value in a specified range of the histogram and the corresponding bin numbers (includ..." alt="" coords="191,468,325,511"/>
+<area shape="poly" id="edge15_Node000008_Node000012" title=" " alt="" coords="361,509,325,503,326,498,362,504"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_histogram.html#a73201723b9a300db84827db9e969c2d9" title="Constructor." alt="" coords="191,535,325,577"/>
+<area shape="poly" id="edge16_Node000008_Node000013" title=" " alt="" coords="362,542,326,548,325,542,361,536"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_histogram.html#a76241a42572f8cdaee9097eced93fa88" title="Set the contents of a specified bin." alt="" coords="191,601,325,644"/>
+<area shape="poly" id="edge17_Node000008_Node000014" title=" " alt="" coords="405,554,329,592,306,603,304,598,327,587,403,549"/>
+<area shape="rect" id="Node000015" href="$classpandora_1_1_histogram.html#aad92946c82d5f00e63d5394878401950" title="Write the histogram to an xml document." alt="" coords="191,668,325,711"/>
+<area shape="poly" id="edge18_Node000008_Node000015" title=" " alt="" coords="435,558,388,608,330,658,311,670,308,665,326,654,384,604,431,554"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_histogram.html#a349cb7822c54fdf75111db71c00acacd" title="Add an entry to the histogram." alt="" coords="5,335,140,377"/>
+<area shape="poly" id="edge13_Node000009_Node000010" title=" " alt="" coords="175,359,140,359,140,353,175,353"/>
+</map>

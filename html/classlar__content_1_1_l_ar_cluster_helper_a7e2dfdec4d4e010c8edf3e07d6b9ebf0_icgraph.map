@@ -1,0 +1,23 @@
+<map id="lar_content::LArClusterHelper::SortCoordinatesByPosition" name="lar_content::LArClusterHelper::SortCoordinatesByPosition">
+<area shape="rect" id="Node000001" title="Sort cartesian vectors by their position (use Z, followed by X, followed by Y)" alt="" coords="737,255,929,297"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_cluster_helper.html#a47df1d15358b292715e5bb31a6bc56a7" title="Get vector of hit coordinates from an input cluster." alt="" coords="493,188,684,231"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="737,253,668,234,670,229,738,247"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_l_ar_cluster_helper.html#acb971b1b779f84a1453c7e8f9b7db0a8" title="Get positions of the two most distant calo hits in an ordered calo hit list (ordered by Z)" alt="" coords="493,255,684,297"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="722,279,684,279,684,273,722,273"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_cluster_association.html#afdce031a5003187106cd4215951d79d7" title=" " alt="" coords="487,321,689,364"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="738,305,670,323,668,318,737,299"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_simple_cone.html#a17f8cc2364e642cc62a5b933f76e6f3a" title="Get the fraction of hits in a provided cluster that are bounded within the cone, using provided cone ..." alt="" coords="251,5,415,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="560,178,507,119,474,88,438,62,414,51,417,46,440,58,477,84,511,115,564,174"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_vertex_selection_base_algorithm_1_1_shower_cluster.html#adfccd6d09a800cef174ca68726452267" title="Get the coordinate vector for a cluster list." alt="" coords="227,72,439,131"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="525,184,438,145,410,134,412,129,440,140,527,179"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_l_ar_pfo_helper.html#a43e4a3348ea595b33bc4c654204775cd" title="Get a list of coordinates of a particular hit type from an input pfos." alt="" coords="248,155,418,197"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="477,197,418,190,418,184,477,192"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_simple_cone.html#a26fb4f8bf020876df0dafe95f6355203" title="Get the mean transverse distance to all hits in a cluster (whether contained or not)" alt="" coords="251,221,415,264"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="477,226,415,235,415,229,477,221"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_two_d_sliding_fit_result.html#aec4a3fcb2a5a2367a419ae480da16a44" title=" " alt="" coords="231,288,435,331"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="501,239,488,245,465,262,440,278,413,290,411,285,438,274,462,257,486,240,498,234"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a2d02cb529201041ac4bb5f26b9ef6f6b" title=" " alt="" coords="231,355,435,397"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="493,242,489,245,478,257,472,268,466,293,459,319,452,332,441,345,424,356,421,352,437,341,448,329,455,317,460,292,467,267,474,253,485,241,489,237"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_l_ar_pfo_helper.html#aaa2866ce1234219a725a01c52047ec1f" title="Perform PCA analysis on Pfo and return results." alt="" coords="5,155,179,197"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="232,179,179,179,179,173,232,173"/>
+</map>

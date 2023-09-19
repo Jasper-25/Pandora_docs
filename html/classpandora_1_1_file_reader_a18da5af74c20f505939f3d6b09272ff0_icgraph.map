@@ -1,0 +1,19 @@
+<map id="pandora::FileReader::GoToNextContainer" name="pandora::FileReader::GoToNextContainer">
+<area shape="rect" id="Node000001" title="Skip to next container in the file." alt="" coords="821,117,963,160"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_file_reader.html#ae65283cafd49ab95eb55a2f8397d2b5b" title="Skip to next event container in the file." alt="" coords="632,84,769,127"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="805,126,769,120,770,115,806,121"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_file_reader.html#a4e6c1a050fd6ce3cfca6c0382330b08d" title="Skip to next geometry container in the file." alt="" coords="628,151,773,193"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="806,156,773,162,772,157,805,151"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_file_reader.html#a62bf87f3eafb662f236ea17d6fbe828c" title="Read an entire pandora event from the file, recreating the stored objects." alt="" coords="443,84,580,127"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="616,108,581,108,581,103,616,103"/>
+<area shape="rect" id="Node000004" href="$class_event_reading_algorithm.html#a2be4fd1af24ea4e821a3194edf9d18da" title="Proceed to process next event file named in the input list." alt="" coords="240,29,395,72"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="427,84,395,75,396,70,429,79"/>
+<area shape="rect" id="Node000005" href="$class_event_reading_algorithm.html#a9c9f7cf19b90450647d890415cbdda33" title="Run the algorithm." alt="" coords="5,67,192,93"/>
+<area shape="poly" id="edge6_Node000003_Node000005" title=" " alt="" coords="427,103,192,88,192,83,428,98"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="349,16,337,10,317,8,299,10,288,15,284,21,285,28,280,29,279,19,285,10,298,5,317,3,338,5,351,11"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="224,66,193,70,192,65,224,61"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_file_reader.html#a719b4f55fbd9135e3b42d8de1c4bc92c" title="Read the current geometry information from the file." alt="" coords="443,151,580,193"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="612,175,581,175,581,169,612,169"/>
+<area shape="rect" id="Node000008" href="$class_event_reading_algorithm.html#ab9894e20210af7ac5843642aed2338c3" title="Perform any operations that must occur after reading settings, but before running the process." alt="" coords="240,151,395,193"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="427,175,395,175,395,169,427,169"/>
+</map>

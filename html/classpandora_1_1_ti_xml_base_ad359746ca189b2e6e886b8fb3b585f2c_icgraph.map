@@ -1,0 +1,7 @@
+<map id="pandora::TiXmlBase::Print" name="pandora::TiXmlBase::Print">
+<area shape="rect" id="Node000001" title=" " alt="" coords="219,39,355,81"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_ti_xml_element.html#ab4a129d8fd6e61efd06c83f1ecdc453e" title=" " alt="" coords="11,5,165,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,49,165,42,166,37,204,43"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_ti_xml_document.html#aa6308a74b34e9470c8653890e15ec568" title="Print this Document to a FILE stream." alt="" coords="5,72,171,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="204,77,172,82,171,77,203,71"/>
+</map>

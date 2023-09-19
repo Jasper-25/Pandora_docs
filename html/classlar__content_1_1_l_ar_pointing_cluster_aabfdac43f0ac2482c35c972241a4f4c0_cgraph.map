@@ -1,0 +1,11 @@
+<map id="lar_content::LArPointingCluster::LArPointingCluster" name="lar_content::LArPointingCluster::LArPointingCluster">
+<area shape="rect" id="Node000001" title="Constructor." alt="" coords="5,64,184,107"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_cluster_helper.html#a434d03423e67ad1f95790177deb8501e" title="Get the hit type associated with a two dimensional cluster." alt="" coords="232,64,423,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,83,216,83,216,88,184,88"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_ordered_calo_hit_list.html#a42852bab5395fc3e023ff0bb35af9540" title="Returns a const iterator referring to the first element in the ordered calo hit list." alt="" coords="481,5,665,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="419,61,465,50,466,55,420,66"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_cluster.html#a407bc6062d1c99301420bb87e517db18" title="Get the number of calo hits in the cluster." alt="" coords="471,72,674,99"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="424,83,455,83,455,88,424,88"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_cluster.html#a7d339731c79e90e04b56d6746a641fc8" title="Get the ordered calo hit list." alt="" coords="477,123,668,165"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="420,105,466,116,465,121,419,110"/>
+</map>

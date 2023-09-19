@@ -1,0 +1,6 @@
+<map id="lar_content::TwoDSlidingFitResult::GetTransverseProjection" name="lar_content::TwoDSlidingFitResult::GetTransverseProjection">
+<area shape="rect" id="Node000001" title="Get projected position for a given input x coordinate and fit segment." alt="" coords="5,29,228,72"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a3064f2de2921d1c6dafab3c4ae87a6a1" title="Get global fit position for a given longitudinal coordinate." alt="" coords="276,29,477,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,48,260,48,260,53,228,53"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="327,29,325,19,334,10,351,5,376,3,404,5,421,11,419,16,403,10,376,8,352,10,336,15,331,21,333,28"/>
+</map>

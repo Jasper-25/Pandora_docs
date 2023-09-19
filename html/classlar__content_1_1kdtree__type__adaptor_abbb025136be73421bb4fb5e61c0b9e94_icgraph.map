@@ -1,0 +1,11 @@
+<map id="lar_content::kdtree_type_adaptor::position" name="lar_content::kdtree_type_adaptor::position">
+<area shape="rect" id="Node000001" title="position" alt="" coords="749,47,906,89"/>
+<area shape="rect" id="Node000002" href="$namespacelar__content.html#a0fa53f8f844dfe8a3aee6d08dcad0036" title="fill_and_bound_2d_kd_tree" alt="" coords="567,13,701,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="734,55,701,49,702,44,735,49"/>
+<area shape="rect" id="Node000005" href="$namespacelar__content.html#aea3f37ad4ab2a6d35ae4b8bf5410d2b3" title="fill_and_bound_3d_kd_tree" alt="" coords="567,80,701,123"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="735,87,702,92,701,87,734,81"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_trained_vertex_selection_algorithm.html#ad285b0f7255ac0ec7850c5806a5c6085" title="Populate kd tree with information about hits in a provided list of clusters." alt="" coords="289,13,519,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="551,37,519,37,519,32,551,32"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_trained_vertex_selection_algorithm.html#aac3a43972b40bcba236703235f068117" title="Calculate the shower cluster map for a cluster list." alt="" coords="5,5,241,64"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="273,37,241,37,241,32,273,32"/>
+</map>

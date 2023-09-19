@@ -1,0 +1,5 @@
+<map id="lar_content::LArDiscreteProbabilityHelper::CalculateCorrelationCoefficient" name="lar_content::LArDiscreteProbabilityHelper::CalculateCorrelationCoefficient">
+<area shape="rect" id="Node000001" title="Calculate the correlation coefficient between two datasets." alt="" coords="5,5,187,64"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_discrete_probability_helper.html#adf0867b77eff0927df524f04a4fec7e8" title="Calculate the mean of a dataset." alt="" coords="235,13,448,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,32,219,32,219,37,187,37"/>
+</map>

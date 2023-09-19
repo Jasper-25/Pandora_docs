@@ -1,0 +1,7 @@
+<map id="lar_content::LArMonitoringHelper::GetOrderedMCParticleVector" name="lar_content::LArMonitoringHelper::GetOrderedMCParticleVector">
+<area shape="rect" id="Node000001" title="Order input MCParticles by their number of hits." alt="" coords="283,39,518,81"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_cosmic_ray_tagging_monitoring_tool.html#aa3904805678648d14de635dcb1b1e588" title="Find the list of ambiguous pfos (could represent cosmic&#45;ray muons or neutrinos)" alt="" coords="5,5,235,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="267,47,235,43,235,38,267,42"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_event_validation_base_algorithm.html#a3ad9a9778a90a1a413714106e6da363f" title="Apply an interpretative matching procedure to the comprehensive matches in the provided validation in..." alt="" coords="13,72,227,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="267,78,228,83,227,78,267,73"/>
+</map>

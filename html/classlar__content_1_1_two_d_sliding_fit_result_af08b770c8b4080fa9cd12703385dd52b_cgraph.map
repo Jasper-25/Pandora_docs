@@ -1,0 +1,10 @@
+<map id="lar_content::TwoDSlidingFitResult::GetGlobalFitProjection" name="lar_content::TwoDSlidingFitResult::GetGlobalFitProjection">
+<area shape="rect" id="Node000001" title="Get projected position on global fit for a given position vector." alt="" coords="5,63,218,105"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a3064f2de2921d1c6dafab3c4ae87a6a1" title="Get global fit position for a given longitudinal coordinate." alt="" coords="266,29,467,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="218,67,250,63,251,68,219,73"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a25ffcc10ccdc78ccd2168f610f83cd55" title="Get local sliding fit coordinates for a given global position." alt="" coords="276,96,457,139"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="219,95,261,101,260,106,218,101"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="322,29,320,19,328,10,343,5,366,3,391,5,406,11,404,16,390,10,366,8,344,10,331,15,326,21,327,28"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_cartesian_vector.html#a808964415bdc48dde539af3363b63a24" title="Get the dot product of the cartesian vector with a second cartesian vector." alt="" coords="515,96,683,139"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="457,115,499,115,499,120,457,120"/>
+</map>

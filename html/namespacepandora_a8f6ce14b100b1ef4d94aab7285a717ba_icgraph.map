@@ -1,0 +1,17 @@
+<map id="pandora::TypeToStringPrecision" name="pandora::TypeToStringPrecision">
+<area shape="rect" id="Node000001" title=" " alt="" coords="506,85,711,112"/>
+<area shape="rect" id="Node000002" href="$namespacepandora.html#aa702d03259698db44e8087c035bd8d72" title=" " alt="" coords="253,5,458,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="549,83,457,53,400,35,402,30,459,48,551,78"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_xml_file_writer.html#aee9dca09b3dcd9a567b0c85891d98fe9" title=" " alt="" coords="29,7,181,49"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="493,85,181,41,182,36,494,80"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_xml_file_writer.html#a016579e54bd8cef837de7df4208cea24" title="Write a variable to the file." alt="" coords="279,107,432,149"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="491,115,432,122,432,117,490,110"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_xml_file_writer.html#a05fcd3769a7ecc7c7457fe2e45f576d4" title=" " alt="" coords="29,207,181,249"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="567,121,516,143,459,164,386,183,312,199,182,221,181,216,311,194,385,178,457,159,514,139,565,116"/>
+<area shape="poly" id="edge6_Node000004_Node000003" title=" " alt="" coords="280,103,251,90,204,64,175,52,177,47,206,59,254,86,282,98"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_l_ar_calo_hit_factory.html#a51d0a6755f6fa51443bc0c01d59e78dd" title="Persist any additional (derived class only) object parameters using the specified file writer." alt="" coords="5,73,205,116"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="263,118,205,111,205,105,264,113"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_l_ar_m_c_particle_factory.html#a4ef593ac829d862dc5c80db943a6db53" title="Persist any additional (derived class only) object parameters using the specified file writer." alt="" coords="16,140,194,183"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="264,143,194,152,194,147,264,137"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="290,158,254,174,206,197,175,209,173,204,204,192,252,170,288,153"/>
+</map>

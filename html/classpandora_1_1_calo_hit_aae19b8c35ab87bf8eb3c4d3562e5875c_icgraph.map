@@ -1,0 +1,13 @@
+<map id="pandora::CaloHit::AlterMetadata" name="pandora::CaloHit::AlterMetadata">
+<area shape="rect" id="Node000001" title="Alter the metadata information stored in a calo hit." alt="" coords="509,80,715,107"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_master_algorithm.html#afc9d27964a916221cf42c0c88680745c" title="Create a new calo hit in the current pandora instance, based upon the provided input calo hit." alt="" coords="273,5,461,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="545,78,447,51,449,46,546,73"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_master_algorithm.html#a30245ea45f969b906fdbafb1b7054a9b" title="Run cosmic&#45;ray hit removal, freeing hits in ambiguous pfos for further processing." alt="" coords="273,72,461,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="493,96,461,96,461,91,493,91"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_master_algorithm.html#a9edec39d118d270efac4c3f84f89e020" title="Shift a Pfo hierarchy by a specified x0 value." alt="" coords="273,139,461,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="546,114,449,141,447,135,545,109"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_master_algorithm.html#a5e4808ff37d0fdeda42d718673ac14a7" title="Recreate a specified pfo in the current pandora instance." alt="" coords="21,5,209,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="257,29,210,29,210,24,257,24"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_master_algorithm.html#ab61b051a14d2431fa04900e52277ce96" title="Run the algorithm." alt="" coords="5,80,225,107"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="257,96,225,96,225,91,257,91"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="lar_content::LArMCParticleHelper::GetMCPrimaryMap" name="lar_content::LArMCParticleHelper::GetMCPrimaryMap">
+<area shape="rect" id="Node000001" title="Get mapping from individual mc particles (in a provided list) and their primary parent mc particles." alt="" coords="923,39,1101,81"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_mva_pfo_characterisation_algorithm.html#aa9ff9dd7f75bb29fd25d73fd8050a2f1" title="Whether pfo is identified as a clear track." alt="" coords="321,5,550,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="908,57,550,36,550,31,908,51"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a32aa66741fdc5835f46ec0353ec7b1ca" title="Select target, reconstructable mc particles that match given criteria." alt="" coords="607,68,875,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="908,74,876,77,875,72,907,69"/>
+<area shape="poly" id="edge6_Node000003_Node000002" title=" " alt="" coords="619,67,542,51,543,46,620,62"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_cosmic_ray_tagging_monitoring_tool.html#aa3904805678648d14de635dcb1b1e588" title="Find the list of ambiguous pfos (could represent cosmic&#45;ray muons or neutrinos)" alt="" coords="321,72,550,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="591,94,550,95,550,89,591,89"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_trained_vertex_selection_algorithm.html#a8830901c9a95cd0f1e2f223337abe492" title="Get the interaction type string." alt="" coords="312,139,559,181"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="631,117,531,141,530,135,630,112"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_trained_vertex_selection_algorithm.html#a19474126585ba332e454985b680c68cd" title="Produce the region and vertex training sets." alt="" coords="5,139,264,181"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="296,163,264,163,264,157,296,157"/>
+</map>

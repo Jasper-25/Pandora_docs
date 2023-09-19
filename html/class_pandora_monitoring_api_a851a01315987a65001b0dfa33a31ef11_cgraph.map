@@ -1,0 +1,7 @@
+<map id="PandoraMonitoringApi::SetTreeVariable" name="PandoraMonitoringApi::SetTreeVariable">
+<area shape="rect" id="Node000001" title="Set a variable in a tree (create the tree and the branch if not yet existing)" alt="" coords="5,55,154,97"/>
+<area shape="rect" id="Node000002" href="$classpandora__monitoring_1_1_pandora_monitoring.html#aeefdfb3a43a266bebcd08ef36b7263fb" title="Get the relevant pandora monitoring instance." alt="" coords="202,5,339,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,57,186,50,187,55,155,63"/>
+<area shape="rect" id="Node000003" href="$classpandora__monitoring_1_1_pandora_monitoring.html#a01fe03ca56ee0d9f3dbae9ac87c62c18" title="Set a variable in a tree (create the tree and the branch if not yet existing)" alt="" coords="202,88,339,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="155,89,187,97,186,102,154,95"/>
+</map>

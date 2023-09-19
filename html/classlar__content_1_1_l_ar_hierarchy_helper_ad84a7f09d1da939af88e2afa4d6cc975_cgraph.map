@@ -1,0 +1,35 @@
+<map id="lar_content::LArHierarchyHelper::FillMCHierarchy" name="lar_content::LArHierarchyHelper::FillMCHierarchy">
+<area shape="rect" id="Node000001" title="Fill an MC hierarchy based on the specified folding criteria (see MCHierarchy::FillHierarchy for deta..." alt="" coords="5,272,174,315"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_hierarchy_helper_1_1_m_c_hierarchy.html#ad5c077a1944b8d033f5ecd1a4dc4f245" title="Creates an MC hierarchy representation. Without folding this will be a mirror image of the standard M..." alt="" coords="222,272,443,315"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,291,206,291,206,296,174,296"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_hierarchy_helper_1_1_m_c_hierarchy_1_1_node.html#a4102227281a1c736a2636e099ebd068b" title="Recursively fill the hierarchy based on the criteria established for this MCHierarchy." alt="" coords="491,139,670,197"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="375,269,506,202,509,207,378,274"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a1c62b574138596d616da748d3f75be25" title="Get all descendent mc particles." alt="" coords="718,29,961,72"/>
+<area shape="poly" id="edge11_Node000002_Node000004" title=" " alt="" coords="342,270,364,233,397,186,439,139,463,118,490,100,541,77,595,61,650,51,703,46,703,51,651,56,596,66,542,82,492,105,466,122,443,142,401,189,369,235,347,273"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_m_c_particle.html#ae4d6136cf2c7b06c0d5dc26dfb41f42e" title="Get list of parents of mc particle." alt="" coords="1009,184,1148,227"/>
+<area shape="poly" id="edge13_Node000002_Node000007" title=" " alt="" coords="444,301,553,306,684,304,823,292,893,281,960,265,997,251,1032,233,1034,237,1000,256,961,271,894,286,824,298,684,310,553,311,443,306"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_m_c_particle_helper.html#a616c40c49d204fd06ea64e5ded1b70a0" title="Find the mc particle making the largest contribution to a specified calo hit, track or cluster." alt="" coords="493,397,669,440"/>
+<area shape="poly" id="edge12_Node000002_Node000009" title=" " alt="" coords="369,313,426,347,492,383,505,389,503,393,490,388,423,352,366,317"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a04160d2d3772dc1da7e9509c502cbffe" title="Sort mc particles by their momentum." alt="" coords="492,331,669,373"/>
+<area shape="poly" id="edge14_Node000002_Node000010" title=" " alt="" coords="426,313,478,325,476,330,425,318"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="532,138,533,128,542,119,558,114,581,112,607,115,623,122,621,127,606,120,581,117,559,119,545,124,538,130,537,139"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="628,136,717,88,750,75,752,80,719,93,631,140"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_m_c_particle.html#a759637e31148d60548e3da6206f5625c" title="Get list of daughters of mc particle." alt="" coords="1009,59,1148,101"/>
+<area shape="poly" id="edge7_Node000003_Node000005" title=" " alt="" coords="670,142,718,132,863,107,993,88,994,93,864,112,719,137,671,148"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#ad14b164272f0fc9a429802e0c2b5b406" title="Determine the position in the hierarchy for the MCParticle." alt="" coords="751,147,928,189"/>
+<area shape="poly" id="edge8_Node000003_Node000006" title=" " alt="" coords="671,165,735,165,735,171,671,171"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_m_c_particle.html#af3f0b7e1d41980a184f328b61d542dd0" title="Get the PDG code of the mc particle." alt="" coords="770,213,909,256"/>
+<area shape="poly" id="edge10_Node000003_Node000008" title=" " alt="" coords="672,189,755,210,754,216,670,194"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="794,29,792,19,800,10,816,5,840,3,865,5,880,11,878,16,864,10,839,8,817,10,803,15,798,21,799,28"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="961,63,993,67,993,72,961,68"/>
+<area shape="poly" id="edge9_Node000006_Node000007" title=" " alt="" coords="929,179,994,189,993,195,928,185"/>
+<area shape="poly" id="edge18_Node000010_Node000008" title=" " alt="" coords="628,328,776,260,778,265,631,333"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_m_c_particle.html#a4ab7e3a1a32d98917ba7b8cd0bc08c51" title="Get energy of mc particle, units GeV." alt="" coords="770,531,909,573"/>
+<area shape="poly" id="edge15_Node000010_Node000011" title=" " alt="" coords="658,372,672,383,686,401,693,418,696,452,700,485,707,501,720,517,737,529,757,538,754,543,734,534,717,521,703,504,695,487,691,453,687,420,681,404,668,387,654,376"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_cartesian_vector.html#a311c121184ef7085d43e58f5f2fce3b7" title="Get the magnitude squared." alt="" coords="755,331,924,373"/>
+<area shape="poly" id="edge16_Node000010_Node000012" title=" " alt="" coords="670,349,740,349,740,355,670,355"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_m_c_particle.html#a7fbb1a6fde4b63083e232c60057d3352" title="Get momentum of mc particle, units GeV." alt="" coords="770,397,909,440"/>
+<area shape="poly" id="edge17_Node000010_Node000013" title=" " alt="" coords="667,371,755,394,754,400,666,377"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_m_c_particle.html#add081cb10078cffa20b13983472f3ee3" title="Get the production vertex of the mc particle, units mm." alt="" coords="770,464,909,507"/>
+<area shape="poly" id="edge19_Node000010_Node000014" title=" " alt="" coords="653,372,672,383,688,401,696,418,704,434,720,450,756,468,754,472,717,454,700,437,692,420,684,404,669,387,651,376"/>
+</map>

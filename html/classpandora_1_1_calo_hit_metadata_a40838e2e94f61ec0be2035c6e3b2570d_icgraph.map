@@ -1,0 +1,6 @@
+<map id="pandora::CaloHitMetadata::GetCaloHitUsageMap" name="pandora::CaloHitMetadata::GetCaloHitUsageMap">
+<area shape="rect" id="Node000001" title="Get the calo hit usage map." alt="" coords="225,29,396,72"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_calo_hit_metadata.html#a48c45479b9123f7f361a0609ff00eda1" title="Update metadata to account for changes by daughter recluster processes." alt="" coords="5,29,177,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,53,177,53,177,48,209,48"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="126,16,113,10,91,8,70,10,58,15,53,21,54,28,49,29,48,19,55,10,69,5,91,3,115,5,129,11"/>
+</map>

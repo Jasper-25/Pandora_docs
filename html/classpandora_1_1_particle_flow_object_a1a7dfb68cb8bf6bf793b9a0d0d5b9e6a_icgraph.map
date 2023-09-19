@@ -1,0 +1,26 @@
+<map id="pandora::ParticleFlowObject::UpdatePropertiesMap" name="pandora::ParticleFlowObject::UpdatePropertiesMap">
+<area shape="rect" id="Node000001" title="Update the properties map." alt="" coords="999,205,1183,248"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_particle_flow_object.html#a634150799b48c9ae61ac82408b54ad35" title="Alter particle flow object metadata parameters." alt="" coords="766,205,951,248"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="983,229,951,229,951,224,983,224"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_mva_pfo_characterisation_algorithm.html#aa9ff9dd7f75bb29fd25d73fd8050a2f1" title="Whether pfo is identified as a clear track." alt="" coords="489,5,718,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="835,193,786,126,754,92,717,62,696,51,698,46,720,58,757,88,790,123,839,190"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_vertex_based_pfo_mop_up_algorithm.html#abc1b6acc6ea18d3b7443fa3faa634128" title="Merge the vertex and daughter pfos (deleting daughter pfo, merging clusters, etc.) described in the s..." alt="" coords="501,72,707,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="819,197,772,162,717,129,690,118,692,113,720,124,775,157,822,193"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_pfo_characterisation_base_algorithm.html#a001cd4205da861d562c28f2f6ae81da7" title="Run the algorithm." alt="" coords="501,139,707,181"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="759,203,687,185,689,179,760,198"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_master_algorithm.html#ac18c2ae89137db931fedfe3917d026dc" title="Process each slice under different reconstruction hypotheses." alt="" coords="510,205,698,248"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="751,229,698,229,698,224,751,224"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_beam_particle_id_tool.html#a79f0453d3b4d1e43ce79001580d11b1b" title="Select which reconstruction hypotheses to use; neutrino outcomes or cosmic&#45;ray muon outcomes for each..." alt="" coords="518,272,689,315"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="760,255,689,274,687,269,759,250"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_simple_neutrino_id_tool.html#a1a7a46b579fe86acd94d98cf76daf239" title="Select which reconstruction hypotheses to use; neutrino outcomes or cosmic&#45;ray muon outcomes for each..." alt="" coords="513,339,694,381"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="822,260,775,296,720,329,692,341,690,336,717,324,772,292,819,256"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_master_algorithm.html#afc67eb7486e5be1376267357824ae6c7" title="Tag clear, unambiguous cosmic&#45;ray pfos." alt="" coords="510,405,698,448"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="839,263,790,330,757,366,720,396,698,407,696,403,717,391,754,362,786,327,835,260"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_vertex_based_pfo_mop_up_algorithm.html#a777454b7d6a78c899bdb888a1c4a47d5" title="Process the list of pfo associations, merging the best&#45;matching pfo." alt="" coords="226,64,437,123"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="485,96,438,96,438,91,485,91"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_vertex_based_pfo_mop_up_algorithm.html#a9e188aee8a6b3ced1eb47c31b68bfd18" title="Run the algorithm." alt="" coords="5,72,174,115"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="210,96,174,96,174,91,210,91"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_master_algorithm.html#ab61b051a14d2431fa04900e52277ce96" title="Run the algorithm." alt="" coords="222,313,441,340"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="510,256,490,262,363,315,361,310,488,258,508,251"/>
+<area shape="poly" id="edge12_Node000012_Node000009" title=" " alt="" coords="508,403,488,396,361,343,363,338,490,391,510,398"/>
+</map>

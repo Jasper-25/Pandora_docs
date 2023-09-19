@@ -1,0 +1,13 @@
+<map id="lar_content::CosmicRayExtensionAlgorithm" name="lar_content::CosmicRayExtensionAlgorithm">
+<area shape="rect" id="Node000001" title="CosmicRayExtensionAlgorithm class." alt="" coords="5,432,224,475"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_cluster_extension_algorithm.html" title="ClusterExtensionAlgorithm class." alt="" coords="18,340,211,383"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,398,117,432,112,432,112,398"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_cluster_merging_algorithm.html" title="ClusterMergingAlgorithm class." alt="" coords="24,248,205,291"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="117,306,117,340,112,340,112,306"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_algorithm.html" title="Algorithm class. Algorithm addresses are held only by the algorithm manager. They have a fully define..." alt="" coords="49,172,180,199"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="117,214,117,248,112,248,112,214"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_process.html" title="Process class." alt="" coords="53,96,176,123"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="117,138,117,172,112,172,112,138"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_pandora.html" title="Pandora class." alt="" coords="53,5,176,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="117,48,117,95,112,95,112,48"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="pandora_monitoring::PandoraMonitoring::VisualizeClusters" name="pandora_monitoring::PandoraMonitoring::VisualizeClusters">
+<area shape="rect" id="Node000001" title="Add Clusters to the Eve event&#45;display." alt="" coords="498,47,635,105"/>
+<area shape="rect" id="Node000002" href="$class_pandora_monitoring_api.html#a64d5b5abe95e69386873da784070e23e" title="Add Clusters to the Eve event&#45;display." alt="" coords="277,5,425,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="482,60,425,46,426,41,484,54"/>
+<area shape="rect" id="Node000003" href="$classpandora__monitoring_1_1_pandora_monitoring.html#a57776172a0049baed050b7bd8c95878a" title="Add Particle flow objects to the Eve event&#45;display." alt="" coords="252,96,450,155"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="484,98,451,105,450,100,482,92"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="385,84,372,77,351,75,332,77,320,81,314,88,314,96,308,96,309,86,317,77,331,71,351,69,373,72,387,79"/>
+<area shape="rect" id="Node000004" href="$class_pandora_monitoring_api.html#a2680ef7dc1ea556f1524b1d79e10ad9f" title="Add Particle flow objects to the Eve event&#45;display." alt="" coords="5,104,204,147"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="236,128,204,128,204,123,236,123"/>
+</map>

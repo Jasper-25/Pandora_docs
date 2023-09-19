@@ -1,0 +1,9 @@
+<map id="pandora::Cluster::GetClusterSpanZ" name="pandora::Cluster::GetClusterSpanZ">
+<area shape="rect" id="Node000001" title="Get upper and lower Z positions of the calo hits in a cluster in range xmin to xmax." alt="" coords="516,51,702,93"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_n_view_delta_ray_matching_algorithm.html#aa3efbf0e2e50f0f836230ec55b3efe1f" title="Use two clusters from different views to calculate projected positions in the remaining third view." alt="" coords="255,5,468,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="500,58,468,53,469,48,501,53"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_removal_base_tool.html#ac8a4520539e47d7c407805dbde3238ca" title="Determine whether the matched clusters suggest that the delta ray is at the endpoint of the cosmic ra..." alt="" coords="275,88,448,131"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="501,91,448,99,448,94,500,86"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_removal_base_tool.html#ac01d4e750e1104686b559b40edac09c5" title="Use two views of a delta ray pfo to calculate projected positions in a given third view." alt="" coords="5,13,207,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="239,37,207,37,207,32,239,32"/>
+</map>

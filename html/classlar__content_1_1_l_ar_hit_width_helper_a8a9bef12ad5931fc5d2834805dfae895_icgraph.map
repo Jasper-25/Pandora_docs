@@ -1,0 +1,11 @@
+<map id="lar_content::LArHitWidthHelper::GetClosestPointToLine2D" name="lar_content::LArHitWidthHelper::GetClosestPointToLine2D">
+<area shape="rect" id="Node000001" title="Consider the hit width to find the closest position of a calo hit to a specified line." alt="" coords="608,72,823,115"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_track_refinement_base_algorithm.html#a70628edc4c1f9c56e3dd36f7d4557b28" title="Find the unprotected hits that are contained within a defined box with the option to apply a cut on t..." alt="" coords="315,5,560,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="608,70,529,51,530,46,610,65"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_track_refinement_base_algorithm.html#a5d405ce4ca49c3fb833abb5255cb2c0f" title="Check whether the extrapolatedCaloHitVector contains a continuous line of hits between the cluster me..." alt="" coords="327,72,548,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="592,96,548,96,548,91,592,91"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_track_refinement_base_algorithm_1_1_sort_by_distance_along_line.html#ae10606f5337ebe851b1553f26712f3f3" title="Sort hits by their projected distance along a line from a start point." alt="" coords="318,139,557,197"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="619,122,550,141,548,136,618,117"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_track_refinement_base_algorithm.html#affe8cf41267558fcadf2b61f3a7056bf" title="Perform topological checks on the collected hits to ensure no gaps are present." alt="" coords="5,72,267,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="311,96,267,96,267,91,311,91"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="lar_content::LArMCParticleHelper::GetLeadingMCParticle" name="lar_content::LArMCParticleHelper::GetLeadingMCParticle">
+<area shape="rect" id="Node000001" title="Get the leading particle in the hierarchy, for use at ProtoDUNE." alt="" coords="800,64,997,107"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#aa8c8f2e918c4db379fe3c9023c83c446" title="Returns true if passed particle whose leading meets the passed criteria." alt="" coords="541,5,752,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="789,63,741,51,742,46,790,57"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a1d6a44cc759e8841e9c414dfdd52a3e4" title="Get mapping from individual mc particles (in a provided list) and their leading parent mc particles." alt="" coords="296,60,473,103"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="784,87,473,85,473,79,784,82"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a0385704b2322408b83152b9de3a6c21c" title="Whether a provided mc particle matches the implemented definition of being leading." alt="" coords="558,127,735,169"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="796,113,736,129,734,124,795,108"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a07190262e8db399b4426095d803b1b8a" title="Select target, reconstructable mc particles in the relevant hierarchy that match given criteria." alt="" coords="5,85,228,144"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="281,97,229,103,228,98,280,92"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a4163d53e6c1fdd3dbd41191ec9ce77ff" title="Get vector of leading MC particles from an input list of MC particles." alt="" coords="276,127,493,169"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="542,151,493,151,493,145,542,145"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#ad73ea17a667420bfd06e0db5059049bc" title="Returns true if passed a leading beam MCParticle." alt="" coords="285,193,484,236"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="546,176,472,195,470,190,545,171"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="260,135,228,131,229,126,260,130"/>
+</map>

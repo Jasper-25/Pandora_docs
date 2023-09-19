@@ -1,0 +1,11 @@
+<map id="lar_content::LArMuonLeadingHelper::GetLeadingParticle" name="lar_content::LArMuonLeadingHelper::GetLeadingParticle">
+<area shape="rect" id="Node000001" title="Return leading particle in the delta ray/michel hierarchy i.e. tier below cosmic ray." alt="" coords="517,72,707,115"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_muon_leading_helper.html#a37f7e34ab6e4c0673fbd2ce811d54ab2" title="Return the MCProcess of the leading particle (tier 1) in the delta ray/michel hierarchy." alt="" coords="261,39,452,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="501,82,452,75,452,70,502,76"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_l_ar_muon_leading_helper.html#afd710058ff8fe15e3a5c0bbc9ffd1a0f" title="Separate a leading pfo hit list according to the true owner of the hit e.g. other shower." alt="" coords="244,105,469,148"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="502,110,470,115,469,109,501,105"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_muon_leading_helper.html#a4bf40c494dafc5092514d81e720de0db" title="Return true if input MCParticle is a child of a cosmic ray and has &#39;delta ray&#39; process tag." alt="" coords="5,5,196,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="245,48,196,42,197,36,246,43"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_muon_leading_helper.html#a3448d55df94c9e2ef8d09180fd7bbad5" title="Return true if input MCParticle is a child of a cosmic ray and has &#39;decay&#39; process tag." alt="" coords="5,72,196,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="246,77,197,84,196,78,245,72"/>
+</map>

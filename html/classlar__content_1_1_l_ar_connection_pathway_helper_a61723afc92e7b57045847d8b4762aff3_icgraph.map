@@ -1,0 +1,6 @@
+<map id="lar_content::LArConnectionPathwayHelper::FindShowerStartFromDirection" name="lar_content::LArConnectionPathwayHelper::FindShowerStartFromDirection">
+<area shape="rect" id="Node000001" title="Create a 3D shower start position from each input 2D position, assuming consistency of initial direct..." alt="" coords="289,29,501,88"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="439,17,422,11,395,8,371,10,355,15,348,21,347,29,342,29,343,19,353,10,370,5,395,3,424,5,441,13"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_connection_pathway_helper.html#ae589839cfb47ee86d85d738273cfe061" title="Create 3D shower start position(s) from three input 2D positions." alt="" coords="5,37,241,80"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="273,61,241,61,241,56,273,56"/>
+</map>

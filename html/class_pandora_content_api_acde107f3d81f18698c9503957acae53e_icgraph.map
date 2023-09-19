@@ -1,0 +1,21 @@
+<map id="PandoraContentApi::CreateAlgorithmTool" name="PandoraContentApi::CreateAlgorithmTool">
+<area shape="rect" id="Node000001" title="Create an algorithm tool instance, via one of the algorithm tool factories registered with pandora...." alt="" coords="803,139,945,181"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_xml_helper.html#ab8e223a4d8663e38cf36fe8b2301a217" title="Process an algorithm tool described in an xml element with a matching &quot;description = ...." alt="" coords="569,39,725,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="809,134,696,84,699,79,811,130"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_xml_helper.html#a76c04c5ba3039dff3b0d003521892579" title="Process a list of algorithms tools in an xml file." alt="" coords="559,139,736,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="788,163,736,163,736,157,788,157"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_l_ar_mva_helper.html#a1d7ae5a2e8a5000cef87ff96953a80e4" title="Process a list of algorithms tools in an xml file, using a map. Idea is for this to go to XmlHelper i..." alt="" coords="539,239,755,281"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="811,190,699,241,696,236,809,186"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_xml_helper.html#ada261e673cac011b22573161a0eb2152" title="Process a single algorithm tool described in an xml file (the first found by the xml handle)" alt="" coords="285,5,468,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="553,51,468,41,468,35,554,46"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_master_algorithm.html#ad004248f04cd97eb38b6932b093546ef" title="Read the algorithm settings." alt="" coords="282,72,471,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="543,137,465,118,467,113,544,132"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_three_view_track_fragments_algorithm.html#a56dd4f31d03c6ed3ef658119e4dab17e" title="Read the algorithm settings." alt="" coords="264,139,489,181"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="543,163,489,163,489,157,543,157"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_trained_vertex_selection_algorithm.html#a68243bcb91d963da988466b9810b2924" title="Read the algorithm settings." alt="" coords="268,205,485,248"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="544,188,467,207,465,202,543,183"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_mva_vertex_selection_algorithm.html#a9a63d0b30ffed9a759d5da9ab7ff2366" title="Read the algorithm settings." alt="" coords="5,205,214,248"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="252,229,214,229,214,224,252,224"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_mva_pfo_characterisation_algorithm.html#a137fa3242eb74dbb8c89b1ee16270910" title="Read the algorithm settings." alt="" coords="262,272,491,315"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="524,278,492,282,491,277,523,273"/>
+</map>

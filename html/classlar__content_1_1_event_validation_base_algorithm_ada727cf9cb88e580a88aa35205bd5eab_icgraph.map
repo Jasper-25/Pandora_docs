@@ -1,0 +1,7 @@
+<map id="lar_content::EventValidationBaseAlgorithm::IsGoodMatch" name="lar_content::EventValidationBaseAlgorithm::IsGoodMatch">
+<area shape="rect" id="Node000001" title="Whether a provided mc primary and pfo are deemed to be a good match." alt="" coords="562,5,753,48"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_event_validation_base_algorithm.html#a533385c8bb504ea516c2fe700079893e" title="Get the strongest pfo match (most matched hits) between an available mc primary and an available pfo." alt="" coords="268,5,514,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="546,29,514,29,514,24,546,24"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_event_validation_base_algorithm.html#a3ad9a9778a90a1a413714106e6da363f" title="Apply an interpretative matching procedure to the comprehensive matches in the provided validation in..." alt="" coords="5,5,220,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="252,29,220,29,220,24,252,24"/>
+</map>

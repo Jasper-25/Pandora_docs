@@ -1,0 +1,20 @@
+<map id="lar_content::TwoDSlidingFitResult::GetGlobalFitDirection" name="lar_content::TwoDSlidingFitResult::GetGlobalFitDirection">
+<area shape="rect" id="Node000001" title="Get global fit direction for a given longitudinal coordinate." alt="" coords="569,172,774,215"/>
+<area shape="poly" id="edge6_Node000001_Node000001" title=" " alt="" coords="717,159,700,153,672,151,646,153,630,157,623,163,625,171,620,172,618,162,627,153,645,147,672,145,701,148,719,154"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a8437c0b3bbd4c4e26513ed233b81df4f" title="Get scattering angle for a given longitudinal coordinate." alt="" coords="289,5,507,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="640,162,587,110,555,85,520,62,495,51,497,46,522,58,558,80,591,106,644,158"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a02db4f7b6c30c0b08dc9d9eb5620e1cb" title="Get extrapolated direction (beyond span) for a given input coordinate." alt="" coords="285,72,511,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="611,167,520,129,485,118,486,113,522,124,613,162"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_three_d_sliding_fit_result.html#abae0b7bfb8b57ff3152b71db776d2f6e" title="Get global fit direction for a given longitudinal coordinate." alt="" coords="295,139,501,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="553,182,501,175,501,170,554,176"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_two_d_sliding_fit_result.html#ae9db9992b87f5d07fefc8b0b6c7d58b1" title="Get global fit direction for a given input x coordinate." alt="" coords="285,205,511,248"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="554,210,511,216,511,210,553,205"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a160242b0a947ef2461f5a54ae26a82b9" title="Get projected position and direction for a given input x coordinate and fit segment." alt="" coords="287,272,509,315"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="613,224,522,263,486,274,485,269,520,257,611,219"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_n_view_delta_ray_matching_algorithm.html#a82880aeaea49965629a4d1881873b34b" title="Parameterise the projection of a cosmic ray track in order to avoid poor/sparse projections." alt="" coords="275,339,521,381"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="644,228,591,280,558,306,522,329,497,340,495,336,520,324,555,302,587,276,640,225"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_three_d_sliding_cone_fit_result.html#a171bb1078cb8d61b86b33c6cb3271701" title="Constructor." alt="" coords="5,93,227,152"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="279,147,227,140,227,135,280,142"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_three_d_sliding_fit_result.html#affa4f646020fbff021956fd9773e15bb" title="Constructor." alt="" coords="9,176,223,219"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="280,178,224,186,223,181,279,173"/>
+</map>

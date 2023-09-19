@@ -1,0 +1,19 @@
+<map id="PandoraApi::GetCurrentPfoList" name="PandoraApi::GetCurrentPfoList">
+<area shape="rect" id="Node000001" title="Get the current pfo list." alt="" coords="509,147,708,173"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_master_algorithm.html#a57c24c2d7f7df99197c92275ff4e4f36" title="Recreate cosmic&#45;ray pfos (created by worker instances) in the master instance." alt="" coords="273,5,461,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="577,139,524,101,460,62,434,51,437,46,462,58,527,96,580,135"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_master_algorithm.html#ac18c2ae89137db931fedfe3917d026dc" title="Process each slice under different reconstruction hypotheses." alt="" coords="273,72,461,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="542,145,446,118,448,113,543,139"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_master_algorithm.html#aaf15232ca65ed6ab5b9f22a565badcf0" title="Run the event slicing procedures, dividing available hits up into distinct 3D regions." alt="" coords="273,139,461,181"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="494,163,462,163,462,157,494,157"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_master_algorithm.html#a559d016bf5be93f33dfb449e8c17a8a7" title="Stitch together cosmic&#45;ray pfos crossing between adjacent lar tpcs." alt="" coords="273,205,461,248"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="543,181,448,207,446,202,542,175"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_master_algorithm.html#afc67eb7486e5be1376267357824ae6c7" title="Tag clear, unambiguous cosmic&#45;ray pfos." alt="" coords="273,272,461,315"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="580,185,527,224,462,262,437,274,434,269,460,258,524,219,577,181"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_master_algorithm.html#ab61b051a14d2431fa04900e52277ce96" title="Run the algorithm." alt="" coords="5,147,225,173"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="286,57,274,62,196,107,136,148,133,144,193,103,271,58,284,52"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="270,122,169,149,168,143,268,117"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="257,163,225,163,225,157,257,157"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="268,203,168,177,169,171,270,198"/>
+<area shape="poly" id="edge10_Node000007_Node000003" title=" " alt="" coords="284,268,271,262,193,217,133,176,136,172,196,213,274,258,286,263"/>
+</map>

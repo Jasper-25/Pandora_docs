@@ -1,0 +1,28 @@
+<map id="lar_content::LArPfoHelper::GetAllDownstreamPfos" name="lar_content::LArPfoHelper::GetAllDownstreamPfos">
+<area shape="rect" id="Node000001" title="Get a flat list of all pfos, recursively, of all daughters associated with those pfos in an input lis..." alt="" coords="507,353,676,396"/>
+<area shape="poly" id="edge8_Node000001_Node000001" title=" " alt="" coords="633,340,617,334,592,332,568,334,553,339,547,345,549,352,544,353,542,343,550,334,567,329,592,327,618,329,635,335"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_hierarchy_helper_1_1_reco_hierarchy_1_1_node.html#a072012137c70b705ae7192c580a91657" title="Fill this node by folding all descendent particles to this node." alt="" coords="256,5,425,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="581,339,568,282,544,212,507,140,484,107,457,78,423,56,426,52,461,74,488,104,512,137,549,210,573,280,587,337"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_hierarchy_helper_1_1_reco_hierarchy_1_1_node.html#a0e0e69c67b93d3711d4840e686157fd8" title="Recursively fill the hierarchy based on the criteria established for this RecoHierarchy." alt="" coords="256,88,425,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="575,340,557,299,531,250,498,202,457,161,424,141,426,136,461,157,502,199,536,248,562,296,580,338"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_hierarchy_helper_1_1_reco_hierarchy.html#a8300a582d4fa67818f24462a4958a5cb" title="Creates a reconstructed hierarchy representation. Without folding this will be a mirror image of the ..." alt="" coords="256,171,425,229"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="563,343,517,292,488,266,458,244,423,226,426,222,460,239,492,262,520,288,566,339"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_cheating_cosmic_ray_tagging_tool.html#a155a10fe79d4a86d6b847a5417ec336d" title="Find the list of ambiguous pfos (could represent cosmic&#45;ray muons or neutrinos)" alt="" coords="222,253,459,296"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="538,348,458,310,425,299,427,294,460,306,540,343"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_l_ar_pfo_helper.html#ae5c827d4314d80b2981098073b26cc75" title="Get a flat list of all pfos, recursively, of all daughters and parents associated with an input pfo." alt="" coords="256,320,425,363"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="491,364,425,355,426,350,492,359"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_l_ar_pfo_helper.html#a1e6e3108fa436540a84955d1b1e35b7c" title="Get flat lists of all downstream track pfos and also shower&#45;like pfos. This method collects together ..." alt="" coords="256,387,425,429"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="492,391,426,399,425,394,491,385"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_pfo_hierarchy_feature_tool.html#af16862837e26d0b4006cc01733f544e1" title=" " alt="" coords="257,453,424,496"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="540,406,460,444,425,456,424,451,458,439,538,401"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_cheating_beam_particle_id_tool.html#aaf934322370c1f914f67f771c77d7d4e" title="Select which reconstruction hypotheses to use; neutrino outcomes or cosmic&#45;ray muon outcomes for each..." alt="" coords="236,520,445,563"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="567,410,521,462,492,488,460,510,437,522,435,517,458,506,489,484,517,458,563,407"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_cheating_neutrino_id_tool.html#a3b82328ce01a7831a658060612f8d51f" title="Select which reconstruction hypotheses to use; neutrino outcomes or cosmic&#45;ray muon outcomes for each..." alt="" coords="244,587,437,629"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="579,412,560,450,534,495,501,539,461,577,438,590,435,585,457,573,497,536,530,492,556,448,574,409"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_master_algorithm.html#a9edec39d118d270efac4c3f84f89e020" title="Shift a Pfo hierarchy by a specified x0 value." alt="" coords="246,653,435,696"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="585,412,570,464,545,526,509,589,487,618,461,643,436,658,434,654,457,639,483,614,505,586,540,524,565,462,580,410"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_l_ar_hierarchy_helper.html#a933d0b94a445161fe03b15ea2ada8776" title="Fill a reconstructed hierarchy based on the specified folding criteria (see RecoHierarchy::FillHierar..." alt="" coords="5,179,174,221"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="241,203,174,203,174,197,241,197"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_pfo_hierarchy_feature_tool.html#a2014cff08176065d611ad22025c005f3" title=" " alt="" coords="6,453,173,496"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="241,477,174,477,174,472,241,472"/>
+</map>

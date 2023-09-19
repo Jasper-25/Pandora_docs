@@ -1,0 +1,11 @@
+<map id="pandora::XmlHelper::ProcessAlgorithmToolList" name="pandora::XmlHelper::ProcessAlgorithmToolList">
+<area shape="rect" id="Node000001" title="Process a list of algorithms tools in an xml file." alt="" coords="534,72,711,115"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_master_algorithm.html#ad004248f04cd97eb38b6932b093546ef" title="Read the algorithm settings." alt="" coords="280,5,468,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="526,70,455,51,457,46,527,65"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_three_view_track_fragments_algorithm.html#a56dd4f31d03c6ed3ef658119e4dab17e" title="Read the algorithm settings." alt="" coords="262,72,486,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="518,96,487,96,487,91,518,91"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_trained_vertex_selection_algorithm.html#a68243bcb91d963da988466b9810b2924" title="Read the algorithm settings." alt="" coords="266,139,482,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="527,122,457,141,455,135,526,117"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_mva_vertex_selection_algorithm.html#a9a63d0b30ffed9a759d5da9ab7ff2366" title="Read the algorithm settings." alt="" coords="5,139,214,181"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="250,163,214,163,214,157,250,157"/>
+</map>

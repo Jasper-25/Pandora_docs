@@ -1,0 +1,7 @@
+<map id="lar_content::TwoViewDeltaRayMatchingAlgorithm::UpdateForThirdViewClusterModification" name="lar_content::TwoViewDeltaRayMatchingAlgorithm::UpdateForThirdViewClusterModification">
+<area shape="rect" id="Node000001" title="Update the matrix after a third view cluster modification &#45; remove delta ray clusters and reassess th..." alt="" coords="5,39,226,97"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_n_view_matching_algorithm.html#a880d9d77bef7c6f84a9ea66d8761e580" title="Get the matching control." alt="" coords="303,5,503,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,49,288,40,288,46,226,55"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_n_view_delta_ray_matching_algorithm.html#a8109fb417dd5d10adee1b985ff7a5f8d" title="To determine how well three clusters (one in each view) map onto one another expressing this in terms..." alt="" coords="274,72,532,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="226,81,258,86,258,91,226,87"/>
+</map>

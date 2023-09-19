@@ -1,0 +1,7 @@
+<map id="lar_content::SimpleCone::GetConeApex" name="lar_content::SimpleCone::GetConeApex">
+<area shape="rect" id="Node000001" title="Get the cone apex." alt="" coords="218,39,381,81"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_simple_cone.html#a17f8cc2364e642cc62a5b933f76e6f3a" title="Get the fraction of hits in a provided cluster that are bounded within the cone, using provided cone ..." alt="" coords="5,5,170,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,47,170,42,171,37,203,42"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_simple_cone.html#a26fb4f8bf020876df0dafe95f6355203" title="Get the mean transverse distance to all hits in a cluster (whether contained or not)" alt="" coords="6,72,169,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="202,78,170,83,169,78,202,73"/>
+</map>

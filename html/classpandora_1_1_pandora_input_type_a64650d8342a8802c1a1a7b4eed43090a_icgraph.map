@@ -1,0 +1,61 @@
+<map id="pandora::PandoraInputType::IsInitialized" name="pandora::PandoraInputType::IsInitialized">
+<area shape="rect" id="Node000001" title="Whether the pandora type is initialized." alt="" coords="877,597,1057,640"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_cluster.html#a8e4f2a07ec4a6502658165145dbd1c07" title="Add a calo hit to the cluster." alt="" coords="609,59,798,85"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="961,582,951,498,929,387,912,326,890,266,862,207,827,154,808,132,785,115,738,88,741,84,788,110,811,129,831,150,866,205,895,263,917,324,935,385,957,498,966,581"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_cluster.html#abf08128ef753dddfdabeb6386590dd16" title="Get minimum and maximum X positions of the calo hits in this cluster." alt="" coords="611,164,797,207"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="962,582,953,506,932,408,915,357,892,307,863,261,828,221,796,201,799,197,831,217,867,258,897,305,920,355,937,407,958,505,967,581"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_trained_vertex_selection_algorithm.html#a603d81d47ab7301fe72e8e51c21f5167" title="Get the coordinate span." alt="" coords="578,231,829,273"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="959,583,947,519,923,439,906,397,884,357,858,320,828,287,811,276,814,272,831,283,863,316,889,354,911,395,928,437,952,517,964,582"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_cluster.html#a2a8a548966b78a419a0fed97418c37f4" title="Get the corrected electromagnetic estimate of the cluster energy, units GeV." alt="" coords="603,297,804,340"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="955,583,939,531,913,469,876,407,854,379,828,354,803,339,806,335,831,350,858,375,881,404,918,467,944,529,960,581"/>
+<area shape="rect" id="Node000015" href="$classpandora_1_1_cluster.html#a9ed312eaec0dc1af8dc2ef5e1e371a75" title="Get the corrected hadronic estimate of the cluster energy, units GeV." alt="" coords="603,364,804,407"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="948,584,929,545,902,501,869,458,828,421,804,407,806,403,831,416,872,454,907,498,934,543,953,582"/>
+<area shape="rect" id="Node000016" href="$classpandora_1_1_cluster.html#a9ccd3dd101f5ae00267f08f0997b6b13" title="Get the typical inner layer hit type." alt="" coords="617,431,790,473"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="938,587,890,535,860,510,828,488,790,471,792,466,831,483,864,505,894,531,942,583"/>
+<area shape="rect" id="Node000017" href="$classpandora_1_1_cluster.html#a831a2953f6093ac578b34a9749abe9d5" title="Get the typical outer layer hit type." alt="" coords="615,497,792,540"/>
+<area shape="poly" id="edge17_Node000001_Node000017" title=" " alt="" coords="911,592,828,554,792,543,794,537,830,550,914,587"/>
+<area shape="rect" id="Node000018" href="$classpandora_1_1_cluster.html#acd8c997bdd5300251b9370504ac2ecc9" title="Get the cluster shower profile discrepancy." alt="" coords="610,564,798,607"/>
+<area shape="poly" id="edge18_Node000001_Node000018" title=" " alt="" coords="861,608,798,600,799,595,862,603"/>
+<area shape="rect" id="Node000019" href="$classpandora_1_1_cluster.html#a732de5ac3944fad2a569a18cfac0401f" title="Get the cluster shower profile start, units radiation lengths." alt="" coords="610,631,798,673"/>
+<area shape="poly" id="edge19_Node000001_Node000019" title=" " alt="" coords="862,635,799,643,798,637,861,629"/>
+<area shape="rect" id="Node000020" href="$classpandora_1_1_cluster.html#aecb5c5f0ea4b60ca6eb6b6ad402e4b33" title="Get the pseudo layer at which shower commences." alt="" coords="610,697,798,740"/>
+<area shape="poly" id="edge20_Node000001_Node000020" title=" " alt="" coords="914,650,830,688,796,699,794,694,828,683,911,645"/>
+<area shape="rect" id="Node000021" href="$classpandora_1_1_cluster.html#a93ab226a244c3d0272a5bdb59c8784a6" title="Get the best energy estimate to use when comparing cluster energy to associated track momentum,..." alt="" coords="615,764,792,807"/>
+<area shape="poly" id="edge21_Node000001_Node000021" title=" " alt="" coords="942,654,894,706,864,732,831,754,794,770,792,765,828,750,860,728,890,702,938,651"/>
+<area shape="rect" id="Node000022" href="$classpandora_1_1_cluster.html#a47d3a735dc9942f3a559008f81f76ccd" title="Whether the cluster passes the photon id." alt="" coords="601,831,806,857"/>
+<area shape="poly" id="edge22_Node000001_Node000022" title=" " alt="" coords="954,655,935,694,908,740,873,784,831,821,808,833,806,828,828,816,870,780,904,737,930,692,949,653"/>
+<area shape="rect" id="Node000023" href="$namespacelar__reco.html#a24310ccf5395e296c032835b7e03a8e8" title="Process list of external, commandline parameters to be passed to specific algorithms." alt="" coords="618,964,789,1007"/>
+<area shape="poly" id="edge23_Node000001_Node000023" title=" " alt="" coords="964,656,952,720,928,800,911,842,889,883,863,921,831,954,812,967,791,976,789,971,809,962,828,950,858,918,884,880,906,840,923,799,947,719,959,655"/>
+<area shape="rect" id="Node000026" href="$classlar__content_1_1_master_algorithm.html#a6a6fc093319e1692554558f2e966d51a" title="Read settings from external steering parameters block, if present, otherwise from xml as standard." alt="" coords="610,1097,798,1140"/>
+<area shape="poly" id="edge26_Node000001_Node000026" title=" " alt="" coords="969,656,964,743,958,799,946,859,929,921,905,981,872,1038,831,1087,800,1107,797,1103,828,1083,868,1035,900,979,924,919,941,858,952,798,959,743,964,656"/>
+<area shape="rect" id="Node000028" href="$class_event_reading_algorithm.html#a635efbb37d59457cfa1101947a2b82b8" title="Read the algorithm settings." alt="" coords="626,1031,781,1073"/>
+<area shape="poly" id="edge28_Node000001_Node000028" title=" " alt="" coords="967,656,958,732,937,830,920,882,897,932,867,979,831,1021,808,1036,783,1046,781,1041,806,1032,828,1017,863,976,892,930,915,880,932,829,953,731,962,655"/>
+<area shape="rect" id="Node000029" href="$classlar__content_1_1_trained_vertex_selection_algorithm.html#a87a0ff5ede89b03c2d1c0fa3cb32d1b1" title="Update the min/max coordinate spans." alt="" coords="599,881,808,940"/>
+<area shape="poly" id="edge29_Node000001_Node000029" title=" " alt="" coords="958,656,940,705,914,762,878,821,856,848,831,871,810,885,807,881,828,867,852,844,874,818,909,760,936,703,953,654"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_cluster.html#a961701c5cd322cadc41a03e4e2e1dee3" title="Constructor." alt="" coords="331,5,496,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="612,58,489,35,490,30,613,53"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_three_view_track_fragments_algorithm.html#ac4c5ebd63e3b54b7d65c81643a8de116" title="Calculate overlap result for track fragment candidate consisting of two sliding fit results and a lis..." alt="" coords="5,260,249,319"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="595,200,453,219,297,247,232,262,231,257,296,241,452,214,595,195"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_n_view_delta_ray_matching_algorithm.html#aac181605230498590d2768ca50f6f635" title="Create delta ray pfos maxmising completeness by searching for and merging in any stray clusters." alt="" coords="313,56,514,99"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="641,160,529,113,494,102,496,97,531,108,643,155"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_n_view_delta_ray_matching_algorithm.html#aa3efbf0e2e50f0f836230ec55b3efe1f" title="Use two clusters from different views to calculate projected positions in the remaining third view." alt="" coords="307,123,520,181"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="595,176,520,167,521,162,595,170"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_three_view_track_fragments_algorithm.html#ade08f511676067feb093570e0e67bb5c" title="Get the list of projected positions, in the third view, corresponding to a pair of sliding fit result..." alt="" coords="302,323,525,381"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="598,209,580,221,563,242,556,265,550,289,532,313,516,324,513,320,528,309,545,286,551,263,558,240,576,217,595,205"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_removal_base_tool.html#ac8a4520539e47d7c407805dbde3238ca" title="Determine whether the matched clusters suggest that the delta ray is at the endpoint of the cosmic ra..." alt="" coords="327,256,500,299"/>
+<area shape="poly" id="edge10_Node000004_Node000010" title=" " alt="" coords="602,214,579,221,531,240,480,258,478,253,529,235,577,216,601,209"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_removal_base_tool.html#ac01d4e750e1104686b559b40edac09c5" title="Use two views of a delta ray pfo to calculate projected positions in a given third view." alt="" coords="26,131,228,173"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="291,155,228,155,228,149,291,149"/>
+<area shape="poly" id="edge9_Node000009_Node000005" title=" " alt="" coords="286,327,249,319,250,313,287,322"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_trained_vertex_selection_algorithm.html#a8f96cea6d066581692dab3ea2fcddc0b" title="Get the event shape features." alt="" coords="297,643,530,701"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="584,284,580,287,429,644,424,642,576,284,580,280"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_trained_vertex_selection_algorithm.html#a239da43d16c7285cf011b371169ee65f" title="Calculate the event parameters." alt="" coords="15,643,239,701"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="281,675,240,675,240,669,281,669"/>
+<area shape="rect" id="Node000024" href="$namespacelar__reco.html#ad8e66b4e82e59c64870b978246ea98fc" title="Create pandora instances." alt="" coords="305,972,522,999"/>
+<area shape="poly" id="edge24_Node000023_Node000024" title=" " alt="" coords="602,988,522,988,522,983,602,983"/>
+<area shape="rect" id="Node000025" href="$_pandora_interface_8cxx.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="102,972,152,999"/>
+<area shape="poly" id="edge25_Node000024_Node000025" title=" " alt="" coords="289,988,152,988,152,983,289,983"/>
+<area shape="rect" id="Node000027" href="$classlar__content_1_1_master_algorithm.html#ad004248f04cd97eb38b6932b093546ef" title="Read the algorithm settings." alt="" coords="319,1097,508,1140"/>
+<area shape="poly" id="edge27_Node000026_Node000027" title=" " alt="" coords="594,1121,508,1121,508,1116,594,1116"/>
+<area shape="poly" id="edge30_Node000029_Node000012" title=" " alt="" coords="584,876,576,871,529,832,488,786,454,741,430,703,434,700,459,738,492,783,533,828,580,867,587,872"/>
+</map>

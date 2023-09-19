@@ -1,0 +1,13 @@
+<map id="lar_content::VertexSelectionBaseAlgorithm::IsBeamModeOn" name="lar_content::VertexSelectionBaseAlgorithm::IsBeamModeOn">
+<area shape="rect" id="Node000001" title="Whether algorithm is running in beam mode, assuming neutrinos travel in positive z&#45;direction." alt="" coords="889,96,1097,139"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_trained_vertex_selection_algorithm.html#a1e129e15bd3733ff33792b6fe1e86678" title="Add the event features to a vector in the correct order." alt="" coords="594,5,838,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="903,94,816,67,818,62,905,88"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_trained_vertex_selection_algorithm.html#a7707a6a883eee30f920801c3681572a5" title="Add the vertex features to a vector in the correct order." alt="" coords="591,88,841,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="874,120,842,120,842,115,874,115"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_trained_vertex_selection_algorithm.html#a6cb83f710d24227e971a4a0f7862bc7a" title="Populate the vertex feature info map for a given vertex." alt="" coords="603,171,830,229"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="905,146,818,173,816,167,903,141"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_trained_vertex_selection_algorithm.html#ab664f2fc44554042d0754f991b2900e7" title="Produce a set of training examples for a binary classifier." alt="" coords="312,88,543,147"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="575,120,543,120,543,115,575,115"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_trained_vertex_selection_algorithm.html#a19474126585ba332e454985b680c68cd" title="Produce the region and vertex training sets." alt="" coords="5,96,264,139"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="296,120,264,120,264,115,296,115"/>
+</map>

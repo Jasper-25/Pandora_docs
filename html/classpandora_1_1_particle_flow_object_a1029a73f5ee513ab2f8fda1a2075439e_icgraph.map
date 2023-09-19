@@ -1,0 +1,32 @@
+<map id="pandora::ParticleFlowObject::GetPropertiesMap" name="pandora::ParticleFlowObject::GetPropertiesMap">
+<area shape="rect" id="Node000001" title="Get the map from registered property name to floating point property value." alt="" coords="987,101,1171,144"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_master_algorithm.html#a6d95131b95ea12d436b9ecb216c038b5" title="Create a new pfo in the current pandora instance, based upon the provided input pfo." alt="" coords="750,9,939,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1007,98,900,55,902,50,1009,93"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_stitching_helper.html#a78750463ee6488dd1726c2bfe0991269" title="Return the x0 for a pfo." alt="" coords="516,72,680,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="971,119,680,101,680,96,972,114"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_l_ar_stitching_helper.html#a16c79bbc86712bc0cd6b5e3220d2d51f" title="Whether a pfo has been stitched." alt="" coords="751,131,938,173"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="972,139,938,143,938,138,971,133"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_l_ar_pfo_helper.html#a1131739c54ecb80351077b80c730f0fc" title="Whether a pfo is a test beam particle." alt="" coords="760,272,929,315"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="1037,156,877,274,874,269,1034,152"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_master_algorithm.html#a5e4808ff37d0fdeda42d718673ac14a7" title="Recreate a specified pfo in the current pandora instance." alt="" coords="504,5,692,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="735,32,692,31,692,26,735,26"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="737,129,679,115,681,110,738,124"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_master_algorithm.html#a30245ea45f969b906fdbafb1b7054a9b" title="Run cosmic&#45;ray hit removal, freeing hits in ambiguous pfos for further processing." alt="" coords="504,139,692,181"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="736,158,692,160,692,154,736,153"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_master_algorithm.html#ab61b051a14d2431fa04900e52277ce96" title="Run the algorithm." alt="" coords="226,147,445,173"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="488,163,446,163,446,157,488,157"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_l_ar_pfo_helper.html#ab13d0833aa951fef0de5120142d3bc9a" title="Get the pfo test beam interaction vertex." alt="" coords="494,205,701,248"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="747,270,679,251,680,246,749,265"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_l_ar_pfo_helper.html#ae6f2016287caf24a56c1c40d6fa8ec90" title="Get the pfo vertex." alt="" coords="513,272,682,315"/>
+<area shape="poly" id="edge10_Node000008_Node000010" title=" " alt="" coords="744,296,683,296,683,291,744,291"/>
+<area shape="rect" id="Node000014" href="$classlar__content_1_1_l_ar_pfo_helper.html#ac1b7a179f04fd3b349ace083883f2906" title="Whether a pfo is a final&#45;state particle from a test beam particle interaction." alt="" coords="513,339,682,381"/>
+<area shape="poly" id="edge14_Node000008_Node000014" title=" " alt="" coords="749,322,680,341,679,335,747,317"/>
+<area shape="rect" id="Node000015" href="$classlar__content_1_1_cheating_beam_particle_id_tool.html#aaf934322370c1f914f67f771c77d7d4e" title="Select which reconstruction hypotheses to use; neutrino outcomes or cosmic&#45;ray muon outcomes for each..." alt="" coords="493,405,702,448"/>
+<area shape="poly" id="edge15_Node000008_Node000015" title=" " alt="" coords="808,327,760,362,704,396,677,407,675,402,701,391,757,358,804,322"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_custom_particle_creation_algorithm.html#acd2c8d72127d0e7ddfcff04724166877" title="Run the algorithm." alt="" coords="244,239,427,281"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="497,283,427,274,427,269,498,278"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_three_d_vertex_distance_feature_tool.html#a6b24d20d23e65155a81cfd06edc1a0f1" title=" " alt="" coords="249,305,422,348"/>
+<area shape="poly" id="edge12_Node000010_Node000012" title=" " alt="" coords="498,309,422,318,422,313,497,303"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_three_d_vertex_distance_feature_tool.html#a3e2358fc5e16766c3c91f054851a0c59" title=" " alt="" coords="5,305,178,348"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="233,329,178,329,178,324,233,324"/>
+</map>

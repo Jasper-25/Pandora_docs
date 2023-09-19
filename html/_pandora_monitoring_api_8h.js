@@ -1,0 +1,48 @@
+var _pandora_monitoring_api_8h =
+[
+    [ "PandoraMonitoringApi", "class_pandora_monitoring_api.html", "class_pandora_monitoring_api" ],
+    [ "Color", "_pandora_monitoring_api_8h.html#ab87bacfdad76e61b9412d7124be44c1c", [
+      [ "WHITE", "_pandora_monitoring_api_8h.html#ab87bacfdad76e61b9412d7124be44c1ca283fc479650da98250635b9c3c0e7e50", null ],
+      [ "BLACK", "_pandora_monitoring_api_8h.html#ab87bacfdad76e61b9412d7124be44c1caf77fb67151d0c18d397069ad8c271ba3", null ],
+      [ "RED", "_pandora_monitoring_api_8h.html#ab87bacfdad76e61b9412d7124be44c1caf80f9a890089d211842d59625e561f88", null ],
+      [ "GREEN", "_pandora_monitoring_api_8h.html#ab87bacfdad76e61b9412d7124be44c1caa60bd322f93178d68184e30e162571ca", null ],
+      [ "BLUE", "_pandora_monitoring_api_8h.html#ab87bacfdad76e61b9412d7124be44c1ca35d6719cb4d7577c031b3d79057a1b79", null ],
+      [ "MAGENTA", "_pandora_monitoring_api_8h.html#ab87bacfdad76e61b9412d7124be44c1ca56926c820ad72d0977e7ee44d9916e62", null ],
+      [ "CYAN", "_pandora_monitoring_api_8h.html#ab87bacfdad76e61b9412d7124be44c1caafe71cad474c15ce63b300c470eef8cc", null ],
+      [ "VIOLET", "_pandora_monitoring_api_8h.html#ab87bacfdad76e61b9412d7124be44c1ca7088400e4fa72e2239115e7c0b294ea4", null ],
+      [ "PINK", "_pandora_monitoring_api_8h.html#ab87bacfdad76e61b9412d7124be44c1ca186598537092d140eaa60720ec7e0821", null ],
+      [ "ORANGE", "_pandora_monitoring_api_8h.html#ab87bacfdad76e61b9412d7124be44c1cace9ee4c1a6b777940c7f3a766a9a88d4", null ],
+      [ "YELLOW", "_pandora_monitoring_api_8h.html#ab87bacfdad76e61b9412d7124be44c1cae735a848bf82163a19236ead1c3ef2d2", null ],
+      [ "SPRING", "_pandora_monitoring_api_8h.html#ab87bacfdad76e61b9412d7124be44c1ca74ce3137b26cdafc19bdb66d881971fa", null ],
+      [ "TEAL", "_pandora_monitoring_api_8h.html#ab87bacfdad76e61b9412d7124be44c1cacb3539cc3e2dc09edbbd2a6f6ea002a0", null ],
+      [ "AZURE", "_pandora_monitoring_api_8h.html#ab87bacfdad76e61b9412d7124be44c1cadb227ea471d17a241804b2082ccd1d68", null ],
+      [ "GRAY", "_pandora_monitoring_api_8h.html#ab87bacfdad76e61b9412d7124be44c1ca3fb6c4ad00f4ad98553e01229d1803ac", null ],
+      [ "DARKRED", "_pandora_monitoring_api_8h.html#ab87bacfdad76e61b9412d7124be44c1cabe740b28cdb8bf307e639f4a37e48fb0", null ],
+      [ "DARKGREEN", "_pandora_monitoring_api_8h.html#ab87bacfdad76e61b9412d7124be44c1caf79adcdefe686bdc500ad2733af34c36", null ],
+      [ "DARKBLUE", "_pandora_monitoring_api_8h.html#ab87bacfdad76e61b9412d7124be44c1cabfc89dc8dc5c91a35a6e3d347b7c9baa", null ],
+      [ "DARKMAGENTA", "_pandora_monitoring_api_8h.html#ab87bacfdad76e61b9412d7124be44c1ca68f9f8e23d51fc9d6882df0d7877495f", null ],
+      [ "DARKCYAN", "_pandora_monitoring_api_8h.html#ab87bacfdad76e61b9412d7124be44c1ca85a80bd1f305c0dc3188e5d1b2ac86c1", null ],
+      [ "DARKVIOLET", "_pandora_monitoring_api_8h.html#ab87bacfdad76e61b9412d7124be44c1ca5d292275eb6c0af0bbf2e9d435d0f090", null ],
+      [ "DARKPINK", "_pandora_monitoring_api_8h.html#ab87bacfdad76e61b9412d7124be44c1ca19b7f540d86c857cf40b9fd4d4fb3261", null ],
+      [ "DARKORANGE", "_pandora_monitoring_api_8h.html#ab87bacfdad76e61b9412d7124be44c1ca56980efff3668339e9077226336505af", null ],
+      [ "DARKYELLOW", "_pandora_monitoring_api_8h.html#ab87bacfdad76e61b9412d7124be44c1ca0311c0ecb97a3f42f678481a61ef6c95", null ],
+      [ "LIGHTRED", "_pandora_monitoring_api_8h.html#ab87bacfdad76e61b9412d7124be44c1caf3a6d81d1da6f2134cc3cca6f02b1114", null ],
+      [ "LIGHTGREEN", "_pandora_monitoring_api_8h.html#ab87bacfdad76e61b9412d7124be44c1ca0c9ed06b5de60ddd26bb2808e5f4b5dd", null ],
+      [ "LIGHTBLUE", "_pandora_monitoring_api_8h.html#ab87bacfdad76e61b9412d7124be44c1ca272b71e84bc2640b193e9fe3c72cb3de", null ],
+      [ "LIGHTMAGENTA", "_pandora_monitoring_api_8h.html#ab87bacfdad76e61b9412d7124be44c1cae19b6d1fedca830c608811b77bd0affc", null ],
+      [ "LIGHTCYAN", "_pandora_monitoring_api_8h.html#ab87bacfdad76e61b9412d7124be44c1cac8d7b8737ca95d137a05f3bb8f3d1a17", null ],
+      [ "LIGHTVIOLET", "_pandora_monitoring_api_8h.html#ab87bacfdad76e61b9412d7124be44c1ca64047b8fd9beb8d1fefca8ce9e831fde", null ],
+      [ "LIGHTPINK", "_pandora_monitoring_api_8h.html#ab87bacfdad76e61b9412d7124be44c1caa53343085b7a79691d8f1ed1b94d594c", null ],
+      [ "LIGHTORANGE", "_pandora_monitoring_api_8h.html#ab87bacfdad76e61b9412d7124be44c1ca343c897ce593044758d5d94d768abc59", null ],
+      [ "LIGHTYELLOW", "_pandora_monitoring_api_8h.html#ab87bacfdad76e61b9412d7124be44c1ca83b21f0c4fad21a5b08f2fa1e1856ca9", null ],
+      [ "AUTO", "_pandora_monitoring_api_8h.html#ab87bacfdad76e61b9412d7124be44c1caeef9468d1b98bca652a04bf5063fd9d6", null ],
+      [ "AUTOID", "_pandora_monitoring_api_8h.html#ab87bacfdad76e61b9412d7124be44c1cab52bdbab2b15f386486a6f4dbff026d2", null ],
+      [ "AUTOITER", "_pandora_monitoring_api_8h.html#ab87bacfdad76e61b9412d7124be44c1ca74e01ea304bc9f5be8ce22bbe56149d9", null ],
+      [ "AUTOENERGY", "_pandora_monitoring_api_8h.html#ab87bacfdad76e61b9412d7124be44c1ca15f71262373c0a28ed820e9946c8432c", null ]
+    ] ],
+    [ "DetectorView", "_pandora_monitoring_api_8h.html#a2f08b83ae5543f47d166584d5d9d5d29", [
+      [ "DETECTOR_VIEW_DEFAULT", "_pandora_monitoring_api_8h.html#a2f08b83ae5543f47d166584d5d9d5d29a4fdf37fa0e9f067f6fa4345b6e73466a", null ],
+      [ "DETECTOR_VIEW_XY", "_pandora_monitoring_api_8h.html#a2f08b83ae5543f47d166584d5d9d5d29a2aa28f81ba5fd15d5eed4e1568327dd0", null ],
+      [ "DETECTOR_VIEW_XZ", "_pandora_monitoring_api_8h.html#a2f08b83ae5543f47d166584d5d9d5d29a7f5ed9f39d90f44231003fe5e49396e7", null ]
+    ] ]
+];

@@ -1,0 +1,16 @@
+<map id="lar_content::ProtoShower::GetConnectionPathway" name="lar_content::ProtoShower::GetConnectionPathway">
+<area shape="rect" id="Node000001" title="Get the connection pathway." alt="" coords="825,137,993,180"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_connection_pathway_helper.html#ae4ae5c80097bc6d20405f48ae4eb1160" title="Find the 2D spine hit that is closest to the neutrino vertex and shares a drift coordinate with an in..." alt="" coords="554,88,772,147"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="810,145,772,138,773,133,811,139"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_l_ar_connection_pathway_helper.html#a9d47d3dbc00590dbc63816ab8b158adf" title="Find a 2D shower start, from a drift coordinate by assuming consistency of initial direction." alt="" coords="549,171,777,229"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="811,178,778,183,778,178,810,173"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_connection_pathway_helper.html#a1b7874667390a5b6c6c2c69ecf1de4c5" title="Create a 3D shower start position from an input 2D position, assuming consistency of the drift coordi..." alt="" coords="289,5,501,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="551,86,492,67,493,62,552,80"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_l_ar_connection_pathway_helper.html#add8caf501655073314a0b078003be9bd" title="A relaxed approach to create a 3D shower start position from an input 2D position,..." alt="" coords="289,88,501,147"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="538,120,501,120,501,115,538,115"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_connection_pathway_helper.html#ae589839cfb47ee86d85d738273cfe061" title="Create 3D shower start position(s) from three input 2D positions." alt="" coords="5,55,241,97"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="274,56,241,61,241,55,273,50"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="273,102,241,97,241,91,274,96"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_l_ar_connection_pathway_helper.html#af92f442f19e473eb517332723fb13055" title="Create a 3D shower start position from an input 2D position, assuming consistency of initial directio..." alt="" coords="289,171,501,229"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="533,203,502,203,502,197,533,197"/>
+</map>

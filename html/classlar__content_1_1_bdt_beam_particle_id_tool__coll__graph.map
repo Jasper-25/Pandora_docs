@@ -1,0 +1,11 @@
+<map id="lar_content::BdtBeamParticleIdTool" name="lar_content::BdtBeamParticleIdTool">
+<area shape="rect" id="Node000001" title="BdtBeamParticleIdTool class." alt="" coords="5,324,197,367"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_slice_id_base_tool.html" title="SliceIdBaseTool class." alt="" coords="8,248,194,275"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,290,104,324,98,324,98,290"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_algorithm_tool.html" title="AlgorithmTool class. Algorithm tools will tend to be tailored for specific parent algorithms,..." alt="" coords="24,172,178,199"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="104,214,104,248,98,248,98,214"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_process.html" title="Process class." alt="" coords="39,96,163,123"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="104,138,104,172,98,172,98,138"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_pandora.html" title="Pandora class." alt="" coords="39,5,163,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="104,48,104,95,98,95,98,48"/>
+</map>

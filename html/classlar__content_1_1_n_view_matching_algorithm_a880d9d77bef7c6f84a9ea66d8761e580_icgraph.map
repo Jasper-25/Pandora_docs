@@ -1,0 +1,17 @@
+<map id="lar_content::NViewMatchingAlgorithm::GetMatchingControl" name="lar_content::NViewMatchingAlgorithm::GetMatchingControl">
+<area shape="rect" id="Node000001" title="Get the matching control." alt="" coords="592,163,791,205"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_three_view_track_fragments_algorithm.html#a7818666ec35f8bd631303d1f002ce862" title="Calculate cluster overlap result and store in container." alt="" coords="301,29,544,88"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="637,157,543,109,501,91,503,86,545,104,640,152"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_three_view_track_fragments_algorithm.html#a29206ba2b154a1ca461873f70d095cff" title="Update to reflect addition of a new cluster to the problem space." alt="" coords="13,96,245,155"/>
+<area shape="poly" id="edge7_Node000001_Node000004" title=" " alt="" coords="590,162,544,153,388,137,245,130,245,125,388,132,544,148,591,156"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_two_view_delta_ray_matching_algorithm.html#a4be0f13f2c2f1331f4189aeef38596dc" title="Get the address of the given hit type cluster." alt="" coords="311,163,534,205"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="576,187,534,187,534,181,576,181"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_two_view_delta_ray_matching_algorithm.html#a54ec81ab8b8d6506080e819d5cf71db7" title="Obtain the HitTypeVector of input views." alt="" coords="310,229,535,288"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="598,213,531,231,530,226,596,208"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_two_view_delta_ray_matching_algorithm.html#a556b25eab5a397b09b4248537cb68f2e" title="Update the matrix after a third view cluster modification &#45; remove delta ray clusters and reassess th..." alt="" coords="312,312,533,371"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="658,218,607,261,545,302,521,314,519,309,543,298,604,257,655,214"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="466,17,449,11,422,8,399,10,383,15,376,21,375,29,370,29,371,19,381,10,398,5,422,3,451,5,468,13"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_three_view_track_fragments_algorithm.html#a18c830b8bfefedb0af402fd02fe902e7" title="Main loop over cluster combinations in order to populate the overlap container. Responsible for calli..." alt="" coords="5,29,253,72"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="285,58,253,57,253,51,285,52"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="286,92,246,102,245,96,285,87"/>
+</map>

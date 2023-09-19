@@ -1,0 +1,5 @@
+<map id="pandora::CartesianVector::GetDistanceSquared" name="pandora::CartesianVector::GetDistanceSquared">
+<area shape="rect" id="Node000001" title="Get the distance squared of a cartesian vector with respect to a second cartesian vector." alt="" coords="275,13,443,56"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_connection_pathway_helper_1_1_sort_by_distance_to_point.html#af2bbc8f4c781f9a05ccecf117790cda0" title="Sort constituent hits by their position relative to a referencePoint." alt="" coords="5,5,227,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="259,37,227,37,227,32,259,32"/>
+</map>

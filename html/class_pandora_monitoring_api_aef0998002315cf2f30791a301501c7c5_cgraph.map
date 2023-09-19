@@ -1,0 +1,13 @@
+<map id="PandoraMonitoringApi::AddLineToVisualization" name="PandoraMonitoringApi::AddLineToVisualization">
+<area shape="rect" id="Node000001" title="Add line to visualization." alt="" coords="5,113,170,156"/>
+<area shape="rect" id="Node000002" href="$classpandora__monitoring_1_1_pandora_monitoring.html#a1abed40121e79dceedb104556f6374f9" title="Add line to visualization." alt="" coords="218,64,382,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,116,202,110,203,115,170,121"/>
+<area shape="rect" id="Node000006" href="$classpandora__monitoring_1_1_pandora_monitoring.html#aeefdfb3a43a266bebcd08ef36b7263fb" title="Get the relevant pandora monitoring instance." alt="" coords="231,147,369,205"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="170,148,216,157,215,162,169,153"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="430,5,598,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="382,65,428,51,430,56,383,70"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_cartesian_vector.html#ac659e980ff25060906bd85497c49d081" title="Get the cartesian y coordinate." alt="" coords="430,72,598,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="382,91,414,91,414,96,382,96"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="430,139,598,181"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="383,116,430,131,428,136,382,121"/>
+</map>

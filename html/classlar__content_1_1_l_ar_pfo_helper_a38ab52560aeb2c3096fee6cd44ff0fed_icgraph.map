@@ -1,0 +1,7 @@
+<map id="lar_content::LArPfoHelper::IsShower" name="lar_content::LArPfoHelper::IsShower">
+<area shape="rect" id="Node000001" title="Return shower flag based on Pfo Particle ID." alt="" coords="243,39,412,81"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_delta_ray_shower_hits_tool.html#ae386e3543378931d17819153314e4379" title="Run the algorithm tool." alt="" coords="5,5,195,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,48,195,43,196,38,228,43"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_shower_hits_base_tool.html#aed9c31be40001a46d5c5a8de8d34df3b" title="Run the algorithm tool." alt="" coords="5,72,195,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="228,77,196,82,195,77,227,72"/>
+</map>

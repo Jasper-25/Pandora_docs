@@ -1,0 +1,7 @@
+<map id="pandora_monitoring::PandoraMonitoring::SortMCParticlesByEnergy" name="pandora_monitoring::PandoraMonitoring::SortMCParticlesByEnergy">
+<area shape="rect" id="Node000001" title="Sort MCParticles by descending energy." alt="" coords="408,5,589,64"/>
+<area shape="rect" id="Node000002" href="$classpandora__monitoring_1_1_pandora_monitoring.html#a85a2ea83f433b7a975f41d97de31b1de" title="Add MC particles to the Eve event&#45;display." alt="" coords="207,5,360,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="393,37,360,37,360,32,393,32"/>
+<area shape="rect" id="Node000003" href="$class_pandora_monitoring_api.html#a1062c806b123cde61f24a6a013ea285b" title="Add MCParticles to the Eve event&#45;display." alt="" coords="5,13,159,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="191,37,159,37,159,32,191,32"/>
+</map>

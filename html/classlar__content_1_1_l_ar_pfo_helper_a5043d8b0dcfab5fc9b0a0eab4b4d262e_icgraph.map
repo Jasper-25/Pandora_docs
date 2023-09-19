@@ -1,0 +1,22 @@
+<map id="lar_content::LArPfoHelper::GetTwoDClusterList" name="lar_content::LArPfoHelper::GetTwoDClusterList">
+<area shape="rect" id="Node000001" title="Get the list of 2D clusters from an input pfo." alt="" coords="547,197,716,240"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#aa503b8f3406ee3d5c2ed14d6064aff22" title="Find the mc particle making the largest contribution to 2D clusters in a specified pfo." alt="" coords="301,5,481,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="608,186,562,122,532,90,498,62,477,51,479,46,500,58,535,86,566,119,612,182"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_pfo_helper.html#a3e713ae528d611c85d2da6fb8d2ada0a" title="Get the number of 2D hits of a PFO." alt="" coords="306,72,476,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="591,189,547,158,498,129,471,118,473,113,500,124,550,154,594,185"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_pfo_characterisation_base_algorithm.html#a131fcf1fbb4e95b237d47f258678ac79" title="Whether pfo is identified as a clear track using its three clusters." alt="" coords="283,139,499,181"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="531,197,481,185,482,179,532,192"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_pfo_characterisation_base_algorithm.html#a001cd4205da861d562c28f2f6ae81da7" title="Run the algorithm." alt="" coords="17,168,223,211"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="532,216,224,198,224,193,532,210"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_l_ar_particle_id_plugins_1_1_l_ar_muon_id.html#ab2900de978b69f183bec4a2e8c14d565" title="Whether the pfo matches the specific particle hypothesis." alt="" coords="312,256,470,315"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="539,247,471,266,469,261,537,242"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_master_algorithm.html#a5e4808ff37d0fdeda42d718673ac14a7" title="Recreate a specified pfo in the current pandora instance." alt="" coords="297,339,485,381"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="600,253,555,292,500,329,475,341,473,336,498,324,552,288,597,249"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_three_d_linear_fit_feature_tool.html#aefd66c37a2aa301a934d7526f0483d25" title=" " alt="" coords="306,405,476,448"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="615,255,569,326,538,364,501,396,477,409,474,404,497,391,534,360,565,323,610,252"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_mva_pfo_characterisation_algorithm.html#aa9ff9dd7f75bb29fd25d73fd8050a2f1" title="Whether pfo is identified as a clear track." alt="" coords="5,5,235,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="286,29,235,29,235,24,286,24"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="268,176,224,181,223,176,267,171"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_three_d_linear_fit_feature_tool.html#ad3bb0d3892be7e86da3ee16cee30111e" title=" " alt="" coords="35,405,205,448"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="290,429,205,429,205,424,290,424"/>
+</map>

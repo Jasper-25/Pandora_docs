@@ -1,0 +1,5 @@
+<map id="lar_content::LArHierarchyHelper::MCHierarchy::Node::GetParticleId" name="lar_content::LArHierarchyHelper::MCHierarchy::Node::GetParticleId">
+<area shape="rect" id="Node000001" title="Retrieve the PDG code for the leading particle in this node." alt="" coords="222,5,401,64"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_hierarchy_helper_1_1_match_info.html#a0c554f0f365da32f4fc83da8d1fdaab8" title="Prints information about which reco nodes are matched to the MC nodes, information about hit sharing,..." alt="" coords="5,13,174,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,37,174,37,174,32,206,32"/>
+</map>

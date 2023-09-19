@@ -1,0 +1,11 @@
+<map id="lar_content::ThreeDPCAFeatureTool" name="lar_content::ThreeDPCAFeatureTool">
+<area shape="rect" id="Node000001" title="ThreeDPCAFeatureTool class for the calculation of PCA&#45;related variables." alt="" coords="5,324,235,351"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_mva_feature_tool.html" title="MvaFeatureTool class template." alt="" coords="19,248,221,275"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,290,123,324,117,324,117,290"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_algorithm_tool.html" title="AlgorithmTool class. Algorithm tools will tend to be tailored for specific parent algorithms,..." alt="" coords="43,172,197,199"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="123,214,123,248,117,248,117,214"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_process.html" title="Process class." alt="" coords="58,96,182,123"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="123,138,123,172,117,172,117,138"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_pandora.html" title="Pandora class." alt="" coords="58,5,182,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="123,48,123,95,117,95,117,48"/>
+</map>

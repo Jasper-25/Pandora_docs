@@ -1,0 +1,18 @@
+<map id="lar_content::ThreeViewRemnantsAlgorithm" name="lar_content::ThreeViewRemnantsAlgorithm">
+<area shape="rect" id="Node000001" title="ThreeViewRemnantsAlgorithm class." alt="" coords="20,661,233,704"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_n_view_matching_algorithm.html" title=" " alt="" coords="5,553,248,612"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,627,129,661,124,661,124,627"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_matching_base_algorithm.html" title="MatchingBaseAlgorithm class." alt="" coords="38,248,215,291"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="129,306,129,553,124,553,124,306"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_n_view_matching_control.html" title="NViewMatchingControl class." alt="" coords="148,355,332,397"/>
+<area shape="poly" id="edge8_Node000008_Node000003" title=" " alt="" coords="162,299,219,352,216,356,158,303"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_algorithm.html" title="Algorithm class. Algorithm addresses are held only by the algorithm manager. They have a fully define..." alt="" coords="61,172,192,199"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="129,214,129,248,124,248,124,214"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_process.html" title="Process class." alt="" coords="65,96,188,123"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="129,138,129,172,124,172,124,138"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_pandora.html" title="Pandora class." alt="" coords="65,5,188,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="129,48,129,95,124,95,124,48"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_three_view_matching_control.html" title=" " alt="" coords="142,447,348,489"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="214,502,158,555,155,551,211,498"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="245,413,247,446,241,447,239,413"/>
+</map>

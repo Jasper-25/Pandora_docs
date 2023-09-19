@@ -1,0 +1,13 @@
+<map id="lar_content::LArHitWidthHelper::GetConstituentHitPositionVector" name="lar_content::LArHitWidthHelper::GetConstituentHitPositionVector">
+<area shape="rect" id="Node000001" title="Obtain a vector of the contituent hit central positions." alt="" coords="525,113,741,172"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_hit_width_helper.html#a0cec0e71e09f78b4fa5c3d1e313614f3" title="Calculate the higher and lower x extremal points of the constituent hits." alt="" coords="262,55,477,97"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="509,114,456,100,457,95,511,109"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_two_d_sliding_fit_result.html#aec4a3fcb2a5a2367a419ae480da16a44" title=" " alt="" coords="267,121,472,164"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="509,145,472,145,472,140,509,140"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a2d02cb529201041ac4bb5f26b9ef6f6b" title=" " alt="" coords="267,188,472,231"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="511,176,457,190,456,185,509,171"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_hit_width_helper.html#a62914152ca1d5d4e72beac1452970e56" title="Return the higher x extremal point of the constituent hits." alt="" coords="5,5,214,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="246,59,214,54,214,49,247,54"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_hit_width_helper.html#aee4ffcbd5bbf2cae661b0b74448c18d5" title="Return the lower x extremal point of the constituent hits." alt="" coords="5,88,214,147"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="247,98,214,103,214,98,246,93"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="lar_content::MopUpBaseAlgorithm::GetListName" name="lar_content::MopUpBaseAlgorithm::GetListName">
+<area shape="rect" id="Node000001" title="Find the name of the list hosting a specific object." alt="" coords="1014,39,1233,81"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_cluster_mop_up_base_algorithm.html#adbeb14ec329ee26bb3cb23dbb8f84e39" title="Make the cluster merges specified in the cluster association map, using list name information in the ..." alt="" coords="735,5,966,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="998,47,966,43,966,38,999,42"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_pfo_mop_up_base_algorithm.html#a9088dbeede88d07fb7bbead7da6e7c90" title="Merge and delete a pair of pfos, with a specific set of conventions for cluster merging,..." alt="" coords="747,72,954,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="998,78,955,83,954,78,998,73"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_vertex_based_pfo_mop_up_algorithm.html#abc1b6acc6ea18d3b7443fa3faa634128" title="Merge the vertex and daughter pfos (deleting daughter pfo, merging clusters, etc.) described in the s..." alt="" coords="481,72,687,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="732,96,688,96,688,91,732,91"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_vertex_based_pfo_mop_up_algorithm.html#a777454b7d6a78c899bdb888a1c4a47d5" title="Process the list of pfo associations, merging the best&#45;matching pfo." alt="" coords="222,64,433,123"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="465,96,434,96,434,91,465,91"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_vertex_based_pfo_mop_up_algorithm.html#a9e188aee8a6b3ced1eb47c31b68bfd18" title="Run the algorithm." alt="" coords="5,72,174,115"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="206,96,174,96,174,91,206,91"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="pandora::CaloHit::GetParentAddress" name="pandora::CaloHit::GetParentAddress">
+<area shape="rect" id="Node000001" title="Get the address of the parent calo hit in the user framework." alt="" coords="242,39,426,81"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_object_helper_1_1_type_adaptor.html#a4c0e977d2bed591be6447e0da9477900" title=" " alt="" coords="5,5,194,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,47,194,43,195,37,227,42"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_master_algorithm.html#a5e4808ff37d0fdeda42d718673ac14a7" title="Recreate a specified pfo in the current pandora instance." alt="" coords="5,72,194,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="227,78,195,83,194,77,226,73"/>
+</map>

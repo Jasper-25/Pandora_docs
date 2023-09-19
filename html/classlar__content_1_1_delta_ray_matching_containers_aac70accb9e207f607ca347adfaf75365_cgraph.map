@@ -1,0 +1,8 @@
+<map id="lar_content::DeltaRayMatchingContainers::AddClustersToContainers" name="lar_content::DeltaRayMatchingContainers::AddClustersToContainers">
+<area shape="rect" id="Node000001" title="Add a list of clusters to the hit to cluster and cluster proximity maps and, if appropriate,..." alt="" coords="5,29,244,72"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_delta_ray_matching_containers.html#a6b4b59416b3817bfe711a4c75d79e0ea" title="Add the clusters of a cosmic ray/delta ray pfo to the cluster to pfo maps." alt="" coords="292,29,519,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,48,276,48,276,53,244,53"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_pfo_helper.html#aa787af8a9076523d5ac8fc72a0102760" title="Get a list of clusters of a particular hit type from a list of pfos." alt="" coords="567,29,736,72"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="520,48,551,48,551,53,520,53"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="605,29,603,19,611,10,627,5,652,3,678,5,694,11,692,16,677,10,652,8,628,10,614,15,608,21,610,28"/>
+</map>

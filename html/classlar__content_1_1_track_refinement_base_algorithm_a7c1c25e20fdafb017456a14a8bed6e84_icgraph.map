@@ -1,0 +1,7 @@
+<map id="lar_content::TrackRefinementBaseAlgorithm::IsInLineSegment" name="lar_content::TrackRefinementBaseAlgorithm::IsInLineSegment">
+<area shape="rect" id="Node000001" title="Whether a position falls within a specified segment of the cluster connecting line." alt="" coords="584,5,794,48"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_track_refinement_base_algorithm.html#a5d405ce4ca49c3fb833abb5255cb2c0f" title="Check whether the extrapolatedCaloHitVector contains a continuous line of hits between the cluster me..." alt="" coords="315,5,536,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="568,29,536,29,536,24,568,24"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_track_refinement_base_algorithm.html#affe8cf41267558fcadf2b61f3a7056bf" title="Perform topological checks on the collected hits to ensure no gaps are present." alt="" coords="5,5,267,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="299,29,267,29,267,24,299,24"/>
+</map>

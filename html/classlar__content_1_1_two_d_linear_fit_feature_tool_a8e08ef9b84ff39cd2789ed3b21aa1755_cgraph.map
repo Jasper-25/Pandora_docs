@@ -1,0 +1,14 @@
+<map id="lar_content::TwoDLinearFitFeatureTool::Run" name="lar_content::TwoDLinearFitFeatureTool::Run">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,85,181,128"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_process.html#abce8ef815d9d4bb3080be3c6a5d8de61" title="Get the instance name." alt="" coords="229,5,464,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,82,178,61,228,41,254,34,255,39,230,47,181,66,136,87"/>
+<area shape="rect" id="Node000003" href="$class_pandora_content_api.html#aeed1b08b9b265ce554250784193bdd54" title="Get the pandora settings instance." alt="" coords="276,56,417,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="181,94,260,85,260,90,182,99"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_process.html#a76435ee767be0d57159aa460ed6fc5a7" title="Get the type." alt="" coords="256,123,437,149"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="182,114,241,121,240,126,181,119"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_pandora_settings.html#ab629c73e8638e7b4c9dfd48c7acaa38b" title="Whether to display algorithm information during processing." alt="" coords="253,173,440,216"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="145,126,230,159,251,166,250,171,228,164,143,131"/>
+<area shape="rect" id="Node000004" href="$class_pandora_content_api.html#a564c7edc453a936e78fdd2102e870234" title="Replace the current list with a pre&#45;saved list; use this new list as a permanent replacement for the ..." alt="" coords="512,56,653,99"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="417,75,497,75,497,80,417,80"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="538,56,536,46,544,37,559,31,583,29,608,32,623,38,621,43,607,37,583,35,560,37,547,41,541,47,543,55"/>
+</map>

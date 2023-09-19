@@ -1,0 +1,5 @@
+<map id="lar_content::LArHitWidthHelper::GetClosestDistanceToPoint2D" name="lar_content::LArHitWidthHelper::GetClosestDistanceToPoint2D">
+<area shape="rect" id="Node000001" title="Consider the hit width to find the smallest distance between a calo hit and a given point." alt="" coords="260,5,456,64"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_track_refinement_base_algorithm.html#a520085350cf50fc0e9122a5c7114acd9" title="Check whether a hit is close to a boundary point." alt="" coords="5,13,212,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,37,212,37,212,32,244,32"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="LArContent/larpandoracontent/LArPlugins/LArPseudoLayerPlugin.h" name="LArContent/larpandoracontent/LArPlugins/LArPseudoLayerPlugin.h">
+<area shape="rect" id="Node000001" title="Header file for the lar pseudo layer plugin class." alt="" coords="263,5,498,48"/>
+<area shape="rect" id="Node000002" href="$_master_algorithm_8cc.html" title="Implementation of the master algorithm class." alt="" coords="5,96,236,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="306,56,182,98,181,93,305,51"/>
+<area shape="rect" id="Node000003" href="$_l_ar_pseudo_layer_plugin_8cc.html" title=" " alt="" coords="259,96,502,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="383,64,383,96,378,96,378,64"/>
+<area shape="rect" id="Node000004" href="$_pandora_interface_8cxx.html" title=" " alt="" coords="526,104,750,131"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="456,51,602,101,600,106,454,56"/>
+</map>

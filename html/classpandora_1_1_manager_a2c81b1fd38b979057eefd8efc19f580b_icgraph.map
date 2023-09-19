@@ -1,0 +1,7 @@
+<map id="pandora::Manager::EraseAllContent" name="pandora::Manager::EraseAllContent">
+<area shape="rect" id="Node000001" title="Erase all manager content." alt="" coords="245,39,427,81"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_algorithm_object_manager.html#a56cd85efad1da545cd1c1da391a7d5cc" title="Erase all manager content." alt="" coords="14,5,188,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="229,48,188,42,189,36,230,42"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_input_object_manager.html#af7128508cb60dc35f291a82c19128925" title="Erase all manager content." alt="" coords="5,72,197,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="229,78,197,82,197,77,229,72"/>
+</map>

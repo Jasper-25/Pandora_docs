@@ -1,0 +1,7 @@
+<map id="PandoraMonitoringApi::SetEveDisplayParameters" name="PandoraMonitoringApi::SetEveDisplayParameters">
+<area shape="rect" id="Node000001" title="Set TEve display parameters." alt="" coords="5,55,186,97"/>
+<area shape="rect" id="Node000002" href="$classpandora__monitoring_1_1_pandora_monitoring.html#aeefdfb3a43a266bebcd08ef36b7263fb" title="Get the relevant pandora monitoring instance." alt="" coords="255,5,393,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,57,239,47,240,52,187,62"/>
+<area shape="rect" id="Node000003" href="$classpandora__monitoring_1_1_pandora_monitoring.html#a0fbdd091fbbfd854f67d5dc7b49cd5de" title="Set TEve display parameters." alt="" coords="234,88,414,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="187,90,219,96,218,101,186,95"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="lar_content::ClearTracksTool::Run" name="lar_content::ClearTracksTool::Run">
+<area shape="rect" id="Node000001" title="Run the algorithm tool." alt="" coords="5,85,168,128"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_process.html#abce8ef815d9d4bb3080be3c6a5d8de61" title="Get the instance name." alt="" coords="216,5,451,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,83,167,61,215,41,240,34,242,39,217,47,170,66,127,87"/>
+<area shape="rect" id="Node000003" href="$class_pandora_content_api.html#aeed1b08b9b265ce554250784193bdd54" title="Get the pandora settings instance." alt="" coords="263,56,404,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="168,94,247,85,247,90,168,100"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_process.html#a76435ee767be0d57159aa460ed6fc5a7" title="Get the type." alt="" coords="243,123,424,149"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="168,114,228,121,227,126,168,119"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_pandora_settings.html#ab629c73e8638e7b4c9dfd48c7acaa38b" title="Whether to display algorithm information during processing." alt="" coords="240,173,427,216"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="136,126,217,159,237,166,236,171,215,164,134,131"/>
+<area shape="rect" id="Node000004" href="$class_pandora_content_api.html#a564c7edc453a936e78fdd2102e870234" title="Replace the current list with a pre&#45;saved list; use this new list as a permanent replacement for the ..." alt="" coords="499,56,640,99"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="404,75,484,75,484,80,404,80"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="525,56,523,46,531,37,546,31,570,29,595,32,610,38,608,43,594,37,570,35,547,37,534,41,528,47,530,55"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="lar_content::SimpleShowersTool::Run" name="lar_content::SimpleShowersTool::Run">
+<area shape="rect" id="Node000001" title="Run the algorithm tool." alt="" coords="5,277,189,320"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_matching_base_algorithm.html#a5ad552251c36087c22047bb5d64b72e0" title="Create particles using findings from recent algorithm processing." alt="" coords="247,167,462,209"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,275,180,247,236,220,256,212,258,217,238,225,183,252,134,279"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_process.html#abce8ef815d9d4bb3080be3c6a5d8de61" title="Get the instance name." alt="" coords="237,235,472,261"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="189,278,267,262,269,268,190,283"/>
+<area shape="rect" id="Node000010" href="$class_pandora_content_api.html#aeed1b08b9b265ce554250784193bdd54" title="Get the pandora settings instance." alt="" coords="563,280,704,323"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="189,296,547,298,547,304,189,302"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_process.html#a76435ee767be0d57159aa460ed6fc5a7" title="Get the type." alt="" coords="264,336,445,363"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="190,314,269,330,267,335,189,319"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_pandora_settings.html#ab629c73e8638e7b4c9dfd48c7acaa38b" title="Whether to display algorithm information during processing." alt="" coords="261,387,448,429"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="134,318,183,346,238,372,255,379,253,384,236,377,180,351,132,323"/>
+<area shape="rect" id="Node000003" href="$class_pandora_content_api.html#a623379b5cd96d2ce9f2dd6bef7ecaac1" title="Create a temporary list and set it to be the current list, enabling object creation." alt="" coords="520,163,746,205"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="462,184,504,183,504,189,462,189"/>
+<area shape="rect" id="Node000004" href="$class_pandora_content_api.html#a564c7edc453a936e78fdd2102e870234" title="Replace the current list with a pre&#45;saved list; use this new list as a permanent replacement for the ..." alt="" coords="812,229,954,272"/>
+<area shape="poly" id="edge5_Node000002_Node000004" title=" " alt="" coords="462,206,520,215,666,231,797,242,796,248,666,236,520,220,462,211"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_matching_base_algorithm.html#a8a75d733e1dda7d0df408e2f99c22d07" title="Set Pfo properties." alt="" coords="538,80,728,123"/>
+<area shape="poly" id="edge6_Node000002_Node000005" title=" " alt="" coords="425,163,547,125,548,130,427,169"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="716,203,798,225,797,230,715,208"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="836,229,834,219,842,210,858,205,883,203,910,205,926,211,924,216,908,210,883,208,859,210,845,215,839,221,841,228"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_pdg_table.html#a49bbde37591cb140c3190865e749ee4c" title="Get the charge of a particle type." alt="" coords="814,72,952,115"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="729,96,799,93,799,99,729,101"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_pdg_table.html#a1ea7be4a0aebdfb364c70e77cb51b0f4" title="Get the mass of a particle type." alt="" coords="814,139,952,181"/>
+<area shape="poly" id="edge8_Node000005_Node000007" title=" " alt="" coords="728,121,799,138,798,143,726,126"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_matching_base_algorithm.html#ae4cee1e36098542a8d23986ab7b1e852" title="Set pfo particle id." alt="" coords="794,5,972,48"/>
+<area shape="poly" id="edge9_Node000005_Node000008" title=" " alt="" coords="707,77,794,50,795,56,708,82"/>
+<area shape="poly" id="edge12_Node000010_Node000004" title=" " alt="" coords="703,284,796,265,797,271,705,290"/>
+</map>

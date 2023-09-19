@@ -1,0 +1,7 @@
+<map id="pandora::LArTransformationPlugin" name="pandora::LArTransformationPlugin">
+<area shape="rect" id="Node000001" title="LArTransformationPlugin class." alt="" coords="5,172,186,215"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_process.html" title="Process class." alt="" coords="34,96,157,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,138,98,172,93,172,93,138"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_pandora.html" title="Pandora class." alt="" coords="34,5,157,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="98,48,98,95,93,95,93,48"/>
+</map>

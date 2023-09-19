@@ -1,0 +1,12 @@
+<map id="pandora::ExternallyConfiguredAlgorithm::SetExternalParameters" name="pandora::ExternallyConfiguredAlgorithm::SetExternalParameters">
+<area shape="rect" id="Node000001" title="Set the external parameters associated with an algorithm instance of a specific type,..." alt="" coords="867,5,1086,48"/>
+<area shape="rect" id="Node000002" href="$namespacelar__reco.html#a24310ccf5395e296c032835b7e03a8e8" title="Process list of external, commandline parameters to be passed to specific algorithms." alt="" coords="368,5,539,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="851,29,540,29,540,24,851,24"/>
+<area shape="rect" id="Node000005" href="$class_pandora_api.html#a4f7108ab8bf07653c71ed3e3b894bbb3" title="Set the external parameters associated with an algorithm instance of a specific type...." alt="" coords="587,39,819,65"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="851,41,819,44,819,39,851,36"/>
+<area shape="rect" id="Node000003" href="$namespacelar__reco.html#ad8e66b4e82e59c64870b978246ea98fc" title="Create pandora instances." alt="" coords="103,13,320,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="352,29,320,29,320,24,352,24"/>
+<area shape="rect" id="Node000004" href="$_pandora_interface_8cxx.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,13,55,40"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="87,29,55,29,55,24,87,24"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="571,41,540,38,540,33,572,36"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="PandoraMonitoringApi::VisualizeCaloHits" name="PandoraMonitoringApi::VisualizeCaloHits">
+<area shape="rect" id="Node000001" title="Add CaloHits to the Eve event&#45;display." alt="" coords="5,55,154,97"/>
+<area shape="rect" id="Node000002" href="$classpandora__monitoring_1_1_pandora_monitoring.html#aeefdfb3a43a266bebcd08ef36b7263fb" title="Get the relevant pandora monitoring instance." alt="" coords="202,5,339,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,57,186,50,187,55,155,63"/>
+<area shape="rect" id="Node000003" href="$classpandora__monitoring_1_1_pandora_monitoring.html#aa563ba64b2da3e07f948012b44dbedcf" title="Add CaloHits to the Eve event&#45;display." alt="" coords="202,88,339,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="155,89,187,97,186,102,154,95"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_m_c_particle_helper.html#a616c40c49d204fd06ea64e5ded1b70a0" title="Find the mc particle making the largest contribution to a specified calo hit, track or cluster." alt="" coords="387,63,563,105"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="339,104,371,98,372,103,340,109"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_m_c_particle.html#af3f0b7e1d41980a184f328b61d542dd0" title="Get the PDG code of the mc particle." alt="" coords="406,129,545,172"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="340,126,391,134,390,140,339,131"/>
+</map>

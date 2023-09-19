@@ -1,0 +1,10 @@
+<map id="PandoraMonitoring/include/PandoraMonitoringApi.h" name="PandoraMonitoring/include/PandoraMonitoringApi.h">
+<area shape="rect" id="Node000001" title="Header file for the pandora monitoring api class." alt="" coords="117,5,291,48"/>
+<area shape="rect" id="Node000002" href="$_pandora_monitoring_8h.html" title="Header file for the pandora monitoring class." alt="" coords="55,96,230,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,62,159,97,154,94,179,59"/>
+<area shape="rect" id="Node000004" href="$_pandora_monitoring_api_8cc.html" title="Redirection for pandora monitoring api class to the pandora monitoring implementation." alt="" coords="181,187,352,229"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="227,60,243,95,258,143,266,186,261,187,253,145,239,97,222,62"/>
+<area shape="rect" id="Node000003" href="$_pandora_monitoring_8cc.html" title="Implementation of the pandora monitoring class." alt="" coords="5,187,157,229"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="122,153,97,188,93,185,117,150"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="185,146,239,184,236,188,182,150"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="pandora::BinaryFileReader::ReadVariable" name="pandora::BinaryFileReader::ReadVariable">
+<area shape="rect" id="Node000001" title="Read a variable from the file." alt="" coords="253,139,427,181"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_calo_hit_factory.html#a4a6ff626833eaac8f4f5a6da481bf59b" title="Read any additional (derived class only) object parameters from file using the specified file reader." alt="" coords="5,5,205,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="301,131,256,95,203,62,178,51,180,46,206,58,259,91,305,126"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_m_c_particle_factory.html#aa4d2c3bff28833f95c906b11019acc06" title="Read any additional (derived class only) object parameters from file using the specified file reader." alt="" coords="16,72,194,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="247,137,182,118,184,113,249,131"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_binary_file_reader.html#aa4f3ff471c4932e4ace16d87f4a3abd2" title=" " alt="" coords="18,139,192,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="237,163,192,163,192,157,237,157"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_binary_file_reader.html#ab8d3a6514bff5bbbe32e2186481d7a4b" title=" " alt="" coords="18,205,192,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="249,189,184,207,182,202,247,183"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_binary_file_reader.html#aadccff9384a6e23c1f02423069893375" title=" " alt="" coords="18,272,192,315"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="305,194,259,229,206,262,180,274,178,269,203,258,256,225,301,189"/>
+</map>

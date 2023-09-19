@@ -1,0 +1,17 @@
+<map id="lar_content::LArClusterHelper::GetCoordinateVector" name="lar_content::LArClusterHelper::GetCoordinateVector">
+<area shape="rect" id="Node000001" title="Get vector of hit coordinates from an input cluster." alt="" coords="487,188,678,231"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_simple_cone.html#a17f8cc2364e642cc62a5b933f76e6f3a" title="Get the fraction of hits in a provided cluster that are bounded within the cone, using provided cone ..." alt="" coords="251,5,415,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="555,178,505,119,473,88,438,62,414,50,417,46,440,58,476,84,509,115,559,174"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_vertex_selection_base_algorithm_1_1_shower_cluster.html#adfccd6d09a800cef174ca68726452267" title="Get the coordinate vector for a cluster list." alt="" coords="227,72,439,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="522,183,438,145,411,134,413,129,440,140,524,179"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_pfo_helper.html#a43e4a3348ea595b33bc4c654204775cd" title="Get a list of coordinates of a particular hit type from an input pfos." alt="" coords="248,155,418,197"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="471,197,418,190,418,185,472,192"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_simple_cone.html#a26fb4f8bf020876df0dafe95f6355203" title="Get the mean transverse distance to all hits in a cluster (whether contained or not)" alt="" coords="251,221,415,264"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="472,227,415,234,415,229,471,222"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_two_d_sliding_fit_result.html#aec4a3fcb2a5a2367a419ae480da16a44" title=" " alt="" coords="231,288,435,331"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="526,240,440,278,408,290,406,285,438,274,524,236"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a2d02cb529201041ac4bb5f26b9ef6f6b" title=" " alt="" coords="231,355,435,397"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="556,244,505,296,474,322,440,345,417,356,415,352,438,340,471,318,502,292,552,241"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_l_ar_pfo_helper.html#aaa2866ce1234219a725a01c52047ec1f" title="Perform PCA analysis on Pfo and return results." alt="" coords="5,155,179,197"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="232,179,179,179,179,173,232,173"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="pandora::CaloHit::GetCellGeometry" name="pandora::CaloHit::GetCellGeometry">
+<area shape="rect" id="Node000001" title="Get the cell geometry." alt="" coords="478,72,646,115"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_calo_hit.html#a43afa74fd4aee77d137a4dfd46548cb7" title="Calculate the typical length scale of the cell, units mm." alt="" coords="246,5,426,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="472,70,410,51,412,46,474,65"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_master_algorithm.html#afc9d27964a916221cf42c0c88680745c" title="Create a new calo hit in the current pandora instance, based upon the provided input calo hit." alt="" coords="242,72,430,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="463,96,430,96,430,91,463,91"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_calo_hit.html#a9545e4ad498ab49e0c2387196ccb886c" title="Get the list of cartesian coordinates for the cell corners." alt="" coords="252,139,420,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="474,122,412,141,410,135,472,117"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_calo_hit.html#a5fab51106c7bbc85c0ffe49d7954444f" title="Constructor." alt="" coords="16,13,183,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="231,29,184,29,184,24,231,24"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_master_algorithm.html#a5e4808ff37d0fdeda42d718673ac14a7" title="Recreate a specified pfo in the current pandora instance." alt="" coords="5,72,194,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="226,96,194,96,194,91,226,91"/>
+</map>

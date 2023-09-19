@@ -1,0 +1,30 @@
+<map id="lar_content::TransverseTrackHitsBaseTool::GetTrackHits3D" name="lar_content::TransverseTrackHitsBaseTool::GetTrackHits3D">
+<area shape="rect" id="Node000001" title="Calculate 3D hits from an input list of 2D hits." alt="" coords="5,177,204,220"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_transverse_track_hits_base_tool.html#a8d23651cbdb441239f9175a201cc8349" title="Calculate an additional contribution to the chi&#45;squared based on the steepness of the track." alt="" coords="270,144,487,187"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,184,254,178,255,183,204,189"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_three_d_hit_creation_algorithm_1_1_proto_hit.html#a3435a0d86e2165a485fa3b229e82e96d" title="Get the chi squared value." alt="" coords="582,5,780,48"/>
+<area shape="poly" id="edge12_Node000001_Node000003" title=" " alt="" coords="147,175,196,151,251,129,415,81,566,46,567,51,416,86,253,135,198,156,149,179"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_transverse_track_hits_base_tool.html#a1b0dd0804670f37c63f7c893961419c7" title="Get the three dimensional position using a provided two dimensional calo hit and sliding linear fits ..." alt="" coords="252,211,505,253"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="204,208,236,212,236,217,204,213"/>
+<area shape="rect" id="Node000014" href="$classlar__content_1_1_three_d_hit_creation_algorithm_1_1_proto_hit.html#a5b21120bf1564d55b3500e3f053b009e" title="Whether the proto hit position is set." alt="" coords="270,277,487,320"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="149,218,253,263,273,270,272,275,251,268,147,223"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="412,141,487,94,552,58,569,51,571,56,554,62,489,98,414,146"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_calo_hit.html#a0fa84db0e7c82081ff2ad75ae62c116e" title="Get the calorimeter hit type." alt="" coords="586,72,776,99"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="443,141,552,108,588,100,589,105,554,113,444,146"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_process.html#a7dd41c24ac856e2f41d5a0432eb99cd5" title="Get the associated pandora instance." alt="" coords="581,123,781,149"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="487,152,565,145,565,150,488,157"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_three_d_hit_creation_algorithm_1_1_proto_hit.html#a981b77481600c1378c63d60ee73c5ac0" title="Get the address of the parent 2D calo hit." alt="" coords="553,173,809,216"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="488,173,537,178,537,183,487,179"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_three_d_hit_creation_algorithm_1_1_proto_hit.html#ae93963fa4d76fb227de8ded6cb46650a" title="Get the output 3D position." alt="" coords="570,240,793,283"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="475,185,506,196,530,211,554,226,571,232,569,237,552,230,528,216,504,201,473,190"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_l_ar_geometry_helper.html#aac2f570fbffeb35fd9dd76f838ad5878" title="Project 3D position into a given 2D view." alt="" coords="596,307,766,349"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="489,185,507,197,518,209,525,221,532,246,538,270,544,282,555,293,583,309,580,314,551,297,540,285,533,272,526,247,520,223,514,212,503,201,486,189"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_three_d_hit_creation_algorithm_1_1_proto_hit.html#a2d2f49a669ebe5cc90240fb40f01b083" title="Set position 3D." alt="" coords="570,373,792,416"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="489,183,507,197,523,217,530,238,532,280,533,321,540,340,555,360,559,363,556,367,551,363,535,343,528,322,526,280,525,239,518,220,503,201,486,187"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="857,240,1026,283"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="766,304,841,284,843,289,768,309"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_cartesian_vector.html#ac659e980ff25060906bd85497c49d081" title="Get the cartesian y coordinate." alt="" coords="857,307,1026,349"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="767,325,842,325,842,331,767,331"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="857,373,1026,416"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="768,347,843,367,841,372,766,352"/>
+</map>

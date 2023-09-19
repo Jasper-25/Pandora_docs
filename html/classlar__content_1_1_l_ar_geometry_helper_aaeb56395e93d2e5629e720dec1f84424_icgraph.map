@@ -1,0 +1,7 @@
+<map id="lar_content::LArGeometryHelper::IsInGap" name="lar_content::LArGeometryHelper::IsInGap">
+<area shape="rect" id="Node000001" title="Whether a 2D test point lies in a registered gap with the associated hit type." alt="" coords="255,39,425,81"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_geometry_helper.html#ac3ffff1dd393d0f2d105c2dd634f7aeb" title="Whether a 3D test point lies in a registered gap with the associated hit type." alt="" coords="21,5,191,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,48,191,41,192,36,240,43"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_geometry_helper.html#ab687d837b539b20a69a59e4540594265" title="Whether there is a gap in a cluster (described via its sliding fit result) at a specified x sampling ..." alt="" coords="5,72,207,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="240,77,207,82,207,76,239,72"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="pandora::ClusterFitResult::SetSuccessFlag" name="pandora::ClusterFitResult::SetSuccessFlag">
+<area shape="rect" id="Node000001" title="Set the fit success flag." alt="" coords="860,76,1028,119"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_cluster_fit_helper.html#ae9e41a31e84ff8706875e3a56005b200" title="Fit all cluster centroids within the specified (inclusive) pseudolayer range." alt="" coords="427,5,595,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="844,84,595,43,596,38,844,79"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_cluster_fit_helper.html#afd78a8214d35cede5db97b7e00b54b79" title="Perform linear regression of x vs d and y vs d and z vs d (assuming same error on all hits)" alt="" coords="643,105,812,148"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="845,113,813,118,812,113,844,108"/>
+<area shape="poly" id="edge7_Node000003_Node000002" title=" " alt="" coords="671,100,594,62,568,51,570,46,596,58,673,95"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_cluster_fit_helper.html#a9001f18b5dc92c16b3c5451f1d1959e5" title="Fit points in last n occupied pseudolayers of a cluster." alt="" coords="427,72,595,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="628,114,595,109,596,104,628,109"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_cluster_fit_helper.html#ac4d0d69c1b786c1158c450baa3c1c092" title="Fit all points in a cluster." alt="" coords="427,139,595,181"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="628,145,596,150,595,144,628,139"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_cluster_fit_helper.html#a32a1db63de5bcdc7fd4de786f929d746" title="Fit all cluster points within the specified (inclusive) pseudolayer range." alt="" coords="427,205,595,248"/>
+<area shape="poly" id="edge8_Node000003_Node000008" title=" " alt="" coords="673,158,596,196,570,207,568,202,594,191,671,153"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_cluster_fit_helper.html#a3271a5608c51ec4cb3b78fcbccac4cf2" title="Fit points in first n occupied pseudolayers of a cluster." alt="" coords="427,272,595,315"/>
+<area shape="poly" id="edge9_Node000003_Node000009" title=" " alt="" coords="702,162,656,213,628,239,597,262,576,274,574,269,594,258,624,235,652,209,698,158"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_cluster.html#a58281aa5954d0e576f11096f71a29dfe" title="Update result of linear fit to all calo hits in cluster." alt="" coords="214,139,379,181"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="412,163,380,163,380,157,412,157"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_cluster.html#a9f487c581944da7885e16d71a88315b4" title="Get the result of a linear fit to all calo hits in the cluster." alt="" coords="5,139,166,181"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="198,163,166,163,166,157,198,157"/>
+</map>

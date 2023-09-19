@@ -1,0 +1,9 @@
+<map id="pandora::CaloHit::GetInputEnergy" name="pandora::CaloHit::GetInputEnergy">
+<area shape="rect" id="Node000001" title="Get the corrected energy of the calorimeter cell, units GeV, as supplied by the user." alt="" coords="478,35,652,77"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_master_algorithm.html#afc9d27964a916221cf42c0c88680745c" title="Create a new calo hit in the current pandora instance, based upon the provided input calo hit." alt="" coords="242,5,430,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="462,46,430,41,431,36,463,40"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_calo_hit.html#ab9b6c2b7be7c7590fa66d583c244527b" title="operator&lt; sorting by position, then energy" alt="" coords="246,72,426,99"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="463,72,427,76,426,71,462,66"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_master_algorithm.html#a5e4808ff37d0fdeda42d718673ac14a7" title="Recreate a specified pfo in the current pandora instance." alt="" coords="5,5,194,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="226,29,194,29,194,24,226,24"/>
+</map>

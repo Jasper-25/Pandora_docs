@@ -1,0 +1,17 @@
+<map id="object_creation::VertexParameters" name="object_creation::VertexParameters">
+<area shape="rect" id="Node000001" title="Vertex creation class." alt="" coords="687,148,909,175"/>
+<area shape="rect" id="Node000002" href="$classobject__creation_1_1_vertex_metadata.html" title="VertexMetadata class." alt="" coords="356,97,566,124"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="570,124,705,145,704,150,569,130"/>
+<area shape="rect" id="Node000003" href="$classobject__creation_1_1_object_metadata.html" title="ObjectMetadata class." alt="" coords="5,5,215,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="191,33,326,67,418,94,416,99,325,72,189,38"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_pandora_input_type.html" title=" " alt="" coords="20,56,200,99"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="215,85,356,98,356,103,215,90"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_pandora_input_type.html" title=" " alt="" coords="20,123,200,165"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="215,131,356,118,356,123,215,137"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_pandora_input_type.html" title=" " alt="" coords="20,189,200,232"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="214,189,270,173,324,151,348,134,381,122,382,127,351,138,327,156,272,178,215,194"/>
+<area shape="rect" id="Node000007" href="$classobject__creation_1_1_object_parameters.html" title="ObjectParameters class." alt="" coords="350,148,572,175"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="588,159,687,159,687,164,588,164"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_pandora_input_type.html" title=" " alt="" coords="371,199,551,241"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="565,199,717,173,718,178,566,204"/>
+</map>

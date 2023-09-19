@@ -1,0 +1,18 @@
+<map id="pandora::CaloHit::GetElectromagneticEnergy" name="pandora::CaloHit::GetElectromagneticEnergy">
+<area shape="rect" id="Node000001" title="Get the calibrated electromagnetic energy measure." alt="" coords="482,123,722,165"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_cluster.html#a8e4f2a07ec4a6502658165145dbd1c07" title="Add a calo hit to the cluster." alt="" coords="243,5,433,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="556,116,499,80,433,46,400,35,402,30,435,42,501,75,559,111"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_cluster.html#ab2b73c8bcc8b062c9e53d87ba9e63a3f" title="Add an isolated calo hit to the cluster." alt="" coords="242,56,434,99"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="499,121,425,102,426,97,501,116"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_master_algorithm.html#afc9d27964a916221cf42c0c88680745c" title="Create a new calo hit in the current pandora instance, based upon the provided input calo hit." alt="" coords="244,123,432,165"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="466,147,432,147,432,141,466,141"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_cluster.html#afcfd58eaac71132cdabb31537032abbb" title="Remove a calo hit from the cluster." alt="" coords="253,189,423,232"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="501,172,424,192,423,187,499,167"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_cluster.html#a8178f2316f78f71af0085bb2ffe2bcb2" title="Remove an isolated calo hit from the cluster." alt="" coords="253,256,423,299"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="557,177,500,212,435,246,408,258,406,253,433,242,497,207,555,172"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_cluster.html#a961701c5cd322cadc41a03e4e2e1dee3" title="Constructor." alt="" coords="17,35,182,61"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="228,35,183,40,182,35,227,30"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="226,66,182,61,183,56,227,61"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_master_algorithm.html#a5e4808ff37d0fdeda42d718673ac14a7" title="Recreate a specified pfo in the current pandora instance." alt="" coords="5,123,194,165"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="228,147,194,147,194,141,228,141"/>
+</map>

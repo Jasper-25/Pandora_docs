@@ -1,0 +1,12 @@
+<map id="lar_content::build_2d_kd_search_region" name="lar_content::build_2d_kd_search_region">
+<area shape="rect" id="Node000001" title="build_2d_kd_search_region" alt="" coords="800,51,952,93"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="913,38,899,32,876,29,854,31,841,36,836,42,838,50,833,51,831,41,838,32,853,26,876,24,900,26,915,33"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_trained_vertex_selection_algorithm.html#a07f0c2ff45a937e8a096d53971878c3a" title="Try to add an available cluster to a given shower cluster, using cluster hit positions cached in kd t..." alt="" coords="547,5,749,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="785,60,749,54,750,49,786,55"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_vertex_selection_base_algorithm.html#af2e4cbbe68c1dbb1e943b78ee284595e" title="Finds the energy of the nearest hit to the vertex candidate in this view." alt="" coords="543,88,752,131"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="786,89,753,95,752,90,785,84"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_vertex_selection_base_algorithm.html#a964935f358ad088edee2341e656f25fc" title="Calculate the energy of a vertex candidate by summing values from all three planes." alt="" coords="281,88,495,131"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="527,112,496,112,496,107,527,107"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_trained_vertex_selection_algorithm.html#a6cb83f710d24227e971a4a0f7862bc7a" title="Populate the vertex feature info map for a given vertex." alt="" coords="5,80,233,139"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="265,112,233,112,233,107,265,107"/>
+</map>

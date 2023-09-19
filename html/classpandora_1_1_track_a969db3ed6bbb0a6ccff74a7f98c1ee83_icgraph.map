@@ -1,0 +1,7 @@
+<map id="pandora::Track::IsAvailable" name="pandora::Track::IsAvailable">
+<area shape="rect" id="Node000001" title="Whether the track is available to be added to a particle flow object." alt="" coords="241,47,417,73"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_pandora_content_api_impl.html#ab48e45b34e1d0c4d46fadf9a67b6534e" title=" " alt="" coords="5,5,193,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,48,193,43,194,38,226,42"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_track_manager.html#ac72a5e6f382d7bc569743a9dc08a8c52" title=" " alt="" coords="20,72,178,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="226,78,178,85,178,79,225,72"/>
+</map>

@@ -1,0 +1,48 @@
+<map id="lar_content::LArGeometryHelper::ProjectPosition" name="lar_content::LArGeometryHelper::ProjectPosition">
+<area shape="rect" id="Node000001" title="Project 3D position into a given 2D view." alt="" coords="908,405,1079,448"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_transverse_track_hits_base_tool.html#a8d23651cbdb441239f9175a201cc8349" title="Calculate an additional contribution to the chi&#45;squared based on the steepness of the track." alt="" coords="623,5,840,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="987,390,976,322,954,235,938,190,917,146,890,105,859,69,832,51,835,46,862,65,895,102,921,143,943,188,959,234,982,321,992,389"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_vertex_based_pfo_mop_up_algorithm.html#a3047d018dc082308975105cbb449f0ee" title="Get cluster association details between a vertex&#45;associated cluster and a non&#45;vertex associated daugh..." alt="" coords="330,85,537,144"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="987,390,977,327,955,249,939,210,917,173,891,140,859,113,821,93,781,79,738,71,695,68,609,73,533,87,532,82,609,68,695,62,739,66,782,74,823,88,862,108,895,136,922,170,944,208,960,247,982,325,992,389"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_l_ar_vertex_helper.html#a5bd0ae3fd8ba832a4731c823db074a56" title="Get the direction of the cluster in z, using a projection of the provided vertex." alt="" coords="638,123,826,165"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="980,391,965,343,940,285,905,228,883,202,859,179,825,161,828,156,862,175,887,198,909,225,944,283,970,341,986,389"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_three_view_track_fragments_algorithm.html#ade08f511676067feb093570e0e67bb5c" title="Get the list of projected positions, in the third view, corresponding to a pair of sliding fit result..." alt="" coords="621,189,843,248"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="971,394,925,327,894,292,859,262,839,251,842,246,862,258,898,288,929,323,975,391"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_trained_vertex_selection_algorithm.html#a6e5588fbe0b227ed54613a1529de2634" title="Calculates the shared features of a pair of vertex candidates." alt="" coords="606,272,857,315"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="956,397,912,361,859,329,831,318,833,313,862,324,915,357,960,393"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_cut_cluster_characterisation_algorithm.html#adba5d878be78cf3f887a3546b3f4929b" title="Get the distance between the interaction vertex (if present in the current vertex list) and a provide..." alt="" coords="608,339,856,381"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="893,404,818,385,819,379,894,399"/>
+<area shape="rect" id="Node000015" href="$classlar__content_1_1_l_ar_geometry_helper.html#ac3ffff1dd393d0f2d105c2dd634f7aeb" title="Whether a 3D test point lies in a registered gap with the associated hit type." alt="" coords="647,405,817,448"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="893,429,817,429,817,424,893,424"/>
+<area shape="rect" id="Node000016" href="$classlar__content_1_1_vertex_based_pfo_mop_up_algorithm.html#ae27eac53ad717c7bd9469957f9fc7e11" title="Whether a specified pfo is associated with a specified vertex." alt="" coords="603,472,860,515"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="894,455,819,474,818,469,893,450"/>
+<area shape="rect" id="Node000017" href="$classlar__content_1_1_shower_spine_finder_tool.html#a96a59a3ac30728651acad2f69b0c4eb1" title=" " alt="" coords="647,539,816,581"/>
+<area shape="poly" id="edge17_Node000001_Node000017" title=" " alt="" coords="960,461,915,496,862,529,818,546,816,541,859,524,912,492,956,456"/>
+<area shape="rect" id="Node000018" href="$classlar__content_1_1_peak_direction_finder_tool.html#ae2b43dc4a126ce3206fcb5bfca375429" title=" " alt="" coords="645,605,819,648"/>
+<area shape="poly" id="edge18_Node000001_Node000018" title=" " alt="" coords="976,463,930,531,899,566,862,596,821,615,818,610,859,591,895,562,926,527,972,460"/>
+<area shape="rect" id="Node000019" href="$classlar__content_1_1_energy_kick_feature_tool.html#a22a1364f8385aba69d1425dbde75c80f" title="Run the tool." alt="" coords="630,672,834,715"/>
+<area shape="poly" id="edge19_Node000001_Node000019" title=" " alt="" coords="984,464,967,510,942,563,907,617,886,641,862,662,835,678,833,673,859,658,882,637,903,613,937,561,962,508,979,462"/>
+<area shape="rect" id="Node000020" href="$classlar__content_1_1_asymmetry_feature_base_tool.html#a185e3d0afb0a14f29e6eb75844f57609" title="Run the tool." alt="" coords="630,739,834,781"/>
+<area shape="poly" id="edge20_Node000001_Node000020" title=" " alt="" coords="989,464,976,522,952,594,935,631,915,667,891,700,862,729,835,745,833,741,859,725,887,696,911,664,931,628,947,592,971,521,984,463"/>
+<area shape="rect" id="Node000021" href="$classlar__content_1_1_vertex_selection_base_algorithm.html#af2e4cbbe68c1dbb1e943b78ee284595e" title="Finds the energy of the nearest hit to the vertex candidate in this view." alt="" coords="627,805,836,848"/>
+<area shape="poly" id="edge21_Node000001_Node000021" title=" " alt="" coords="993,464,983,534,962,624,945,670,923,716,896,758,862,795,838,811,835,807,859,791,891,755,918,713,940,668,957,622,978,533,987,463"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_transverse_track_hits_base_tool.html#ae5feacbcbf442646e6858e541e655218" title="Calculate 3D hits from an input list of 2D hits." alt="" coords="334,5,533,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="607,29,533,29,533,24,607,24"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_vertex_based_pfo_mop_up_algorithm.html#aec0d9d80e8d066d44317529cf57f6b8b" title="Get pfo association details between a vertex&#45;associated pfo and a non&#45;vertex associated daughter cand..." alt="" coords="8,93,261,136"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="314,117,261,117,261,112,314,112"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="622,136,537,127,537,122,622,131"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_three_view_track_fragments_algorithm.html#ac4c5ebd63e3b54b7d65c81643a8de116" title="Calculate overlap result for track fragment candidate consisting of two sliding fit results and a lis..." alt="" coords="312,181,555,240"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="605,218,555,217,555,211,605,213"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_trained_vertex_selection_algorithm.html#ab664f2fc44554042d0754f991b2900e7" title="Produce a set of training examples for a binary classifier." alt="" coords="318,264,549,323"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="590,296,549,296,549,291,590,291"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_trained_vertex_selection_algorithm.html#a19474126585ba332e454985b680c68cd" title="Produce the region and vertex training sets." alt="" coords="5,272,264,315"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="302,296,264,296,264,291,302,291"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_two_d_vertex_distance_feature_tool.html#a53166fa6009e5dab9d90e1d36ecfd692" title=" " alt="" coords="326,347,541,389"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="592,366,541,368,541,362,592,361"/>
+<area shape="rect" id="Node000014" href="$classlar__content_1_1_two_d_vertex_distance_feature_tool.html#ab301f4fe23c1342a6d13b0834b4aa115" title=" " alt="" coords="27,347,242,389"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="311,371,242,371,242,365,311,365"/>
+<area shape="rect" id="Node000022" href="$classlar__content_1_1_vertex_selection_base_algorithm.html#a964935f358ad088edee2341e656f25fc" title="Calculate the energy of a vertex candidate by summing values from all three planes." alt="" coords="326,805,541,848"/>
+<area shape="poly" id="edge22_Node000021_Node000022" title=" " alt="" coords="611,829,541,829,541,824,611,824"/>
+<area shape="rect" id="Node000023" href="$classlar__content_1_1_trained_vertex_selection_algorithm.html#a6cb83f710d24227e971a4a0f7862bc7a" title="Populate the vertex feature info map for a given vertex." alt="" coords="21,797,248,856"/>
+<area shape="poly" id="edge23_Node000022_Node000023" title=" " alt="" coords="311,829,249,829,249,824,311,824"/>
+</map>

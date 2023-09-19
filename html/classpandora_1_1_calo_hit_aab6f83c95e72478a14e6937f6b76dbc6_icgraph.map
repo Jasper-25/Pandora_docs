@@ -1,0 +1,34 @@
+<map id="pandora::CaloHit::GetCellSize1" name="pandora::CaloHit::GetCellSize1">
+<area shape="rect" id="Node000001" title="Get the cell size 1 [pointing: phi, rectangular: perpendicular to size 0 and thickness,..." alt="" coords="871,213,1040,256"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_calo_hit.html#a43afa74fd4aee77d137a4dfd46548cb7" title="Calculate the typical length scale of the cell, units mm." alt="" coords="626,5,805,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="934,201,889,130,858,94,822,62,802,51,805,46,825,58,862,90,893,127,939,198"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_master_algorithm.html#afc9d27964a916221cf42c0c88680745c" title="Create a new calo hit in the current pandora instance, based upon the provided input calo hit." alt="" coords="622,72,810,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="921,204,876,165,822,129,797,118,800,113,825,124,879,161,924,200"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_l_ar_hit_width_helper.html#a4f46d4cb1822f52809455b9a54b82ce0" title="Find the smallest separation between two hits, with the consideration of their hit widths." alt="" coords="625,139,807,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="870,211,823,196,786,184,788,179,824,191,871,206"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_l_ar_hit_width_helper.html#ae28649969057467eed3e7635a4db7223" title="Consider the hit width to find the smallest distance between a calo hit and a given point." alt="" coords="618,205,814,264"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="856,237,814,237,814,232,856,232"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_l_ar_hit_width_helper.html#a8a9bef12ad5931fc5d2834805dfae895" title="Consider the hit width to find the closest position of a calo hit to a specified line." alt="" coords="608,288,823,331"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="871,264,824,279,788,290,786,285,823,273,870,259"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_calo_hit.html#a041ca38b4ad4471be3ba0609d2b6469f" title="Get the list of cartesian coordinates for pointing cell corners." alt="" coords="619,356,812,399"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="924,269,879,308,825,345,797,358,795,353,822,340,875,304,920,265"/>
+<area shape="rect" id="Node000016" href="$classpandora_1_1_calo_hit.html#aadf98ed9882cbd841eb0b0e203ea45ef" title="Get the list of cartesian coordinates for rectangular cell corners." alt="" coords="608,427,823,469"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="939,271,893,342,862,380,825,413,798,428,795,424,822,409,858,376,889,339,934,268"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_calo_hit.html#a5fab51106c7bbc85c0ffe49d7954444f" title="Constructor." alt="" coords="354,13,521,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="610,29,522,29,522,24,610,24"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_master_algorithm.html#a5e4808ff37d0fdeda42d718673ac14a7" title="Recreate a specified pfo in the current pandora instance." alt="" coords="343,72,532,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="606,96,532,96,532,91,606,91"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_track_refinement_base_algorithm.html#a520085350cf50fc0e9122a5c7114acd9" title="Check whether a hit is close to a boundary point." alt="" coords="334,152,541,195"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="602,212,537,198,538,193,603,207"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_track_refinement_base_algorithm.html#a70628edc4c1f9c56e3dd36f7d4557b28" title="Find the unprotected hits that are contained within a defined box with the option to apply a cut on t..." alt="" coords="315,219,560,261"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="612,286,525,264,526,259,613,281"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_track_refinement_base_algorithm.html#a5d405ce4ca49c3fb833abb5255cb2c0f" title="Check whether the extrapolatedCaloHitVector contains a continuous line of hits between the cluster me..." alt="" coords="327,285,548,328"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="592,311,548,310,548,305,592,305"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_track_refinement_base_algorithm_1_1_sort_by_distance_along_line.html#ae10606f5337ebe851b1553f26712f3f3" title="Sort hits by their projected distance along a line from a start point." alt="" coords="318,352,557,411"/>
+<area shape="poly" id="edge12_Node000009_Node000013" title=" " alt="" coords="616,338,554,354,553,349,615,333"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_track_refinement_base_algorithm.html#affe8cf41267558fcadf2b61f3a7056bf" title="Perform topological checks on the collected hits to ensure no gaps are present." alt="" coords="5,285,267,328"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="311,309,267,309,267,304,311,304"/>
+<area shape="rect" id="Node000015" href="$classpandora_1_1_calo_hit.html#a9545e4ad498ab49e0c2387196ccb886c" title="Get the list of cartesian coordinates for the cell corners." alt="" coords="353,435,522,477"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="627,406,561,425,520,437,518,432,559,420,625,401"/>
+<area shape="poly" id="edge16_Node000016_Node000015" title=" " alt="" coords="592,454,522,456,522,451,592,449"/>
+</map>

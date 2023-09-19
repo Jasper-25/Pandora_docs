@@ -1,0 +1,9 @@
+<map id="lar_content::NViewDeltaRayMatchingAlgorithm::GetMuonCluster" name="lar_content::NViewDeltaRayMatchingAlgorithm::GetMuonCluster">
+<area shape="rect" id="Node000001" title="Return the cluster of the common cosmic ray pfo in a given view (function demands there to be only on..." alt="" coords="449,39,680,81"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_removal_base_tool.html#ac8a4520539e47d7c407805dbde3238ca" title="Determine whether the matched clusters suggest that the delta ray is at the endpoint of the cosmic ra..." alt="" coords="227,5,400,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="433,45,400,41,400,35,434,40"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_removal_base_tool.html#a2dd3755f746fa34a124ffd985cb0d925" title="Determine whether element satifies simple checks." alt="" coords="226,72,401,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="434,80,402,84,401,79,433,75"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_removal_base_tool.html#ae2eb18f897022df29336387c362750be" title="Determine whether the input element is the best to use to modify the contaminated cluster (best is de..." alt="" coords="5,72,178,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="210,96,178,96,178,91,210,91"/>
+</map>

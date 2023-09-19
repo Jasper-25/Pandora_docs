@@ -1,0 +1,17 @@
+<map id="pandora::ClusterFitHelper::FitPoints" name="pandora::ClusterFitHelper::FitPoints">
+<area shape="rect" id="Node000001" title="Perform linear regression of x vs d and y vs d and z vs d (assuming same error on all hits)" alt="" coords="643,139,812,181"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_cluster_fit_helper.html#a9001f18b5dc92c16b3c5451f1d1959e5" title="Fit points in last n occupied pseudolayers of a cluster." alt="" coords="427,5,595,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="689,131,645,96,594,62,571,51,574,46,597,58,648,91,692,126"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_cluster_fit_helper.html#ac4d0d69c1b786c1158c450baa3c1c092" title="Fit all points in a cluster." alt="" coords="427,72,595,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="641,136,582,118,584,113,642,131"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_cluster_fit_helper.html#ae9e41a31e84ff8706875e3a56005b200" title="Fit all cluster centroids within the specified (inclusive) pseudolayer range." alt="" coords="427,139,595,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="628,163,596,163,596,157,628,157"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_cluster_fit_helper.html#a32a1db63de5bcdc7fd4de786f929d746" title="Fit all cluster points within the specified (inclusive) pseudolayer range." alt="" coords="427,205,595,248"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="642,189,584,207,582,202,641,184"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_cluster_fit_helper.html#a3271a5608c51ec4cb3b78fcbccac4cf2" title="Fit points in first n occupied pseudolayers of a cluster." alt="" coords="427,272,595,315"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="692,194,648,229,597,262,574,274,571,269,594,258,645,224,689,189"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_cluster.html#a58281aa5954d0e576f11096f71a29dfe" title="Update result of linear fit to all calo hits in cluster." alt="" coords="214,72,379,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="412,96,380,96,380,91,412,91"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_cluster.html#a9f487c581944da7885e16d71a88315b4" title="Get the result of a linear fit to all calo hits in the cluster." alt="" coords="5,72,166,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="198,96,166,96,166,91,198,91"/>
+</map>

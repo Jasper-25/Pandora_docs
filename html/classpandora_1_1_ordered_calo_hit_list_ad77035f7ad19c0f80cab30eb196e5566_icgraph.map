@@ -1,0 +1,27 @@
+<map id="pandora::OrderedCaloHitList::size" name="pandora::OrderedCaloHitList::size">
+<area shape="rect" id="Node000001" title="Returns the number of elements in the container." alt="" coords="674,272,859,315"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_cluster_fit_helper.html#a9001f18b5dc92c16b3c5451f1d1959e5" title="Fit points in last n occupied pseudolayers of a cluster." alt="" coords="443,5,611,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="750,258,732,213,705,161,669,108,625,62,607,51,610,46,628,58,673,104,709,158,737,211,755,256"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_cluster_fit_helper.html#ac4d0d69c1b786c1158c450baa3c1c092" title="Fit all points in a cluster." alt="" coords="443,72,611,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="743,260,694,194,661,159,625,129,605,118,607,113,628,124,665,155,698,190,747,257"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_cluster_fit_helper.html#ae9e41a31e84ff8706875e3a56005b200" title="Fit all cluster centroids within the specified (inclusive) pseudolayer range." alt="" coords="443,139,611,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="727,264,680,229,625,196,599,184,602,179,628,191,683,225,730,260"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_cluster_fit_helper.html#a32a1db63de5bcdc7fd4de786f929d746" title="Fit all cluster points within the specified (inclusive) pseudolayer range." alt="" coords="443,205,611,248"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="672,270,606,251,607,246,674,265"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_cluster_fit_helper.html#a3271a5608c51ec4cb3b78fcbccac4cf2" title="Fit points in first n occupied pseudolayers of a cluster." alt="" coords="443,272,611,315"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="659,296,611,296,611,291,659,291"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_l_ar_cluster_helper.html#addbd69272274cf0b4683230f6178a8df" title="Fraction of occupied layers in cluster." alt="" coords="431,339,622,381"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="674,322,607,341,606,335,672,317"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_l_ar_cluster_helper.html#ac756d06ac0b1df12ba35ebaa18ca2a94" title="Fraction of occupied layers in a pair of clusters." alt="" coords="431,405,622,448"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="730,327,683,362,628,396,602,407,599,402,625,391,680,358,727,323"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_cluster.html#a58d7ca6f3914509d045e74d4958e29f8" title="Get the number of isolated calo hits in the cluster." alt="" coords="427,472,626,515"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="747,329,698,396,665,432,628,462,607,474,605,469,625,458,661,428,694,393,743,326"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_l_ar_cluster_helper.html#a9980d49e22780b4c067fecc360fea4e3" title="Sort clusters by number of occupied layers, and by inner layer, then energy in event of a tie." alt="" coords="431,539,622,581"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="755,331,737,376,709,429,673,482,628,529,610,540,607,536,625,525,669,479,705,426,732,373,750,329"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_cluster.html#a58281aa5954d0e576f11096f71a29dfe" title="Update result of linear fit to all calo hits in cluster." alt="" coords="214,72,379,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="427,96,380,96,380,91,427,91"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_cluster.html#a9f487c581944da7885e16d71a88315b4" title="Get the result of a linear fit to all calo hits in the cluster." alt="" coords="5,72,166,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="198,96,166,96,166,91,198,91"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_l_ar_particle_id_plugins_1_1_l_ar_muon_id.html#a2e2dec9f94d5581106b0d6dc1596ffa6" title="Whether the cluster matches the specific particle hypothesis." alt="" coords="218,331,375,389"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="416,363,375,363,375,357,416,357"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="lar_content::LArClusterHelper::GetClosestPositions" name="lar_content::LArClusterHelper::GetClosestPositions">
+<area shape="rect" id="Node000001" title="Get pair of closest positions for a pair of clusters." alt="" coords="245,5,436,48"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_cluster_helper.html#ae739edd8cbbedfa84a66458c0102e55e" title="Get closest distance between a pair of clusters." alt="" coords="5,5,197,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="229,29,197,29,197,24,229,24"/>
+</map>

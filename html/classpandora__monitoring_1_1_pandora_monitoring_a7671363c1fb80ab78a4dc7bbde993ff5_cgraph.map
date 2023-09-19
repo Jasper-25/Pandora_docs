@@ -1,0 +1,19 @@
+<map id="pandora_monitoring::PandoraMonitoring::DrawPandoraHistogram" name="pandora_monitoring::PandoraMonitoring::DrawPandoraHistogram">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,231,171,289"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_two_d_histogram.html#a2a6e98b4843fc0990563da3e447b35e4" title="Get the content of a specified bin." alt="" coords="219,5,385,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,229,118,191,144,145,177,99,217,58,222,54,225,59,220,62,181,102,148,148,122,193,104,231"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_two_d_histogram.html#a70e98e1fe29310ec0eedaa22f67c18e9" title="Get the number of x bins." alt="" coords="219,72,385,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="110,229,156,177,185,149,217,124,224,120,227,125,220,129,189,153,160,180,114,232"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_two_d_histogram.html#a8216b827e57a03584b29a62622085464" title="Get the number of y bins." alt="" coords="219,139,385,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="144,228,218,191,230,185,232,190,220,196,146,232"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_two_d_histogram.html#afc94812c537aa1cf9c21ec3ea2ab4414" title="Get the max binned x value." alt="" coords="219,205,385,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="171,244,203,239,203,245,171,250"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_two_d_histogram.html#a83147dd2099ddaba7c596972889815c2" title="Get the min binned x value." alt="" coords="219,272,385,315"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="171,270,203,275,203,281,171,276"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_two_d_histogram.html#a7bf8066c964e37bd1ab84a15004e657c" title="Get the max binned y value." alt="" coords="219,339,385,381"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="146,288,220,324,232,330,230,335,218,329,144,292"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_two_d_histogram.html#a0a5b739370998f20bc45b1dc9cceb063" title="Get the min binned y value." alt="" coords="219,405,385,448"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="114,288,160,340,189,367,220,391,227,395,224,400,217,396,185,371,156,343,110,291"/>
+<area shape="rect" id="Node000009" href="$classpandora__monitoring_1_1_pandora_monitoring.html#af2a6eaf171b6ffd0f73b70fa41ce5711" title="Pause thread until user enters &#39;return&#39;." alt="" coords="233,472,371,531"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="105,289,150,371,182,417,221,458,224,461,220,465,217,462,178,420,145,374,100,291"/>
+</map>

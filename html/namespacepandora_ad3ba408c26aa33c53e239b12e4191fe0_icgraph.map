@@ -1,0 +1,15 @@
+<map id="pandora::TypeToString" name="pandora::TypeToString">
+<area shape="rect" id="Node000001" title=" " alt="" coords="489,147,640,173"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_manager.html#abc02ed77855b91e7548eef94de6f67db" title="Create a temporary list associated with a particular algorithm." alt="" coords="253,13,441,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="535,139,492,104,440,70,415,59,418,54,442,66,495,100,539,134"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_post_processing_algorithm.html#a596552529694b3c665abe0e43eb9fda0" title=" " alt="" coords="254,80,440,123"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="497,145,428,126,429,121,498,140"/>
+<area shape="rect" id="Node000005" href="$namespacepandora.html#ae45075cb6bf738badac484014a6a3e0c" title=" " alt="" coords="271,147,423,173"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="473,163,423,163,423,157,473,157"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_histogram.html#aad92946c82d5f00e63d5394878401950" title="Write the histogram to an xml document." alt="" coords="280,197,414,240"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="498,180,415,203,414,198,497,175"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_two_d_histogram.html#acc2f3fbcaf180bf4a5f4a8ef176375f4" title="Write the histogram to an xml document." alt="" coords="264,264,430,307"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="539,186,495,220,442,254,418,266,415,261,440,250,492,216,535,181"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_algorithm_object_manager.html#a612417933fa00e551546a1f780639e5b" title="Make a temporary list and set it to be the current list." alt="" coords="5,5,205,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="237,37,205,37,205,32,237,32"/>
+</map>

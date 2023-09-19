@@ -1,0 +1,11 @@
+<map id="lar_content::ConnectedRemnantsTool" name="lar_content::ConnectedRemnantsTool">
+<area shape="rect" id="Node000001" title="ConnectedRemnantsTool class." alt="" coords="5,324,244,351"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_remnant_tensor_tool.html" title="RemnantTensorTool class." alt="" coords="20,248,229,275"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,290,127,324,122,324,122,290"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_algorithm_tool.html" title="AlgorithmTool class. Algorithm tools will tend to be tailored for specific parent algorithms,..." alt="" coords="47,172,202,199"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="127,214,127,248,122,248,122,214"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_process.html" title="Process class." alt="" coords="63,96,186,123"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="127,138,127,172,122,172,122,138"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_pandora.html" title="Pandora class." alt="" coords="63,5,186,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="127,48,127,95,122,95,122,48"/>
+</map>

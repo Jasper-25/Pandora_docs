@@ -1,0 +1,13 @@
+<map id="lar_content::TwoDSlidingFitResult::GetLayerFitResultMap" name="lar_content::TwoDSlidingFitResult::GetLayerFitResultMap">
+<area shape="rect" id="Node000001" title="Get the layer fit result map." alt="" coords="764,88,976,131"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_track_refinement_base_algorithm.html#a09495b7c6be5f59c0d5dc0898afdef7e" title="Get the merging coordinate and direction for an input cluster with respect to an associated cluster." alt="" coords="481,5,703,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="772,86,703,67,704,62,774,81"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_cut_cluster_characterisation_algorithm.html#a01e80c75d6ef9ac277988e3e793f4993" title="Get a measure of the width of a cluster, using a sliding shower fit result." alt="" coords="468,88,716,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="749,112,717,112,717,107,749,107"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_track_refinement_base_algorithm.html#a3e01cdbae15087db91845b45315bceee" title="Remove any hits in the upstream/downstream cluster that lie off of the main track axis (i...." alt="" coords="480,155,705,213"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="774,138,704,157,703,152,772,133"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_two_d_shower_fit_feature_tool.html#a64b8bc495896a1c761b20f37f58a6bc8" title=" " alt="" coords="237,88,420,131"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="452,112,420,112,420,107,452,107"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_two_d_shower_fit_feature_tool.html#a7425d815b3d3a5f0b5feb934cfef09ac" title=" " alt="" coords="5,88,189,131"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="221,112,189,112,189,107,221,107"/>
+</map>

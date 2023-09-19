@@ -1,0 +1,11 @@
+<map id="EventWritingAlgorithm::Initialize" name="EventWritingAlgorithm::Initialize">
+<area shape="rect" id="Node000001" title="Perform any operations that must occur after reading settings, but before running the process." alt="" coords="5,27,155,69"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_process.html#a7dd41c24ac856e2f41d5a0432eb99cd5" title="Get the associated pandora instance." alt="" coords="203,5,403,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,36,187,31,188,37,156,41"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_file_writer.html#ace58fef8926e07f060eb5049eb9f03b2" title="Write the current geometry information to the file." alt="" coords="237,56,369,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="156,55,222,64,222,69,155,60"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_file_writer.html#a1c16ad2cf69cf276b251f4bbd6a8a44a" title="Write the container footer to the file." alt="" coords="451,23,582,65"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="368,65,435,54,436,59,369,70"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_file_writer.html#a22e31a5cae635da3e0fe31e35c03cd7e" title="Write the container header to the file." alt="" coords="451,89,582,132"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="369,85,436,95,435,101,368,90"/>
+</map>

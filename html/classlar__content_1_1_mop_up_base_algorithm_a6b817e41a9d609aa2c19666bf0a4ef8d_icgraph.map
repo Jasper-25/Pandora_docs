@@ -1,0 +1,9 @@
+<map id="lar_content::MopUpBaseAlgorithm::ReadSettings" name="lar_content::MopUpBaseAlgorithm::ReadSettings">
+<area shape="rect" id="Node000001" title="Read the algorithm settings." alt="" coords="516,39,735,81"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_cluster_mop_up_base_algorithm.html#ad5eaba98f7186e6262db9c83e458c2e9" title="Read the algorithm settings." alt="" coords="276,5,468,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="500,46,468,42,469,37,501,41"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_pfo_mop_up_base_algorithm.html#a576cee1f30135b7a822871144ef6de1b" title="Read the algorithm settings." alt="" coords="280,72,464,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="501,79,464,84,464,79,500,74"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_vertex_based_pfo_mop_up_algorithm.html#a68310f223458dbe186e5ad976e91a2a7" title="Read the algorithm settings." alt="" coords="5,72,228,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="265,96,228,96,228,91,265,91"/>
+</map>

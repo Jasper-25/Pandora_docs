@@ -1,0 +1,9 @@
+<map id="lar_content::SliceIdBaseTool" name="lar_content::SliceIdBaseTool">
+<area shape="rect" id="Node000001" title="SliceIdBaseTool class." alt="" coords="5,248,192,275"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_algorithm_tool.html" title="AlgorithmTool class. Algorithm tools will tend to be tailored for specific parent algorithms,..." alt="" coords="21,172,176,199"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,214,101,248,96,248,96,214"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_process.html" title="Process class." alt="" coords="37,96,160,123"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="101,138,101,172,96,172,96,138"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_pandora.html" title="Pandora class." alt="" coords="37,5,160,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="101,48,101,95,96,95,96,48"/>
+</map>

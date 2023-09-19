@@ -1,0 +1,7 @@
+<map id="pandora::ClusterFitHelper::FitFullCluster" name="pandora::ClusterFitHelper::FitFullCluster">
+<area shape="rect" id="Node000001" title="Fit all points in a cluster." alt="" coords="427,5,595,48"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_cluster.html#a58281aa5954d0e576f11096f71a29dfe" title="Update result of linear fit to all calo hits in cluster." alt="" coords="214,5,379,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="412,29,380,29,380,24,412,24"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_cluster.html#a9f487c581944da7885e16d71a88315b4" title="Get the result of a linear fit to all calo hits in the cluster." alt="" coords="5,5,166,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="198,29,166,29,166,24,198,24"/>
+</map>

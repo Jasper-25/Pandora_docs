@@ -1,0 +1,13 @@
+<map id="lar_content::LArFormattingHelper::SetColor" name="lar_content::LArFormattingHelper::SetColor">
+<area shape="rect" id="Node000001" title="Set the text color (of standard output stream)" alt="" coords="953,39,1128,81"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_formatting_helper.html#af7074587d7af2c3f4317de2654516684" title="Reset the text color of the standard output stream." alt="" coords="729,39,905,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="937,63,905,63,905,57,937,57"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_formatting_helper.html#a279f3caa75042216da23939bb5736551" title="Reset the formatting and text color of the standard output stream." alt="" coords="506,39,681,81"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="714,63,682,63,682,57,714,57"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_formatting_helper.html#ab3cffdd8bfbc1c95f3c9da4d6250a2b8" title="Print a header line of a given width." alt="" coords="283,39,458,81"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="491,63,458,63,458,57,491,57"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_cosmic_ray_tagging_monitoring_tool.html#aa3904805678648d14de635dcb1b1e588" title="Find the list of ambiguous pfos (could represent cosmic&#45;ray muons or neutrinos)" alt="" coords="5,5,235,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="266,49,235,45,235,39,267,44"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_l_ar_formatting_helper.html#a2e87081f651381702f6af49ceee8be34" title="Print a horizontal rule." alt="" coords="32,72,208,115"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="268,76,208,84,208,79,267,71"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="lar_content::ClearTrackFragmentsTool" name="lar_content::ClearTrackFragmentsTool">
+<area shape="rect" id="Node000001" title="ClearTrackFragmentsTool class." alt="" coords="5,324,247,351"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_fragment_tensor_tool.html" title="FragmentTensorTool class." alt="" coords="20,248,232,275"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,290,129,324,123,324,123,290"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_algorithm_tool.html" title="AlgorithmTool class. Algorithm tools will tend to be tailored for specific parent algorithms,..." alt="" coords="49,172,203,199"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="129,214,129,248,123,248,123,214"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_process.html" title="Process class." alt="" coords="64,96,188,123"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="129,138,129,172,123,172,123,138"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_pandora.html" title="Pandora class." alt="" coords="64,5,188,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="129,48,129,95,123,95,123,48"/>
+</map>

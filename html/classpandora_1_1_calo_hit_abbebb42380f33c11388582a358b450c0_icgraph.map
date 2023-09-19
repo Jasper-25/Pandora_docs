@@ -1,0 +1,11 @@
+<map id="pandora::CaloHit::GetCellNormalVector" name="pandora::CaloHit::GetCellNormalVector">
+<area shape="rect" id="Node000001" title="Get the unit vector normal to the sampling layer, pointing outwards from the origin." alt="" coords="505,39,673,81"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_master_algorithm.html#afc9d27964a916221cf42c0c88680745c" title="Create a new calo hit in the current pandora instance, based upon the provided input calo hit." alt="" coords="255,5,444,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="489,49,443,42,444,37,490,44"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_calo_hit.html#aadf98ed9882cbd841eb0b0e203ea45ef" title="Get the list of cartesian coordinates for rectangular cell corners." alt="" coords="242,72,457,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="490,76,458,81,457,76,489,71"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_master_algorithm.html#a5e4808ff37d0fdeda42d718673ac14a7" title="Recreate a specified pfo in the current pandora instance." alt="" coords="5,5,194,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="240,29,194,29,194,24,240,24"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_calo_hit.html#a9545e4ad498ab49e0c2387196ccb886c" title="Get the list of cartesian coordinates for the cell corners." alt="" coords="15,72,184,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="226,96,184,96,184,91,226,91"/>
+</map>

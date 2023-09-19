@@ -1,0 +1,12 @@
+<map id="pandora::LArTPC::GetLArTPCVolumeId" name="pandora::LArTPC::GetLArTPCVolumeId">
+<area shape="rect" id="Node000001" title="Get the lar volume id, uniquely specifying the lar tpc." alt="" coords="763,47,1012,73"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_master_algorithm.html#a2d3e85f24a174950aa1f53e07aa0d8ce" title="Create a pandora worker instance to handle a single LArTPC." alt="" coords="527,8,715,51"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="751,47,715,43,716,38,751,42"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_master_algorithm.html#aca8703c760cb88061669c1e03f446a59" title="Run the cosmic&#45;ray reconstruction worker instances." alt="" coords="273,72,479,115"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="748,72,480,89,479,84,748,66"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_master_algorithm.html#adc0ae3e6b2ec020e18e7c0f63b2cbf54" title="Initialize pandora worker instances." alt="" coords="282,5,470,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="511,31,471,30,471,25,511,25"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_master_algorithm.html#ab61b051a14d2431fa04900e52277ce96" title="Run the algorithm." alt="" coords="5,47,225,73"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="267,43,225,49,224,43,266,38"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="257,81,224,77,225,71,257,76"/>
+</map>

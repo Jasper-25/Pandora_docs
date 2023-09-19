@@ -1,0 +1,7 @@
+<map id="PandoraContentApi::RemoveFromCluster" name="PandoraContentApi::RemoveFromCluster">
+<area shape="rect" id="Node000001" title="Remove a calo hit from a cluster. Note this function will not remove the final calo hit from a cluste..." alt="" coords="290,39,431,81"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_track_refinement_base_algorithm.html#a3a16d4f7140eb76ddbc3af84baa7c0d9" title="Remove the hits from a shower cluster that belong to the main track and add them into the main track ..." alt="" coords="6,5,241,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="274,51,241,46,241,41,275,45"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_n_view_delta_ray_matching_algorithm.html#aa24b047e6a078001b1d504de19f2a1fb" title="Move a list of hits from a cosmic ray cluster into the given child delta ray cluster." alt="" coords="5,72,242,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="275,75,242,79,242,74,274,69"/>
+</map>

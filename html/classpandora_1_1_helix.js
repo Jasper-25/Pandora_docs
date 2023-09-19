@@ -1,0 +1,27 @@
+var classpandora_1_1_helix =
+[
+    [ "Helix", "classpandora_1_1_helix.html#a438ec821dacdf2205c87959945c1d6f2", null ],
+    [ "Helix", "classpandora_1_1_helix.html#a6159f5cc0595271109d29adf265f2d50", null ],
+    [ "GetCharge", "classpandora_1_1_helix.html#a072f36feb5e2e56bdfe343aa6feb5b6b", null ],
+    [ "GetD0", "classpandora_1_1_helix.html#ac2977ffa40348954fc55d6c8b28908f3", null ],
+    [ "GetDistanceToHelix", "classpandora_1_1_helix.html#af254ef95c749b019b514960129c25e05", null ],
+    [ "GetDistanceToPoint", "classpandora_1_1_helix.html#a3c5f69c85bc45b988bd2b9e4048feab5", null ],
+    [ "GetDistanceToPoint", "classpandora_1_1_helix.html#a5ae8e5a0665539e97286ab9838d75d66", null ],
+    [ "GetExtrapolatedMomentum", "classpandora_1_1_helix.html#a6fa87412d13ad7713916b14323bad818", null ],
+    [ "GetMomentum", "classpandora_1_1_helix.html#a6a07c3b0beecc66bf655db5c7a644c1c", null ],
+    [ "GetOmega", "classpandora_1_1_helix.html#a16271561cdb15a53d1645055b57ce2a1", null ],
+    [ "GetPhi0", "classpandora_1_1_helix.html#a644cc1a5c8c976338b8ed86a144efe76", null ],
+    [ "GetPointInXY", "classpandora_1_1_helix.html#ada73d728cc46ac534be201093366c662", null ],
+    [ "GetPointInXY", "classpandora_1_1_helix.html#abf5dea2fda65f4570c3f90d0f72a056d", null ],
+    [ "GetPointInZ", "classpandora_1_1_helix.html#a237e51f3dc0c38d2a7185825256d78f8", null ],
+    [ "GetPointInZ", "classpandora_1_1_helix.html#a555159cc20516d96e65f39247681fecc", null ],
+    [ "GetPointOnCircle", "classpandora_1_1_helix.html#abc51c3b669794e3cf8546e3f50edb5c6", null ],
+    [ "GetPointOnCircle", "classpandora_1_1_helix.html#add2a2990257d271cf291cfca39b2139d", null ],
+    [ "GetPxy", "classpandora_1_1_helix.html#a906c7d52d9d44bc2a6582cbb0ab5d854", null ],
+    [ "GetRadius", "classpandora_1_1_helix.html#a33aba3df79424910a1c45b385161251d", null ],
+    [ "GetReferencePoint", "classpandora_1_1_helix.html#ad525616f18f03777d074f6af6eafe023", null ],
+    [ "GetTanLambda", "classpandora_1_1_helix.html#a64f32e89bbff7137b0a1fe9ac762f570", null ],
+    [ "GetXCentre", "classpandora_1_1_helix.html#a2bf88c5474dc2a2631b08175306b1dc2", null ],
+    [ "GetYCentre", "classpandora_1_1_helix.html#a53ddc06a95683892c26205c724de080f", null ],
+    [ "GetZ0", "classpandora_1_1_helix.html#a0da48885fefe9b5321dc459509e60da5", null ]
+];

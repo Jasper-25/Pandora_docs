@@ -1,0 +1,5 @@
+<map id="lar_content::LArPfoHelper::GetHierarchyTier" name="lar_content::LArPfoHelper::GetHierarchyTier">
+<area shape="rect" id="Node000001" title="Determine the position in the hierarchy for the MCParticle." alt="" coords="222,13,391,56"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_hierarchy_helper_1_1_reco_hierarchy_1_1_node.html#a0e0e69c67b93d3711d4840e686157fd8" title="Recursively fill the hierarchy based on the criteria established for this RecoHierarchy." alt="" coords="5,5,174,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,37,174,37,174,32,206,32"/>
+</map>

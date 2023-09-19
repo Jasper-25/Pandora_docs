@@ -1,0 +1,9 @@
+<map id="lar_content::CosmicRayVertexBuildingAlgorithm" name="lar_content::CosmicRayVertexBuildingAlgorithm">
+<area shape="rect" id="Node000001" title="CosmicRayVertexBuildingAlgorithm class." alt="" coords="5,248,204,291"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_algorithm.html" title="Algorithm class. Algorithm addresses are held only by the algorithm manager. They have a fully define..." alt="" coords="39,172,170,199"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,214,107,248,102,248,102,214"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_process.html" title="Process class." alt="" coords="43,96,166,123"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="107,138,107,172,102,172,102,138"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_pandora.html" title="Pandora class." alt="" coords="43,5,166,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="107,48,107,95,102,95,102,48"/>
+</map>

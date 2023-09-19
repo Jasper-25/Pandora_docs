@@ -1,0 +1,33 @@
+<map id="lar_content::TracksCrossingGapsTool::Run" name="lar_content::TracksCrossingGapsTool::Run">
+<area shape="rect" id="Node000001" title="Run the algorithm tool." alt="" coords="5,307,189,349"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_matching_base_algorithm.html#a5ad552251c36087c22047bb5d64b72e0" title="Create particles using findings from recent algorithm processing." alt="" coords="247,131,462,173"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,304,162,244,197,211,235,183,245,178,247,182,238,188,200,215,166,248,116,308"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_geometry_manager.html#a5525ac445d8fd4ae84f6d6d5a89bfef1" title="Get the list of gaps in the active detector volume." alt="" coords="263,197,446,240"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="137,304,236,256,269,243,271,248,238,261,139,309"/>
+<area shape="rect" id="Node000010" href="$class_pandora_content_api.html#a46b98b50c11bc437f56e7db3c6e26917" title="Get the pandora geometry instance." alt="" coords="563,256,704,299"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="189,307,236,300,402,285,547,277,547,283,402,290,237,305,190,312"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_process.html#abce8ef815d9d4bb3080be3c6a5d8de61" title="Get the instance name." alt="" coords="237,315,472,341"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="189,325,221,325,221,331,189,331"/>
+<area shape="rect" id="Node000012" href="$class_pandora_content_api.html#aeed1b08b9b265ce554250784193bdd54" title="Get the pandora settings instance." alt="" coords="563,340,704,383"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="190,344,237,351,402,360,547,361,547,366,402,366,236,356,189,349"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_process.html#a76435ee767be0d57159aa460ed6fc5a7" title="Get the type." alt="" coords="264,416,445,443"/>
+<area shape="poly" id="edge16_Node000001_Node000013" title=" " alt="" coords="138,347,185,372,238,395,280,409,278,414,236,400,183,377,136,352"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_pandora_settings.html#ab629c73e8638e7b4c9dfd48c7acaa38b" title="Whether to display algorithm information during processing." alt="" coords="261,467,448,509"/>
+<area shape="poly" id="edge17_Node000001_Node000014" title=" " alt="" coords="118,348,169,400,202,428,238,452,248,458,246,462,235,457,199,433,165,404,114,352"/>
+<area shape="rect" id="Node000003" href="$class_pandora_content_api.html#a623379b5cd96d2ce9f2dd6bef7ecaac1" title="Create a temporary list and set it to be the current list, enabling object creation." alt="" coords="520,189,746,232"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="459,171,514,183,513,188,458,177"/>
+<area shape="rect" id="Node000004" href="$class_pandora_content_api.html#a564c7edc453a936e78fdd2102e870234" title="Replace the current list with a pre&#45;saved list; use this new list as a permanent replacement for the ..." alt="" coords="812,243,954,285"/>
+<area shape="poly" id="edge5_Node000002_Node000004" title=" " alt="" coords="462,142,527,142,600,146,675,156,747,175,801,200,846,231,843,235,798,204,745,180,674,162,599,151,527,147,462,147"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_matching_base_algorithm.html#a8a75d733e1dda7d0df408e2f99c22d07" title="Set Pfo properties." alt="" coords="538,72,728,115"/>
+<area shape="poly" id="edge6_Node000002_Node000005" title=" " alt="" coords="458,127,522,114,524,119,459,133"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="737,230,798,243,797,248,736,235"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="836,243,834,233,842,224,858,218,883,216,910,218,926,225,924,230,908,224,883,221,859,223,845,228,839,234,841,242"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_pdg_table.html#a49bbde37591cb140c3190865e749ee4c" title="Get the charge of a particle type." alt="" coords="814,72,952,115"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="729,91,799,91,799,96,729,96"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_pdg_table.html#a1ea7be4a0aebdfb364c70e77cb51b0f4" title="Get the mass of a particle type." alt="" coords="814,139,952,181"/>
+<area shape="poly" id="edge8_Node000005_Node000007" title=" " alt="" coords="716,113,800,135,799,140,715,118"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_matching_base_algorithm.html#ae4cee1e36098542a8d23986ab7b1e852" title="Set pfo particle id." alt="" coords="794,5,972,48"/>
+<area shape="poly" id="edge9_Node000005_Node000008" title=" " alt="" coords="715,69,785,50,787,55,716,74"/>
+<area shape="poly" id="edge12_Node000010_Node000004" title=" " alt="" coords="704,271,797,266,797,271,704,276"/>
+<area shape="poly" id="edge15_Node000012_Node000004" title=" " alt="" coords="689,337,811,289,813,294,691,342"/>
+</map>

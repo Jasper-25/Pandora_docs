@@ -1,0 +1,9 @@
+<map id="PandoraContentApi::IsAvailable" name="PandoraContentApi::IsAvailable">
+<area shape="rect" id="Node000001" title="Is object, or a list of objects, available as a building block." alt="" coords="549,39,690,81"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_cluster_characterisation_base_algorithm.html#a8b906cec5c8e2d5889a3f86f3c91f263" title="Run the algorithm." alt="" coords="273,5,501,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="533,50,501,46,502,40,534,45"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_master_algorithm.html#aaf15232ca65ed6ab5b9f22a565badcf0" title="Run the event slicing procedures, dividing available hits up into distinct 3D regions." alt="" coords="293,72,481,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="534,75,482,82,481,77,534,70"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_master_algorithm.html#ab61b051a14d2431fa04900e52277ce96" title="Run the algorithm." alt="" coords="5,80,225,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="277,96,225,96,225,91,277,91"/>
+</map>

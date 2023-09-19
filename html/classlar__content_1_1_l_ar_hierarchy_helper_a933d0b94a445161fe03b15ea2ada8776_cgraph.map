@@ -1,0 +1,31 @@
+<map id="lar_content::LArHierarchyHelper::FillRecoHierarchy" name="lar_content::LArHierarchyHelper::FillRecoHierarchy">
+<area shape="rect" id="Node000001" title="Fill a reconstructed hierarchy based on the specified folding criteria (see RecoHierarchy::FillHierar..." alt="" coords="5,195,174,237"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_hierarchy_helper_1_1_reco_hierarchy.html#a8300a582d4fa67818f24462a4958a5cb" title="Creates a reconstructed hierarchy representation. Without folding this will be a mirror image of the ..." alt="" coords="222,187,390,245"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,213,206,213,206,219,174,219"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_pfo_helper.html#a2c28c40f442763240b5ecbbf80173c2f" title="Get a list of all calo hits (including isolated) of all types from a given pfo." alt="" coords="438,104,607,147"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="373,184,437,156,451,151,453,155,439,161,375,189"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_l_ar_pfo_helper.html#a19dc72c394b3b8453bd605019925e85c" title="Get a flat list of all pfos, recursively, of all daughters associated with those pfos in an input lis..." alt="" coords="438,195,607,237"/>
+<area shape="poly" id="edge7_Node000002_Node000006" title=" " alt="" coords="391,213,422,213,422,219,391,219"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_l_ar_pfo_helper.html#a99faf37b2fbe797865e4c26f2221d911" title="Sort pfos by number of constituent hits." alt="" coords="438,261,607,304"/>
+<area shape="poly" id="edge9_Node000002_Node000007" title=" " alt="" coords="391,239,437,254,436,259,390,245"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_pfo_helper.html#accc433f9d78994d474b8d9de9bb189c7" title="Get a list of calo hits of a particular hit type from a list of pfos." alt="" coords="669,29,838,72"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="590,101,670,75,671,80,592,106"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_l_ar_pfo_helper.html#a7a0f820e2aa8e2332efe849d6eac85e5" title="Get a list of isolated calo hits of a particular hit type from a list of pfos." alt="" coords="669,120,838,163"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="608,129,654,132,653,137,607,134"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="710,29,708,19,715,10,731,5,754,3,778,5,793,11,791,16,777,10,753,8,732,10,718,15,713,21,715,28"/>
+<area shape="poly" id="edge6_Node000005_Node000005" title=" " alt="" coords="710,120,708,110,715,101,731,95,754,93,778,96,793,102,791,107,777,101,753,99,732,101,718,105,713,111,715,119"/>
+<area shape="poly" id="edge8_Node000006_Node000006" title=" " alt="" coords="481,195,480,185,487,176,501,170,523,168,546,170,560,177,558,181,545,176,523,173,502,175,490,180,485,186,487,194"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_l_ar_cluster_helper.html#a434d03423e67ad1f95790177deb8501e" title="Get the hit type associated with a two dimensional cluster." alt="" coords="658,195,849,237"/>
+<area shape="poly" id="edge10_Node000007_Node000008" title=" " alt="" coords="598,258,662,240,663,245,599,263"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_cluster.html#a407bc6062d1c99301420bb87e517db18" title="Get the number of calo hits in the cluster." alt="" coords="900,261,1103,288"/>
+<area shape="poly" id="edge16_Node000007_Node000010" title=" " alt="" coords="607,279,884,274,884,279,608,284"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_particle_flow_object.html#a42e44112f2fea9cf38dad963d0fec0af" title="Get the cluster list." alt="" coords="661,312,846,355"/>
+<area shape="poly" id="edge14_Node000007_Node000012" title=" " alt="" coords="608,299,646,307,645,312,607,304"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_cluster.html#a2693cb404c534ea8c0e6c5ce71c863c9" title="Get the sum of hadronic energy measures of all constituent calo hits, units GeV." alt="" coords="655,379,852,421"/>
+<area shape="poly" id="edge15_Node000007_Node000013" title=" " alt="" coords="555,302,602,334,657,364,669,370,667,375,654,369,599,338,552,307"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_ordered_calo_hit_list.html#a42852bab5395fc3e023ff0bb35af9540" title="Returns a const iterator referring to the first element in the ordered calo hit list." alt="" coords="909,128,1094,171"/>
+<area shape="poly" id="edge11_Node000008_Node000009" title=" " alt="" coords="835,192,904,173,905,178,836,197"/>
+<area shape="poly" id="edge12_Node000008_Node000010" title=" " alt="" coords="847,235,927,255,926,260,846,241"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_cluster.html#a7d339731c79e90e04b56d6746a641fc8" title="Get the ordered calo hit list." alt="" coords="906,195,1097,237"/>
+<area shape="poly" id="edge13_Node000008_Node000011" title=" " alt="" coords="850,213,890,213,890,219,850,219"/>
+</map>

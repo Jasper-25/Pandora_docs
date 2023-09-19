@@ -1,0 +1,5 @@
+<map id="lar_content::LArClusterHelper::GetDaughterVolumeIDs" name="lar_content::LArClusterHelper::GetDaughterVolumeIDs">
+<area shape="rect" id="Node000001" title="Get the set of the daughter volumes that contains the cluster." alt="" coords="296,5,487,48"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_geometry_helper.html#a82a137b6e893ef2f0943e999a75465db" title="Return the set of common daughter volumes between two 2D clusters." alt="" coords="5,5,248,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="280,29,248,29,248,24,280,24"/>
+</map>

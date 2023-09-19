@@ -1,0 +1,7 @@
+<map id="lar_content::LArCaloHit::GetTrackProbability" name="lar_content::LArCaloHit::GetTrackProbability">
+<area shape="rect" id="Node000001" title="Get the probability that the hit is track&#45;like." alt="" coords="251,55,406,97"/>
+<area shape="rect" id="Node000002" href="$classlar__dl__content_1_1_dl_track_shower_stream_selection_algorithm.html#a1f2aba2da2c84ac2b552c6d93c2a1e5b" title="Allocate a cluster to the appropriate streams." alt="" coords="5,5,203,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="235,62,203,56,204,50,236,56"/>
+<area shape="rect" id="Node000003" href="$classlar__dl__content_1_1_dl_cluster_characterisation_algorithm.html#a2af9ec06bd2ad7a9a0c568d8f36482c2" title="Whether cluster is identified as a clear track." alt="" coords="19,88,189,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="236,96,190,104,189,99,235,90"/>
+</map>

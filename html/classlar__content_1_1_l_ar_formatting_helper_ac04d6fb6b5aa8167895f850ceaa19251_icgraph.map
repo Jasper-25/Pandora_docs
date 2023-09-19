@@ -1,0 +1,27 @@
+<map id="lar_content::LArFormattingHelper::GetFormatCharacter" name="lar_content::LArFormattingHelper::GetFormatCharacter">
+<area shape="rect" id="Node000001" title="Get a formatting character." alt="" coords="1416,39,1601,81"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_formatting_helper_1_1_table.html#a1cb0aefb13a7a5ce75fbe0deeaeea74d" title="Add an element to the table into the next (non&#45;separator) column." alt="" coords="1185,5,1361,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1400,47,1361,42,1362,37,1401,42"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_formatting_helper.html#af79d791884e795ded2a01a0ab52d9fa1" title="Print a formatting character to the standard output stream." alt="" coords="1178,72,1368,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1401,78,1369,82,1369,77,1401,73"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_monitoring_helper.html#a344b0f12334ce419e52a7ded5754dae7" title="Print the shared good hits between all Pfos and MCParticles." alt="" coords="953,5,1130,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1169,29,1130,29,1130,24,1169,24"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_l_ar_formatting_helper.html#af0501e729fb035526a76c4205062e734" title="Set the text color (of standard output stream)" alt="" coords="954,72,1129,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1163,96,1129,96,1129,91,1163,91"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_l_ar_formatting_helper.html#a5013855cb7821986d4c215bd47a796f9" title="Set the format style (to standard output stream)" alt="" coords="954,139,1129,181"/>
+<area shape="poly" id="edge10_Node000004_Node000011" title=" " alt="" coords="1183,122,1119,141,1118,135,1182,117"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_l_ar_formatting_helper.html#af7074587d7af2c3f4317de2654516684" title="Reset the text color of the standard output stream." alt="" coords="729,72,905,115"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="938,96,905,96,905,91,938,91"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_l_ar_formatting_helper.html#a279f3caa75042216da23939bb5736551" title="Reset the formatting and text color of the standard output stream." alt="" coords="506,139,681,181"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="730,122,669,141,667,135,728,117"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_l_ar_formatting_helper.html#ab3cffdd8bfbc1c95f3c9da4d6250a2b8" title="Print a header line of a given width." alt="" coords="283,168,458,211"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="491,176,459,180,458,175,490,171"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_cosmic_ray_tagging_monitoring_tool.html#aa3904805678648d14de635dcb1b1e588" title="Find the list of ambiguous pfos (could represent cosmic&#45;ray muons or neutrinos)" alt="" coords="5,135,235,177"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="266,178,235,174,235,169,267,173"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_l_ar_formatting_helper.html#a2e87081f651381702f6af49ceee8be34" title="Print a horizontal rule." alt="" coords="32,201,208,244"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="268,206,208,214,208,208,267,200"/>
+<area shape="poly" id="edge11_Node000011_Node000008" title=" " alt="" coords="950,188,905,196,784,206,663,208,458,199,458,194,663,202,784,200,904,191,949,183"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_l_ar_formatting_helper.html#adf03f34dc7d1c3761026e8ca8ea389c8" title="Reset the style of the standard output stream." alt="" coords="729,139,905,181"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="938,163,905,163,905,157,938,157"/>
+<area shape="poly" id="edge13_Node000012_Node000007" title=" " alt="" coords="714,163,682,163,682,157,714,157"/>
+</map>

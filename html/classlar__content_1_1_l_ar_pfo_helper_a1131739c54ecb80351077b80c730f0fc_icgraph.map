@@ -1,0 +1,17 @@
+<map id="lar_content::LArPfoHelper::IsTestBeam" name="lar_content::LArPfoHelper::IsTestBeam">
+<area shape="rect" id="Node000001" title="Whether a pfo is a test beam particle." alt="" coords="713,105,883,148"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_pfo_helper.html#ab13d0833aa951fef0de5120142d3bc9a" title="Get the pfo test beam interaction vertex." alt="" coords="457,5,664,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="743,100,664,62,634,51,636,46,666,58,746,95"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_pfo_helper.html#ae6f2016287caf24a56c1c40d6fa8ec90" title="Get the pfo vertex." alt="" coords="476,72,645,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="698,115,646,108,646,103,699,110"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_l_ar_pfo_helper.html#ac1b7a179f04fd3b349ace083883f2906" title="Whether a pfo is a final&#45;state particle from a test beam particle interaction." alt="" coords="476,139,645,181"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="699,143,646,151,646,145,698,138"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_cheating_beam_particle_id_tool.html#aaf934322370c1f914f67f771c77d7d4e" title="Select which reconstruction hypotheses to use; neutrino outcomes or cosmic&#45;ray muon outcomes for each..." alt="" coords="456,205,665,248"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="746,158,666,196,636,207,634,202,664,191,743,153"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_custom_particle_creation_algorithm.html#acd2c8d72127d0e7ddfcff04724166877" title="Run the algorithm." alt="" coords="226,39,408,81"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="460,82,408,75,409,70,461,77"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_three_d_vertex_distance_feature_tool.html#a6b24d20d23e65155a81cfd06edc1a0f1" title=" " alt="" coords="231,105,403,148"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="461,110,404,118,403,112,460,104"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_three_d_vertex_distance_feature_tool.html#a3e2358fc5e16766c3c91f054851a0c59" title=" " alt="" coords="5,105,178,148"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="215,129,178,129,178,124,215,124"/>
+</map>

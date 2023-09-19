@@ -1,0 +1,17 @@
+<map id="pandora_monitoring::PandoraMonitoring::Pause" name="pandora_monitoring::PandoraMonitoring::Pause">
+<area shape="rect" id="Node000001" title="Pause thread until user enters &#39;return&#39;." alt="" coords="611,125,749,184"/>
+<area shape="rect" id="Node000002" href="$classpandora__monitoring_1_1_pandora_monitoring.html#ada3a418d024eac7834dfd0ff042240d2" title=" " alt="" coords="398,5,563,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="624,119,562,78,542,67,544,62,565,74,627,114"/>
+<area shape="rect" id="Node000003" href="$classpandora__monitoring_1_1_pandora_monitoring.html#a7671363c1fb80ab78a4dc7bbde993ff5" title=" " alt="" coords="398,88,563,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="596,142,563,135,564,130,597,136"/>
+<area shape="rect" id="Node000004" href="$class_pandora_monitoring_api.html#abd9ed50a1f9804913cc020fc2224c86a" title="Pause thread until user enters &#39;return&#39;." alt="" coords="407,171,555,213"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="596,173,556,181,555,175,595,168"/>
+<area shape="rect" id="Node000005" href="$classpandora__monitoring_1_1_pandora_monitoring.html#a3a488ba1bc7b5ddbcb3bfe8a80b55532" title="Show the Eve Event&#45;display and pause." alt="" coords="412,237,549,296"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="621,195,565,228,544,239,541,234,562,223,618,190"/>
+<area shape="rect" id="Node000006" href="$classpandora__monitoring_1_1_pandora_monitoring.html#a948144bcd89fbed2282566f1ef280826" title="Save the Eve Event&#45;displays." alt="" coords="206,200,346,259"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="396,254,346,245,347,240,397,249"/>
+<area shape="rect" id="Node000008" href="$class_pandora_monitoring_api.html#a35d6ddca0d8df48493cc8e8fedf3c557" title="Show the Eve Event&#45;display and pause." alt="" coords="202,283,350,325"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="397,285,351,293,350,288,396,279"/>
+<area shape="rect" id="Node000007" href="$class_pandora_monitoring_api.html#a2a12e904b587b5cb7e3b51e453c4d731" title="Show the Eve Event&#45;display and pause. Whilst paused, save the event displays." alt="" coords="5,208,154,251"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="190,232,154,232,154,227,190,227"/>
+</map>

@@ -1,0 +1,29 @@
+<map id="pandora::PdgTable::GetParticleMass" name="pandora::PdgTable::GetParticleMass">
+<area shape="rect" id="Node000001" title="Get the mass of a particle type." alt="" coords="769,331,907,373"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_matching_base_algorithm.html#a8a75d733e1dda7d0df408e2f99c22d07" title="Set Pfo properties." alt="" coords="531,331,721,373"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="754,355,722,355,722,349,754,349"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_matching_base_algorithm.html#a5ad552251c36087c22047bb5d64b72e0" title="Create particles using findings from recent algorithm processing." alt="" coords="269,331,483,373"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="515,355,484,355,484,349,515,349"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_matched_end_points_tool.html#a5a25cd500499e60bd01034297ba074bc" title="Run the algorithm tool." alt="" coords="11,5,215,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="363,316,344,260,315,192,273,122,248,90,219,62,202,51,205,46,222,58,252,86,278,119,320,189,349,258,368,315"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_connected_remnants_tool.html#a75a12cf63dc21f757fd444ffe61d31ec" title="Run the algorithm tool." alt="" coords="6,72,220,115"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="357,318,335,274,305,223,266,172,219,129,200,117,203,113,222,125,270,169,309,220,340,272,362,315"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_mop_up_remnants_tool.html#ad871ed9f2e680b867e4643cada276ed1" title="Run the algorithm tool." alt="" coords="16,139,210,181"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="348,320,293,256,258,224,219,196,197,184,200,180,222,191,261,220,297,253,352,316"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_clear_showers_tool.html#a20fea69f6be612f9fce0589a6e62fa23" title="Run the algorithm tool." alt="" coords="26,205,200,248"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="329,324,278,293,220,262,191,251,193,246,222,258,280,288,332,320"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_simple_showers_tool.html#a8e68e58a9b502b0a8dd983f6fc076890" title="Run the algorithm tool." alt="" coords="21,272,205,315"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="262,329,204,316,206,311,263,324"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_long_tracks_tool.html#a0142fe0228893b63f310a22feb1c44ff" title="Run the algorithm tool." alt="" coords="5,339,221,365"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="253,355,221,355,221,349,253,349"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_missing_track_segment_tool.html#ae3f72d66f0347edf82ae3cf3a71d8aac" title="Run the algorithm tool." alt="" coords="28,389,198,432"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="263,380,199,394,198,389,262,375"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_missing_track_tool.html#ad493d050f90581e84a34b15b15238ce4" title="Run the algorithm tool." alt="" coords="28,456,198,499"/>
+<area shape="poly" id="edge10_Node000003_Node000011" title=" " alt="" coords="332,384,280,416,222,446,193,458,191,453,220,442,278,411,329,380"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_tracks_crossing_gaps_tool.html#a4814a2748eb9f38d0faec6c3e56eb7a3" title="Run the algorithm tool." alt="" coords="21,523,205,565"/>
+<area shape="poly" id="edge11_Node000003_Node000012" title=" " alt="" coords="352,388,297,451,261,484,222,513,200,524,197,520,219,508,258,480,293,448,348,384"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_two_view_long_tracks_tool.html#ae119de3d26e2353934e343e468d00772" title="Run the algorithm tool." alt="" coords="27,589,199,632"/>
+<area shape="poly" id="edge12_Node000003_Node000013" title=" " alt="" coords="362,389,340,432,309,484,270,535,222,579,201,592,198,588,219,575,266,532,305,481,335,430,357,386"/>
+<area shape="rect" id="Node000014" href="$classlar__content_1_1_two_view_simple_tracks_tool.html#a9005e5ed85879bc2f7723ca0232dd004" title="Run the algorithm tool." alt="" coords="21,656,205,699"/>
+<area shape="poly" id="edge13_Node000003_Node000014" title=" " alt="" coords="368,389,349,446,320,515,278,585,252,618,222,646,205,658,202,653,219,642,248,614,273,582,315,512,344,444,363,388"/>
+</map>

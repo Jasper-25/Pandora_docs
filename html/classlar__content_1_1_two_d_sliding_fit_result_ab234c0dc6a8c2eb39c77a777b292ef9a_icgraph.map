@@ -1,0 +1,14 @@
+<map id="lar_content::TwoDSlidingFitResult::GetCluster" name="lar_content::TwoDSlidingFitResult::GetCluster">
+<area shape="rect" id="Node000001" title="Get the address of the cluster, if originally provided." alt="" coords="593,112,757,155"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_three_view_track_fragments_algorithm.html#ac4c5ebd63e3b54b7d65c81643a8de116" title="Calculate overlap result for track fragment candidate consisting of two sliding fit results and a lis..." alt="" coords="5,38,249,96"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="645,103,601,61,573,42,544,28,502,16,459,10,415,8,371,10,288,22,215,40,214,35,287,17,371,5,415,3,460,5,504,11,546,23,576,38,604,57,648,99"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_three_d_sliding_fit_result.html#a9b99861d042dde405feb4e0442ca111b" title="Get the address of the cluster." alt="" coords="334,38,508,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="593,110,544,95,504,84,506,78,546,90,594,105"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_three_view_track_fragments_algorithm.html#ade08f511676067feb093570e0e67bb5c" title="Get the list of projected positions, in the third view, corresponding to a pair of sliding fit result..." alt="" coords="310,104,532,163"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="577,136,533,136,533,131,577,131"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_l_ar_geometry_helper.html#ab687d837b539b20a69a59e4540594265" title="Whether there is a gap in a cluster (described via its sliding fit result) at a specified x sampling ..." alt="" coords="320,187,522,230"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="594,163,546,178,506,189,504,184,544,173,593,158"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_two_d_sliding_fit_splitting_and_switching_algorithm.html#a89e3d335cd3a965c275b6a7abc256255" title="Run the algorithm." alt="" coords="297,254,545,296"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="645,168,601,208,546,244,520,256,518,251,544,239,597,204,641,164"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="294,108,248,97,250,92,295,103"/>
+</map>

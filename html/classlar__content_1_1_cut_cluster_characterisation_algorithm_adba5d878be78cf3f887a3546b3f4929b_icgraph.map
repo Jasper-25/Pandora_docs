@@ -1,0 +1,7 @@
+<map id="lar_content::CutClusterCharacterisationAlgorithm::GetVertexDistance" name="lar_content::CutClusterCharacterisationAlgorithm::GetVertexDistance">
+<area shape="rect" id="Node000001" title="Get the distance between the interaction vertex (if present in the current vertex list) and a provide..." alt="" coords="530,5,778,48"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_two_d_vertex_distance_feature_tool.html#a53166fa6009e5dab9d90e1d36ecfd692" title=" " alt="" coords="268,5,482,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="514,29,482,29,482,24,514,24"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_two_d_vertex_distance_feature_tool.html#ab301f4fe23c1342a6d13b0834b4aa115" title=" " alt="" coords="5,5,220,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="252,29,220,29,220,24,252,24"/>
+</map>

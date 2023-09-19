@@ -1,0 +1,9 @@
+<map id="lar_content::TransverseOverlapResult::GetXOverlap" name="lar_content::TransverseOverlapResult::GetXOverlap">
+<area shape="rect" id="Node000001" title="Get the x overlap object." alt="" coords="489,27,687,69"/>
+<area shape="rect" id="Node000002" href="$namespacelar__content.html#acf223b9afeb209bd24df7340b8112e2e" title="Transverse overlap result + operator." alt="" coords="268,5,416,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="473,37,416,30,417,25,474,32"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_transverse_overlap_result.html#a97d6ba9be20342dc6f15f76e4078b223" title="Track overlap result assigment operator." alt="" coords="243,56,441,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="474,64,442,68,441,63,473,59"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_delta_ray_overlap_result.html#aa3767d3392c8dda4703f4bd005e730aa" title="Track overlap result assigment operator." alt="" coords="5,56,195,99"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="227,80,195,80,195,75,227,75"/>
+</map>

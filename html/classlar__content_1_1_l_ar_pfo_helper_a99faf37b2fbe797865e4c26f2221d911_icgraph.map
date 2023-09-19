@@ -1,0 +1,27 @@
+<map id="lar_content::LArPfoHelper::SortByNHits" name="lar_content::LArPfoHelper::SortByNHits">
+<area shape="rect" id="Node000001" title="Sort pfos by number of constituent hits." alt="" coords="593,245,762,288"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_hierarchy_helper_1_1_reco_hierarchy.html#a8300a582d4fa67818f24462a4958a5cb" title="Creates a reconstructed hierarchy representation. Without folding this will be a mirror image of the ..." alt="" coords="330,5,498,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="658,232,639,196,614,154,582,113,543,78,521,65,497,55,499,50,524,60,547,74,585,110,618,151,644,193,663,230"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a077c8169a1d8ee2fdd1199a4348d3a99" title="Get the mappings from Pfo &#45;&gt; pair (reconstructable MCparticles, number of reconstructable 2D hits sha..." alt="" coords="283,88,545,131"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="647,235,602,188,574,165,544,145,519,134,521,129,546,140,577,160,605,184,651,231"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_l_ar_hierarchy_helper_1_1_reco_hierarchy_1_1_node.html#a5c358b933fe4d9a498f913ffca67898d" title="Create a node from a list of PFOs." alt="" coords="330,155,498,213"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="592,243,497,213,499,208,593,238"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_vertex_based_pfo_mop_up_algorithm_1_1_pfo_association.html#a888574883e9b3453f1f21087d88ec7ab" title="operator&lt;" alt="" coords="298,237,530,296"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="577,269,530,269,530,264,577,264"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_delta_ray_parent_algorithm.html#aadde88969ed21fb8235c7ffd2ba7e50e" title="Run the algorithm." alt="" coords="322,320,506,363"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="596,296,546,311,504,322,503,317,544,305,594,291"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_vertex_associated_pfos_tool.html#a5baf85eaaf90d97effceabe73e0df55a" title="Run the algorithm tool." alt="" coords="316,387,512,429"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="647,301,602,341,546,377,514,390,512,386,544,372,598,337,643,297"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_neutrino_hierarchy_algorithm.html#a04ba2aa4747b5d37e923dcdc0fb3ef50" title="Query the pfo info map and separate/extract pfos currently either acting as parents or associated wit..." alt="" coords="316,453,512,496"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="662,303,642,337,616,375,584,412,546,444,514,460,511,455,544,439,580,408,612,372,638,334,657,300"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_hierarchy_helper.html#a933d0b94a445161fe03b15ea2ada8776" title="Fill a reconstructed hierarchy based on the specified folding criteria (see RecoHierarchy::FillHierar..." alt="" coords="36,13,204,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="314,37,205,37,205,32,314,32"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_cosmic_ray_tagging_monitoring_tool.html#aa3904805678648d14de635dcb1b1e588" title="Find the list of ambiguous pfos (could represent cosmic&#45;ray muons or neutrinos)" alt="" coords="5,84,235,127"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="267,110,235,110,235,104,267,105"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_mva_pfo_characterisation_algorithm.html#aa9ff9dd7f75bb29fd25d73fd8050a2f1" title="Whether pfo is identified as a clear track." alt="" coords="5,151,235,193"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="296,137,224,153,223,147,295,132"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_branch_associated_pfos_tool.html#a258a2fcb4ab453d3e3ea1dc5f4b85f0e" title="Run the algorithm tool." alt="" coords="20,420,220,463"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="300,464,220,455,220,450,301,459"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_end_associated_pfos_tool.html#afaed9c5369e63ec8dda7c6ebd008d1d0" title="Run the algorithm tool." alt="" coords="29,487,211,529"/>
+<area shape="poly" id="edge12_Node000011_Node000013" title=" " alt="" coords="300,490,212,500,211,495,300,485"/>
+</map>

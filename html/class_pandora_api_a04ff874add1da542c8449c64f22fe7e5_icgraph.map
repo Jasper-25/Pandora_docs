@@ -1,0 +1,15 @@
+<map id="PandoraApi::ReadSettings" name="PandoraApi::ReadSettings">
+<area shape="rect" id="Node000001" title="Read pandora settings." alt="" coords="774,64,949,91"/>
+<area shape="rect" id="Node000002" href="$namespacelar__reco.html#ad8e66b4e82e59c64870b978246ea98fc" title="Create pandora instances." alt="" coords="509,5,726,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="790,62,726,47,678,35,679,30,727,41,791,57"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_master_algorithm.html#a2d3e85f24a174950aa1f53e07aa0d8ce" title="Create a pandora worker instance to handle a single LArTPC." alt="" coords="524,56,712,99"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="759,80,712,80,712,75,759,75"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_master_algorithm.html#ab58b3d72ec31c2eef1721c907b5258b5" title="Create a pandora worker instance to handle a number of LArTPCs." alt="" coords="524,123,712,165"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="796,98,699,125,698,119,794,93"/>
+<area shape="rect" id="Node000003" href="$_pandora_interface_8cxx.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="342,5,392,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="493,21,392,21,392,16,493,16"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_master_algorithm.html#adc0ae3e6b2ec020e18e7c0f63b2cbf54" title="Initialize pandora worker instances." alt="" coords="273,56,461,99"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="508,80,462,80,462,75,508,75"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_master_algorithm.html#ab61b051a14d2431fa04900e52277ce96" title="Run the algorithm." alt="" coords="5,64,225,91"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="257,80,225,80,225,75,257,75"/>
+</map>

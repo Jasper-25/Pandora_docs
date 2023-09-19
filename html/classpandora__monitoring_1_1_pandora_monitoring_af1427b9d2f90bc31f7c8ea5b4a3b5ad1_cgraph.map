@@ -1,0 +1,5 @@
+<map id="pandora_monitoring::PandoraMonitoring::SortClustersByHadronicEnergy" name="pandora_monitoring::PandoraMonitoring::SortClustersByHadronicEnergy">
+<area shape="rect" id="Node000001" title="Sort clusters by descending hadronic energy." alt="" coords="5,5,215,64"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_cluster.html#a2693cb404c534ea8c0e6c5ce71c863c9" title="Get the sum of hadronic energy measures of all constituent calo hits, units GeV." alt="" coords="263,13,459,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="215,32,247,32,247,37,215,37"/>
+</map>

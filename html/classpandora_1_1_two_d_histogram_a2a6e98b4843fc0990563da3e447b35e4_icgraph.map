@@ -1,0 +1,7 @@
+<map id="pandora::TwoDHistogram::GetBinContent" name="pandora::TwoDHistogram::GetBinContent">
+<area shape="rect" id="Node000001" title="Get the content of a specified bin." alt="" coords="220,51,386,93"/>
+<area shape="rect" id="Node000002" href="$classpandora__monitoring_1_1_pandora_monitoring.html#a7671363c1fb80ab78a4dc7bbde993ff5" title=" " alt="" coords="6,5,171,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,57,171,52,172,46,205,52"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_two_d_histogram.html#acc2f3fbcaf180bf4a5f4a8ef176375f4" title="Write the histogram to an xml document." alt="" coords="5,88,172,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="205,92,173,97,172,92,204,87"/>
+</map>

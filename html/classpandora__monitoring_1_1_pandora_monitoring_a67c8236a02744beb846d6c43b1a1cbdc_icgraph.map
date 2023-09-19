@@ -1,0 +1,5 @@
+<map id="pandora_monitoring::PandoraMonitoring::SaveTree" name="pandora_monitoring::PandoraMonitoring::SaveTree">
+<area shape="rect" id="Node000001" title="Save the tree to a file." alt="" coords="202,5,339,64"/>
+<area shape="rect" id="Node000002" href="$class_pandora_monitoring_api.html#a2bcfbb1780c00cbaf1012af4e6a9d472" title="Save the tree to a file." alt="" coords="5,13,154,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,37,154,37,154,32,186,32"/>
+</map>

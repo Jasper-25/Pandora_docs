@@ -1,0 +1,5 @@
+<map id="lar_content::LArMCParticleHelper::IsInelasticScatter" name="lar_content::LArMCParticleHelper::IsInelasticScatter">
+<area shape="rect" id="Node000001" title="Check whether or not an MC particle came from an inelastic scattering process." alt="" coords="250,13,427,56"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_hierarchy_helper_1_1_m_c_hierarchy.html#a41c4a8dc1f65707696a7e1e4758d65e2" title="Interpret the hierarchy below a particular particle to determine if and how it should be folded...." alt="" coords="5,5,202,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="234,37,202,37,202,32,234,32"/>
+</map>

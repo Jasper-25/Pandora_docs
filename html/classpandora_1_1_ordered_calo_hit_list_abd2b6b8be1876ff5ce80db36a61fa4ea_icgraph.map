@@ -1,0 +1,9 @@
+<map id="pandora::OrderedCaloHitList::rbegin" name="pandora::OrderedCaloHitList::rbegin">
+<area shape="rect" id="Node000001" title="Returns a const reverse iterator referring to the first element in the ordered calo hit list." alt="" coords="224,72,408,115"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_cluster.html#a0e8a51a56b64088ce690e3e7d57e4a45" title="Add the calo hits from a second cluster to this." alt="" coords="5,5,176,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,70,165,51,166,46,228,65"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_cluster_fit_helper.html#a9001f18b5dc92c16b3c5451f1d1959e5" title="Fit points in last n occupied pseudolayers of a cluster." alt="" coords="6,72,175,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="208,96,175,96,175,91,208,91"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_cluster.html#afcfd58eaac71132cdabb31537032abbb" title="Remove a calo hit from the cluster." alt="" coords="5,139,176,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="228,122,166,141,165,135,226,117"/>
+</map>

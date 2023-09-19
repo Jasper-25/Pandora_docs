@@ -1,0 +1,23 @@
+<map id="pandora::TiXmlAttribute::Value" name="pandora::TiXmlAttribute::Value">
+<area shape="rect" id="Node000001" title="Return the value of this attribute." alt="" coords="427,172,582,215"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_ti_xml_element.html#a7063f1d7dbe5eaafe2d72a0a3134e0d3" title=" " alt="" coords="216,5,371,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="477,161,433,111,407,85,378,62,358,51,360,46,380,58,410,81,437,107,481,158"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_ti_xml_element.html#aa5d65fed89147517b5f4e980eeef87da" title=" " alt="" coords="216,72,371,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="451,166,378,129,352,118,354,113,380,124,453,162"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_ti_xml_element.html#a30ce8a4c84c9c3b81ccdce1464f71e72" title=" " alt="" coords="216,139,371,181"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="412,181,370,175,371,170,412,176"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_ti_xml_element.html#a07947f5bf2ddced0a64441581427054c" title=" " alt="" coords="216,205,371,248"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="412,211,371,217,370,212,412,205"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_ti_xml_declaration.html#a34394f9579af63de6e76e259d1a769e9" title=" " alt="" coords="208,272,379,315"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="453,225,380,262,354,274,352,269,378,258,451,220"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_ti_xml_element.html#af3d28636e8bb1bd3e08b9afca6a19af8" title=" " alt="" coords="216,339,371,381"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="481,229,437,280,410,306,380,329,360,340,358,336,378,324,407,302,433,276,477,226"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_ti_xml_element.html#a66004edd4bb8d9901419eaa283251f51" title="QueryStringAttribute examines the attribute &#45; see QueryIntAttribute()." alt="" coords="5,5,160,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="201,29,160,29,160,24,201,24"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_ti_xml_element.html#aaba1e6e0013f7b9d1cd30ee22ce3112f" title="Creates a new Element and returns it &#45; the returned element is a copy." alt="" coords="5,139,160,181"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="209,203,152,185,153,179,210,198"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_ti_xml_element.html#a253a19eeb0390763b12e7a2c3921684d" title=" " alt="" coords="5,205,160,248"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="201,229,160,229,160,224,201,224"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_ti_xml_element.html#a90f41c211344d713fb9db9749ae91c99" title=" " alt="" coords="5,272,160,315"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="210,256,153,274,152,269,209,251"/>
+</map>

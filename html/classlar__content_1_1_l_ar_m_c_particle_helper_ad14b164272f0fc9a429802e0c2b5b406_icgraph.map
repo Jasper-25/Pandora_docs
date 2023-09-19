@@ -1,0 +1,23 @@
+<map id="lar_content::LArMCParticleHelper::GetHierarchyTier" name="lar_content::LArMCParticleHelper::GetHierarchyTier">
+<area shape="rect" id="Node000001" title="Determine the position in the hierarchy for the MCParticle." alt="" coords="755,133,933,176"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_hierarchy_helper_1_1_m_c_hierarchy_1_1_node.html#a4102227281a1c736a2636e099ebd068b" title="Recursively fill the hierarchy based on the criteria established for this MCHierarchy." alt="" coords="523,29,702,88"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="776,129,684,91,686,86,778,125"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_l_ar_muon_leading_helper.html#a0fee952ba26fca65201f3208017dc765" title="Return leading particle in the delta ray/michel hierarchy i.e. tier below cosmic ray." alt="" coords="517,163,707,205"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="740,170,708,175,707,169,739,165"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_l_ar_muon_leading_helper.html#a37f7e34ab6e4c0673fbd2ce811d54ab2" title="Return the MCProcess of the leading particle (tier 1) in the delta ray/michel hierarchy." alt="" coords="261,104,452,147"/>
+<area shape="poly" id="edge10_Node000001_Node000006" title=" " alt="" coords="740,151,452,134,452,128,740,146"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_l_ar_muon_leading_helper.html#ac829555a83125b15a384c394803947dc" title="Return true if input MCParticle is in tier 1 of the cosmic ray hierarchy." alt="" coords="517,229,707,272"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="786,185,708,220,679,231,677,226,706,215,783,181"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="649,17,635,11,612,8,592,10,579,15,572,21,572,29,567,29,567,19,576,10,591,5,612,3,637,5,652,13"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_hierarchy_helper_1_1_m_c_hierarchy.html#ad5c077a1944b8d033f5ecd1a4dc4f245" title="Creates an MC hierarchy representation. Without folding this will be a mirror image of the standard M..." alt="" coords="246,37,467,80"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="507,61,467,61,467,56,507,56"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_hierarchy_helper.html#ad84a7f09d1da939af88e2afa4d6cc975" title="Fill an MC hierarchy based on the specified folding criteria (see MCHierarchy::FillHierarchy for deta..." alt="" coords="16,37,185,80"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="230,61,185,61,185,56,230,56"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="501,161,451,150,453,145,503,156"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_l_ar_muon_leading_helper.html#afd710058ff8fe15e3a5c0bbc9ffd1a0f" title="Separate a leading pfo hit list according to the true owner of the hit e.g. other shower." alt="" coords="244,171,469,213"/>
+<area shape="poly" id="edge9_Node000005_Node000009" title=" " alt="" coords="501,190,470,191,469,186,501,185"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_l_ar_muon_leading_helper.html#a4bf40c494dafc5092514d81e720de0db" title="Return true if input MCParticle is a child of a cosmic ray and has &#39;delta ray&#39; process tag." alt="" coords="5,104,196,147"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="246,128,196,128,196,123,246,123"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_l_ar_muon_leading_helper.html#a3448d55df94c9e2ef8d09180fd7bbad5" title="Return true if input MCParticle is a child of a cosmic ray and has &#39;decay&#39; process tag." alt="" coords="5,171,196,213"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="258,154,186,173,184,167,256,149"/>
+</map>

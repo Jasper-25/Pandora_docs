@@ -1,0 +1,11 @@
+<map id="lar_content::LArPfoHelper::GetAllCaloHits" name="lar_content::LArPfoHelper::GetAllCaloHits">
+<area shape="rect" id="Node000001" title="Get a list of all calo hits (including isolated) of all types from a given pfo." alt="" coords="438,96,607,139"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_hierarchy_helper_1_1_reco_hierarchy_1_1_node.html#a072012137c70b705ae7192c580a91657" title="Fill this node by folding all descendent particles to this node." alt="" coords="222,5,390,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="449,92,384,67,386,62,451,87"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_hierarchy_helper_1_1_reco_hierarchy_1_1_node.html#a0e0e69c67b93d3711d4840e686157fd8" title="Recursively fill the hierarchy based on the criteria established for this RecoHierarchy." alt="" coords="222,88,390,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="423,120,390,120,390,115,423,115"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_hierarchy_helper_1_1_reco_hierarchy.html#a8300a582d4fa67818f24462a4958a5cb" title="Creates a reconstructed hierarchy representation. Without folding this will be a mirror image of the ..." alt="" coords="222,171,390,229"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="451,147,386,173,384,168,449,142"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_l_ar_hierarchy_helper.html#a933d0b94a445161fe03b15ea2ada8776" title="Fill a reconstructed hierarchy based on the specified folding criteria (see RecoHierarchy::FillHierar..." alt="" coords="5,179,174,221"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="206,203,174,203,174,197,206,197"/>
+</map>

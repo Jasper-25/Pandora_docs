@@ -1,0 +1,13 @@
+<map id="lar_content::LArMCParticleHelper::SelectCaloHits" name="lar_content::LArMCParticleHelper::SelectCaloHits">
+<area shape="rect" id="Node000001" title="Select a subset of calo hits representing those that represent &quot;reconstructable&quot; regions of the event..." alt="" coords="5,39,183,81"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_m_c_particle_helper.html#a616c40c49d204fd06ea64e5ded1b70a0" title="Find the mc particle making the largest contribution to a specified calo hit, track or cluster." alt="" coords="241,5,417,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,45,225,39,226,44,183,50"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a1f13bd6ff7817d3677208efec1029b10" title="Get the primary parent mc particle." alt="" coords="231,72,427,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="183,70,216,75,215,80,183,75"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_m_c_particle.html#ae4d6136cf2c7b06c0d5dc26dfb41f42e" title="Get list of parents of mc particle." alt="" coords="494,39,633,81"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="427,77,478,69,479,75,428,82"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a21156f0209702fe4bf6850e9b1c4635a" title="Whether a mc particle is visible (i.e. long&#45;lived charged particle)" alt="" coords="475,105,652,148"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="428,105,460,109,459,115,427,110"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_m_c_particle.html#af3f0b7e1d41980a184f328b61d542dd0" title="Get the PDG code of the mc particle." alt="" coords="700,105,840,148"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="653,124,685,124,685,129,653,129"/>
+</map>

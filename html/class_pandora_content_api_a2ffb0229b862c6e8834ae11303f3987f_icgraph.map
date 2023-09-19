@@ -1,0 +1,5 @@
+<map id="PandoraContentApi::RepeatEventPreparation" name="PandoraContentApi::RepeatEventPreparation">
+<area shape="rect" id="Node000001" title="Repeat the event preparation stages, which are used to calculate properties of input objects for late..." alt="" coords="240,5,400,48"/>
+<area shape="rect" id="Node000002" href="$class_event_reading_algorithm.html#a9c9f7cf19b90450647d890415cbdda33" title="Run the algorithm." alt="" coords="5,13,192,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,29,192,29,192,24,225,24"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="lar_content::LArPointingClusterHelper::GetLengthSquared" name="lar_content::LArPointingClusterHelper::GetLengthSquared">
+<area shape="rect" id="Node000001" title="Calculate distance squared between inner and outer vertices of pointing cluster." alt="" coords="221,5,436,48"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_pointing_cluster_helper.html#a495a09d2fe54a6e0b5eebbdbe46a65f7" title="Calculate distance squared between inner and outer vertices of pointing cluster." alt="" coords="5,5,173,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,29,173,29,173,24,205,24"/>
+</map>

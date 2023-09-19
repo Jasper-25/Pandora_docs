@@ -1,0 +1,9 @@
+<map id="LArContent/larpandoracontent/LArPlugins/LArRotationalTransformationPlugin.h" name="LArContent/larpandoracontent/LArPlugins/LArRotationalTransformationPlugin.h">
+<area shape="rect" id="Node000001" title="Header file for the rotational transformation plugin class." alt="" coords="260,5,515,64"/>
+<area shape="rect" id="Node000002" href="$_master_algorithm_8cc.html" title="Implementation of the master algorithm class." alt="" coords="5,120,236,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="301,72,174,122,172,117,299,67"/>
+<area shape="rect" id="Node000003" href="$_l_ar_rotational_transformation_plugin_8cc.html" title="Implementation of the rotational transformation plugin class." alt="" coords="260,112,515,171"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="390,80,390,112,385,112,385,80"/>
+<area shape="rect" id="Node000004" href="$_pandora_interface_8cxx.html" title=" " alt="" coords="540,128,763,155"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="474,68,620,125,618,130,472,72"/>
+</map>

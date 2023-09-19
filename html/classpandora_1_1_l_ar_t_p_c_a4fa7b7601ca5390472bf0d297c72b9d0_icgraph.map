@@ -1,0 +1,29 @@
+<map id="pandora::LArTPC::GetCenterZ" name="pandora::LArTPC::GetCenterZ">
+<area shape="rect" id="Node000001" title="Get center in z, units mm." alt="" coords="786,329,981,356"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_stitching_helper.html#a58b74fc1e2a8595c6186b3ec1c00e0bb" title="Whether a pair of drift volumes are adjacent to each other." alt="" coords="551,105,720,148"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="863,318,810,250,775,212,737,178,691,151,693,146,740,174,779,208,814,247,867,315"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_master_algorithm.html#a2d3e85f24a174950aa1f53e07aa0d8ce" title="Create a pandora worker instance to handle a single LArTPC." alt="" coords="542,188,730,231"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="852,321,800,283,737,245,711,234,713,229,740,240,803,279,856,317"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_master_algorithm.html#ab58b3d72ec31c2eef1721c907b5258b5" title="Create a pandora worker instance to handle a number of LArTPCs." alt="" coords="542,255,730,297"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="815,327,717,301,718,295,817,322"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_cosmic_ray_tagging_tool.html#a97a8cf51621b1ef511b80fe3f20aa903" title="Find the list of ambiguous pfos (could represent cosmic&#45;ray muons or neutrinos)" alt="" coords="533,321,738,364"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="771,345,739,345,739,340,771,340"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_l_ar_stitching_helper.html#a2b49f6e15c4f63b2b9dc088d243eba42" title="Find closest tpc to a specified input tpc." alt="" coords="554,388,718,431"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="817,363,718,390,717,385,815,358"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_l_ar_stitching_helper.html#aa2a82fd921e0091deca49776e7f6b44b" title="Calculate distance between central positions of a pair of tpcs." alt="" coords="540,455,731,497"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="856,368,803,407,740,445,713,456,711,452,737,440,800,402,852,364"/>
+<area shape="rect" id="Node000014" href="$classlar__content_1_1_l_ar_stitching_helper.html#a0a18264432835366dd5a2d6925222612" title="Sort tpcs by central positions." alt="" coords="554,521,718,564"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="868,371,816,441,781,479,740,512,719,523,716,518,737,507,777,475,812,437,864,368"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_stitching_helper.html#a0cba0037a530996dfc96bd5a06bb6ccc" title="Whether particles from a given pair of tpcs can be stitched together." alt="" coords="286,5,472,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="574,101,484,62,452,51,454,46,486,58,577,96"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_stitching_helper.html#a8f867cf07160f99e7c41b43a98309f84" title="Determine centre in X at the boundary between a pair of tpcs." alt="" coords="273,72,485,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="535,116,485,110,486,104,536,111"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_l_ar_stitching_helper.html#a55f359a951baad0527dcd901a704c76f" title="Determine width in X at the boundary between a pair of tpcs." alt="" coords="275,139,483,181"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="536,142,484,149,483,144,535,137"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_master_algorithm.html#adc0ae3e6b2ec020e18e7c0f63b2cbf54" title="Initialize pandora worker instances." alt="" coords="285,205,473,248"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="526,219,474,223,473,218,526,214"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_master_algorithm.html#ab61b051a14d2431fa04900e52277ce96" title="Run the algorithm." alt="" coords="5,213,225,240"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="269,229,225,229,225,224,269,224"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_l_ar_stitching_helper.html#ae03095673b3058b6a4779e6a48ce4d8a" title="Whether a pair of drift volumes are adjacent to each other." alt="" coords="294,388,464,431"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="538,412,464,412,464,407,538,407"/>
+</map>

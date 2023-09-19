@@ -1,0 +1,7 @@
+<map id="lar_content::NViewMatchingAlgorithm::UpdateForNewCluster" name="lar_content::NViewMatchingAlgorithm::UpdateForNewCluster">
+<area shape="rect" id="Node000001" title="Update to reflect addition of a new cluster to the problem space." alt="" coords="276,43,486,85"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_n_view_track_matching_algorithm.html#a13ea8facdff2cd0f25676d2c0371ffdf" title="Update to reflect addition of a new cluster to the problem space." alt="" coords="9,5,224,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="260,50,224,45,225,39,261,44"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_n_view_delta_ray_matching_algorithm.html#a642b056316d5b6cb961943142d1e3f20" title="Add a new cluster to algorithm ownership maps and, if it a delta ray cluster, to the underlying match..." alt="" coords="5,72,228,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="261,84,228,88,228,83,260,78"/>
+</map>

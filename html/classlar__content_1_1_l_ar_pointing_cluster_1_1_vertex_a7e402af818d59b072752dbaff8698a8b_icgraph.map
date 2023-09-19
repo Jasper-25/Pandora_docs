@@ -1,0 +1,8 @@
+<map id="lar_content::LArPointingCluster::Vertex::GetCluster" name="lar_content::LArPointingCluster::Vertex::GetCluster">
+<area shape="rect" id="Node000001" title="Get the address of the cluster." alt="" coords="279,51,457,93"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_pointing_cluster_helper.html#acd8866e06f081203794fb699ccf0136e" title="Get average direction of two vertices." alt="" coords="5,5,231,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="263,56,231,50,232,45,264,50"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_pointing_cluster_helper.html#ae133f38aa3a232100e6cacd331c94f0c" title="Get intersection of two vertices." alt="" coords="20,96,216,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="264,94,217,102,216,97,263,88"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="159,83,143,77,118,75,94,77,80,81,74,87,76,95,71,96,69,86,77,77,93,71,118,69,145,72,161,78"/>
+</map>

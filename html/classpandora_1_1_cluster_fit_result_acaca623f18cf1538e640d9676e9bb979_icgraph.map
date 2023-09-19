@@ -1,0 +1,32 @@
+<map id="pandora::ClusterFitResult::Reset" name="pandora::ClusterFitResult::Reset">
+<area shape="rect" id="Node000001" title="Reset the cluster fit result." alt="" coords="957,297,1125,340"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_cluster_fit_helper.html#afd78a8214d35cede5db97b7e00b54b79" title="Perform linear regression of x vs d and y vs d and z vs d (assuming same error on all hits)" alt="" coords="719,172,887,215"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="984,292,844,217,846,213,987,287"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_cluster.html#ad4fe0f30a561594d1c4f086d6b1e71bb" title="Reset those cluster properties that must be recalculated upon addition/removal of a calo hit." alt="" coords="697,389,909,432"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="971,348,861,391,860,386,969,343"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_cluster_fit_helper.html#a9001f18b5dc92c16b3c5451f1d1959e5" title="Fit points in last n occupied pseudolayers of a cluster." alt="" coords="457,5,625,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="770,163,716,111,683,85,648,62,624,51,626,46,651,58,686,81,720,107,774,159"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_cluster_fit_helper.html#ac4d0d69c1b786c1158c450baa3c1c092" title="Fit all points in a cluster." alt="" coords="457,72,625,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="740,168,648,129,615,118,617,113,650,124,742,163"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_cluster_fit_helper.html#ae9e41a31e84ff8706875e3a56005b200" title="Fit all cluster centroids within the specified (inclusive) pseudolayer range." alt="" coords="457,139,625,181"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="703,183,625,173,626,168,704,178"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_cluster_fit_helper.html#a32a1db63de5bcdc7fd4de786f929d746" title="Fit all cluster points within the specified (inclusive) pseudolayer range." alt="" coords="457,205,625,248"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="704,209,626,219,625,213,703,203"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_cluster_fit_helper.html#a3271a5608c51ec4cb3b78fcbccac4cf2" title="Fit points in first n occupied pseudolayers of a cluster." alt="" coords="457,272,625,315"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="742,224,650,262,617,274,615,269,648,258,740,219"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_cluster.html#a58281aa5954d0e576f11096f71a29dfe" title="Update result of linear fit to all calo hits in cluster." alt="" coords="216,72,382,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="441,96,382,96,382,91,441,91"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_cluster.html#a9f487c581944da7885e16d71a88315b4" title="Get the result of a linear fit to all calo hits in the cluster." alt="" coords="5,72,166,115"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="201,96,166,96,166,91,201,91"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_cluster.html#a8e4f2a07ec4a6502658165145dbd1c07" title="Add a calo hit to the cluster." alt="" coords="446,339,635,365"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="689,388,603,369,605,363,690,383"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_cluster.html#a0e8a51a56b64088ce690e3e7d57e4a45" title="Add the calo hits from a second cluster to this." alt="" coords="456,389,626,432"/>
+<area shape="poly" id="edge12_Node000010_Node000013" title=" " alt="" coords="682,413,626,413,626,408,682,408"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_cluster.html#afcfd58eaac71132cdabb31537032abbb" title="Remove a calo hit from the cluster." alt="" coords="214,473,384,516"/>
+<area shape="poly" id="edge13_Node000010_Node000014" title=" " alt="" coords="692,438,650,447,510,469,385,487,384,482,509,464,649,441,691,433"/>
+<area shape="rect" id="Node000015" href="$classpandora_1_1_cluster.html#abb902d117749801d3edc3019c193aac7" title="Reset all cluster properties." alt="" coords="432,507,649,533"/>
+<area shape="poly" id="edge14_Node000010_Node000015" title=" " alt="" coords="752,442,650,490,596,509,595,504,648,486,749,437"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_cluster.html#a961701c5cd322cadc41a03e4e2e1dee3" title="Constructor." alt="" coords="216,339,382,365"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="431,355,382,355,382,349,431,349"/>
+<area shape="poly" id="edge15_Node000015_Node000014" title=" " alt="" coords="416,510,384,506,385,501,417,504"/>
+</map>

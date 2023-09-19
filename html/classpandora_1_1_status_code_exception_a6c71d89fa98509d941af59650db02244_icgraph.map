@@ -1,0 +1,25 @@
+<map id="pandora::StatusCodeException::ToString" name="pandora::StatusCodeException::ToString">
+<area shape="rect" id="Node000001" title="Get status code as a string." alt="" coords="743,144,945,187"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_master_algorithm.html#adc0ae3e6b2ec020e18e7c0f63b2cbf54" title="Initialize pandora worker instances." alt="" coords="507,5,695,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="803,136,753,98,694,62,669,51,671,46,697,58,756,94,807,132"/>
+<area shape="rect" id="Node000004" href="$_pandora_interface_8cxx.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="577,72,626,99"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="772,140,695,113,626,94,627,89,696,108,774,135"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_pandora.html#a8d3e22007842b9a9bc2ebfc54a9bed3c" title="Default constructor." alt="" coords="512,123,691,149"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="728,154,691,149,692,144,728,149"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_plugin_manager.html#af29ab18739984859672bc58c37eeb78a" title="Constructor." alt="" coords="521,173,682,216"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="728,182,683,188,682,182,728,177"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_file_reader.html#a62bf87f3eafb662f236ea17d6fbe828c" title="Read an entire pandora event from the file, recreating the stored objects." alt="" coords="533,240,670,283"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="780,196,696,230,666,242,664,237,694,226,778,191"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_file_reader.html#a719b4f55fbd9135e3b42d8de1c4bc92c" title="Read the current geometry information from the file." alt="" coords="533,307,670,349"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="815,200,762,249,697,297,671,309,669,305,694,292,759,245,811,196"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_master_algorithm.html#ab61b051a14d2431fa04900e52277ce96" title="Run the algorithm." alt="" coords="240,13,459,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="491,29,459,29,459,24,491,24"/>
+<area shape="rect" id="Node000008" href="$class_event_reading_algorithm.html#a2be4fd1af24ea4e821a3194edf9d18da" title="Proceed to process next event file named in the input list." alt="" coords="272,185,427,228"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="517,246,427,226,428,221,518,241"/>
+<area shape="rect" id="Node000009" href="$class_event_reading_algorithm.html#a9c9f7cf19b90450647d890415cbdda33" title="Run the algorithm." alt="" coords="5,223,192,249"/>
+<area shape="poly" id="edge10_Node000007_Node000009" title=" " alt="" coords="517,260,192,243,192,238,517,254"/>
+<area shape="poly" id="edge8_Node000008_Node000008" title=" " alt="" coords="390,172,375,166,349,164,326,166,311,171,305,177,307,184,302,185,300,175,308,166,325,161,349,159,376,161,392,167"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="257,220,192,228,192,222,256,215"/>
+<area shape="rect" id="Node000011" href="$class_event_reading_algorithm.html#ab9894e20210af7ac5843642aed2338c3" title="Perform any operations that must occur after reading settings, but before running the process." alt="" coords="272,307,427,349"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="517,331,427,331,427,325,517,325"/>
+</map>

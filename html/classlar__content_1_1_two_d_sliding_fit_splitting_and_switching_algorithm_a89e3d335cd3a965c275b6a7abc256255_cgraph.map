@@ -1,0 +1,16 @@
+<map id="lar_content::TwoDSlidingFitSplittingAndSwitchingAlgorithm::Run" name="lar_content::TwoDSlidingFitSplittingAndSwitchingAlgorithm::Run">
+<area shape="rect" id="Node000001" title="Run the algorithm." alt="" coords="5,155,254,197"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_two_d_sliding_fit_splitting_and_switching_algorithm.html#a74381c824f2239a461b90bd49939619a" title="Find the best split position and direction for a pair of clusters." alt="" coords="302,5,519,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,152,226,114,300,74,312,68,315,73,303,78,229,118,166,156"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_two_d_sliding_fit_result.html#ab234c0dc6a8c2eb39c77a777b292ef9a" title="Get the address of the cluster, if originally provided." alt="" coords="328,88,493,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="222,151,313,130,314,135,223,157"/>
+<area shape="rect" id="Node000004" href="$class_pandora_content_api.html#a74465bdc12b6a92e204a2126154c0e13" title="Get the current list." alt="" coords="340,155,481,197"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="254,173,324,173,324,179,254,179"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_two_d_sliding_fit_splitting_and_switching_algorithm.html#ae71362f5dbda5d0e37fb9e9c4089a992" title="Perform any preparatory actions, such as caching information for subsequent expensive calculations." alt="" coords="302,221,519,280"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="213,195,287,215,286,220,212,201"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_two_d_sliding_fit_splitting_and_switching_algorithm.html#a34ba6b36519f52797ae28e3904e01a05" title="Tidy up any information cached in e.g. the preparation step." alt="" coords="302,304,519,363"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="160,196,224,242,303,290,313,295,311,300,300,294,221,246,157,200"/>
+<area shape="rect" id="Node000005" href="$class_pandora_content_api.html#a564c7edc453a936e78fdd2102e870234" title="Replace the current list with a pre&#45;saved list; use this new list as a permanent replacement for the ..." alt="" coords="567,155,708,197"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="482,173,552,173,552,179,482,179"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="594,155,593,145,600,136,615,130,638,128,662,130,677,137,675,142,661,136,638,133,616,135,603,140,598,146,600,154"/>
+</map>

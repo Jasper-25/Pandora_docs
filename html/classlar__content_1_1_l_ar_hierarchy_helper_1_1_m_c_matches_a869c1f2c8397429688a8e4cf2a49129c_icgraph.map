@@ -1,0 +1,7 @@
+<map id="lar_content::LArHierarchyHelper::MCMatches::AddRecoMatch" name="lar_content::LArHierarchyHelper::MCMatches::AddRecoMatch">
+<area shape="rect" id="Node000001" title="Add a reconstructed node as a match for this MC node." alt="" coords="438,5,671,48"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_hierarchy_helper_1_1_match_info.html#ae5c218c51aed81c4a6150c54f69dcac5" title="Match the nodes in the MC and reco hierarchies." alt="" coords="222,5,390,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="422,29,391,29,391,24,422,24"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_hierarchy_helper.html#a8657464ee22dfdb135ccd31aa309a399" title="Finds the matches between reconstructed and MC hierarchies." alt="" coords="5,5,174,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="206,29,174,29,174,24,206,24"/>
+</map>

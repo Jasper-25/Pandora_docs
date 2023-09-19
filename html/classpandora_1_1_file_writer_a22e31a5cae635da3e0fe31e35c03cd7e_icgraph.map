@@ -1,0 +1,11 @@
+<map id="pandora::FileWriter::WriteHeader" name="pandora::FileWriter::WriteHeader">
+<area shape="rect" id="Node000001" title="Write the container header to the file." alt="" coords="413,39,544,81"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_file_writer.html#a59bca085b58b5ef994a3d46c9b96158a" title="Write the specified event components to the file." alt="" coords="234,5,365,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="397,48,365,42,366,36,398,42"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_file_writer.html#ace58fef8926e07f060eb5049eb9f03b2" title="Write the current geometry information to the file." alt="" coords="234,72,365,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="398,78,366,84,365,78,397,72"/>
+<area shape="rect" id="Node000003" href="$class_event_writing_algorithm.html#a59dfec6fcfaf20520447a5fb9bce6869" title="Run the algorithm." alt="" coords="5,13,186,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="218,29,186,29,186,24,218,24"/>
+<area shape="rect" id="Node000005" href="$class_event_writing_algorithm.html#ab7b5d0e6c689790f4db5514aceccffdd" title="Perform any operations that must occur after reading settings, but before running the process." alt="" coords="21,72,170,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="218,96,171,96,171,91,218,91"/>
+</map>

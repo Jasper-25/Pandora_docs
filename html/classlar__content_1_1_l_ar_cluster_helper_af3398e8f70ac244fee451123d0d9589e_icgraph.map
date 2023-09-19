@@ -1,0 +1,11 @@
+<map id="lar_content::LArClusterHelper::GetClusterBoundingBox" name="lar_content::LArClusterHelper::GetClusterBoundingBox">
+<area shape="rect" id="Node000001" title="Get minimum and maximum X, Y and Z positions of the calo hits in a cluster." alt="" coords="578,55,769,97"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_three_view_track_fragments_algorithm.html#a7d188338a5376c47eb813c59fe099fa6" title="Whether the matched clusters are consistent with the projected positions." alt="" coords="297,5,530,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="562,61,530,56,531,51,563,56"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_trained_vertex_selection_algorithm.html#a8f96cea6d066581692dab3ea2fcddc0b" title="Get the event shape features." alt="" coords="297,88,530,147"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="563,96,531,101,530,96,562,91"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_three_view_track_fragments_algorithm.html#ac4c5ebd63e3b54b7d65c81643a8de116" title="Calculate overlap result for track fragment candidate consisting of two sliding fit results and a lis..." alt="" coords="5,5,249,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="281,37,249,37,249,32,281,32"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_trained_vertex_selection_algorithm.html#a239da43d16c7285cf011b371169ee65f" title="Calculate the event parameters." alt="" coords="15,88,239,147"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="281,120,240,120,240,115,281,115"/>
+</map>

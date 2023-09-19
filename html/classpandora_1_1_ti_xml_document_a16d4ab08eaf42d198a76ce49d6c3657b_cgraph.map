@@ -1,0 +1,14 @@
+<map id="pandora::TiXmlDocument::Accept" name="pandora::TiXmlDocument::Accept">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,163,171,205"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_ti_xml_node.html#aacd74e8f2e04f025a6c7322594594ed8" title=" " alt="" coords="222,5,359,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,160,154,110,217,58,223,54,226,58,220,62,158,114,110,164"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_ti_xml_node.html#a0770cee6b621b226dbb5f297be07fcbf" title="The first child of this node. Will be null if there are no children." alt="" coords="222,72,359,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="137,160,226,119,228,124,139,164"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_ti_xml_node.html#addc6ef5094ce79f5d99e50f6f1c3a52a" title="STL std::string form." alt="" coords="222,163,359,205"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="171,181,207,181,207,187,171,187"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_ti_xml_visitor.html#a725699962c40c4e36e6cacebae580069" title="Visit a document." alt="" coords="219,229,362,272"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="156,203,210,221,208,226,154,208"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_ti_xml_visitor.html#afa839b909bf1e96c2b60e11b02467361" title="Visit a document." alt="" coords="219,296,362,339"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="116,204,163,242,220,282,227,286,225,291,217,286,160,246,112,208"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="252,163,250,153,257,144,270,138,290,136,312,138,325,145,323,149,311,144,290,141,271,143,260,148,255,154,257,162"/>
+</map>

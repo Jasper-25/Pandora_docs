@@ -1,0 +1,11 @@
+<map id="lar_content::LArPointingCluster::GetCluster" name="lar_content::LArPointingCluster::GetCluster">
+<area shape="rect" id="Node000001" title="Get the address of the cluster." alt="" coords="568,72,728,115"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_pointing_cluster_helper.html#a2815fbc1ef97e25f05526fabdfee25c2" title="Given a pair of pointing clusters, receive the closest or farthest pair of vertices." alt="" coords="300,72,520,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="553,96,521,96,521,91,553,91"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_pointing_cluster_helper.html#acd3b4c6d038e0609356895217038f59d" title="Given a pair of pointing clusters, find the closest pair of vertices." alt="" coords="18,5,239,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="302,71,221,51,222,46,303,65"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_pointing_cluster_helper.html#ad38bb03de2ae25c4fc7567aae9d97b81" title="Given a pair of pointing clusters, find the pair of vertices with smallest x&#45;separation." alt="" coords="10,72,247,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="284,96,248,96,248,91,284,91"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_l_ar_pointing_cluster_helper.html#a471e792b2eb920d35568419b8e639805" title="Given a pair of pointing clusters, find the pair of vertices with smallest yz&#45;separation." alt="" coords="5,139,252,181"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="303,121,222,141,221,135,302,116"/>
+</map>

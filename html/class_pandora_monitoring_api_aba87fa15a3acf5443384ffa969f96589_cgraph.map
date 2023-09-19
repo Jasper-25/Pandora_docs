@@ -1,0 +1,5 @@
+<map id="PandoraMonitoringApi::Create" name="PandoraMonitoringApi::Create">
+<area shape="rect" id="Node000001" title="Create monitoring instance, with its associated ROOT TApplication." alt="" coords="5,13,154,56"/>
+<area shape="rect" id="Node000002" href="$classpandora__monitoring_1_1_pandora_monitoring.html#aeefdfb3a43a266bebcd08ef36b7263fb" title="Get the relevant pandora monitoring instance." alt="" coords="202,5,339,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,32,186,32,186,37,154,37"/>
+</map>

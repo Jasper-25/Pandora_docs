@@ -1,0 +1,11 @@
+<map id="lar_content::MvaInterface::Classify" name="lar_content::MvaInterface::Classify">
+<area shape="rect" id="Node000001" title="Classify the set of input features based on the trained model." alt="" coords="504,72,669,115"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_mva_helper.html#a9d996e50b784584a15f3a6123931e20c" title="Use the trained classifier to predict the boolean class of an example." alt="" coords="283,72,456,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="489,96,456,96,456,91,489,91"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_mva_helper.html#a9bd39bb2a444490ce1b9895852868bab" title="Use the trained classifier to predict the boolean class of an example – using a map." alt="" coords="33,5,207,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="272,70,202,51,203,46,273,65"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_mva_pfo_characterisation_algorithm.html#a56004cd1d73d1c53f98832e34dadb2d6" title="Whether cluster is identified as a clear track." alt="" coords="5,72,235,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="267,96,235,96,235,91,267,91"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_mva_pfo_characterisation_algorithm.html#aa9ff9dd7f75bb29fd25d73fd8050a2f1" title="Whether pfo is identified as a clear track." alt="" coords="5,139,235,181"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="273,122,203,141,202,135,272,117"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="lar_content::TwoDSlidingShowerFitResult::GetNegativeEdgeFitResult" name="lar_content::TwoDSlidingShowerFitResult::GetNegativeEdgeFitResult">
+<area shape="rect" id="Node000001" title="Get the sliding fit result for the negative shower edge." alt="" coords="764,31,959,89"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_two_d_sliding_shower_fit_result.html#a36395f42b5e3467838be9bf12bcd2326" title="Get the most appropriate shower edges at a given x coordinate." alt="" coords="480,5,705,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="749,49,705,43,705,38,749,43"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_cut_cluster_characterisation_algorithm.html#a01e80c75d6ef9ac277988e3e793f4993" title="Get a measure of the width of a cluster, using a sliding shower fit result." alt="" coords="468,72,716,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="749,77,717,81,716,75,749,71"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_two_d_shower_fit_feature_tool.html#a64b8bc495896a1c761b20f37f58a6bc8" title=" " alt="" coords="237,72,420,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="452,96,420,96,420,91,452,91"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_two_d_shower_fit_feature_tool.html#a7425d815b3d3a5f0b5feb934cfef09ac" title=" " alt="" coords="5,72,189,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="221,96,189,96,189,91,221,91"/>
+</map>

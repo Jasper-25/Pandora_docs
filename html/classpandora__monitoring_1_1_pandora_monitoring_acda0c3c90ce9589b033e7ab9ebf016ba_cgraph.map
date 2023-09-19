@@ -1,0 +1,7 @@
+<map id="pandora_monitoring::PandoraMonitoring::SortTracksByMomentum" name="pandora_monitoring::PandoraMonitoring::SortTracksByMomentum">
+<area shape="rect" id="Node000001" title="Sort tracks by descending momentum." alt="" coords="5,31,179,89"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_cartesian_vector.html#a311c121184ef7085d43e58f5f2fce3b7" title="Get the magnitude squared." alt="" coords="243,5,412,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,45,227,38,228,43,180,50"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_track.html#a5bb721a7c64fcbf30c83cda0c28e2f11" title="Get the track momentum at the 2D distance of closest approach." alt="" coords="227,72,428,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="180,70,212,74,211,80,179,75"/>
+</map>

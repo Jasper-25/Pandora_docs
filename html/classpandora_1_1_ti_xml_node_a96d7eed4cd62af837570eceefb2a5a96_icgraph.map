@@ -1,0 +1,11 @@
+<map id="pandora::TiXmlNode::NextSiblingElement" name="pandora::TiXmlNode::NextSiblingElement">
+<area shape="rect" id="Node000001" title=" " alt="" coords="434,72,577,115"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_ti_xml_handle.html#a9313b9e62a6488bfa7bde4405aab5de7" title=" " alt="" coords="230,5,376,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="424,69,369,51,371,46,425,64"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_ti_xml_handle.html#a233522bf550ed6c1e3df5e894677328e" title=" " alt="" coords="230,72,376,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="419,96,376,96,376,91,419,91"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_xml_helper.html#a38b8f3ac236489c118e1e9875a8fb84d" title="Read a two&#45;dimensional array of values into a vector of vectors. Each row of values must be contained..." alt="" coords="220,139,386,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="425,122,371,141,369,135,424,117"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_two_d_histogram.html#ac90dbb61114c87a37dd94d39feec8906" title="Constructor." alt="" coords="5,139,172,181"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="204,163,172,163,172,157,204,157"/>
+</map>

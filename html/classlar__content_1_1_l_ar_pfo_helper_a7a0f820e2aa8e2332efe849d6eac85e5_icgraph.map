@@ -1,0 +1,18 @@
+<map id="lar_content::LArPfoHelper::GetIsolatedCaloHits" name="lar_content::LArPfoHelper::GetIsolatedCaloHits">
+<area shape="rect" id="Node000001" title="Get a list of isolated calo hits of a particular hit type from a list of pfos." alt="" coords="725,171,895,213"/>
+<area shape="poly" id="edge6_Node000001_Node000001" title=" " alt="" coords="847,158,833,152,810,149,789,151,776,156,770,162,772,170,767,171,765,161,772,152,787,146,810,144,834,146,849,153"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_pfo_helper.html#a2c28c40f442763240b5ecbbf80173c2f" title="Get a list of all calo hits (including isolated) of all types from a given pfo." alt="" coords="499,117,668,160"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="710,171,668,161,669,156,711,166"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_master_algorithm.html#a30245ea45f969b906fdbafb1b7054a9b" title="Run cosmic&#45;ray hit removal, freeing hits in ambiguous pfos for further processing." alt="" coords="489,204,677,247"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="711,209,678,214,677,209,710,204"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_hierarchy_helper_1_1_reco_hierarchy_1_1_node.html#a072012137c70b705ae7192c580a91657" title="Fill this node by folding all descendent particles to this node." alt="" coords="247,5,416,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="519,113,440,78,412,67,414,62,442,74,522,108"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_hierarchy_helper_1_1_reco_hierarchy_1_1_node.html#a0e0e69c67b93d3711d4840e686157fd8" title="Recursively fill the hierarchy based on the criteria established for this RecoHierarchy." alt="" coords="247,88,416,147"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="483,133,416,127,416,122,483,128"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_l_ar_hierarchy_helper_1_1_reco_hierarchy.html#a8300a582d4fa67818f24462a4958a5cb" title="Creates a reconstructed hierarchy representation. Without folding this will be a mirror image of the ..." alt="" coords="247,171,416,229"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="484,165,417,182,415,177,483,160"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_l_ar_hierarchy_helper.html#a933d0b94a445161fe03b15ea2ada8776" title="Fill a reconstructed hierarchy based on the specified folding criteria (see RecoHierarchy::FillHierar..." alt="" coords="5,179,174,221"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="232,203,174,203,174,197,232,197"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_master_algorithm.html#ab61b051a14d2431fa04900e52277ce96" title="Run the algorithm." alt="" coords="222,253,441,280"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="474,246,417,255,416,250,473,241"/>
+</map>

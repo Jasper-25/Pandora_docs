@@ -1,0 +1,11 @@
+<map id="pandora::MCParticle::GetEndpoint" name="pandora::MCParticle::GetEndpoint">
+<area shape="rect" id="Node000001" title="Get the endpoint of the mc particle, units mm." alt="" coords="557,51,696,93"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a40117622c117b7dbc425a64df36244de" title="Determine if two MC particles are topologically continuous within a given tolerance...." alt="" coords="283,16,509,59"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="541,62,509,57,510,52,542,57"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_monitoring_helper.html#ae4b522e6d1811aa046167939768bfe17" title="Print details of selected MCParticles to the terminal in a table." alt="" coords="302,84,490,127"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="542,87,491,94,490,89,541,82"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_hierarchy_helper_1_1_m_c_hierarchy.html#a41c4a8dc1f65707696a7e1e4758d65e2" title="Interpret the hierarchy below a particular particle to determine if and how it should be folded...." alt="" coords="22,5,218,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="267,39,219,38,219,33,267,33"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_cosmic_ray_tagging_monitoring_tool.html#aa3904805678648d14de635dcb1b1e588" title="Find the list of ambiguous pfos (could represent cosmic&#45;ray muons or neutrinos)" alt="" coords="5,88,235,131"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="286,110,235,110,235,105,286,104"/>
+</map>

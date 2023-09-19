@@ -1,0 +1,5 @@
+<map id="pandora_monitoring::PandoraMonitoring::SortMCParticlesByEnergy" name="pandora_monitoring::PandoraMonitoring::SortMCParticlesByEnergy">
+<area shape="rect" id="Node000001" title="Sort MCParticles by descending energy." alt="" coords="5,5,187,64"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_m_c_particle.html#a4ab7e3a1a32d98917ba7b8cd0bc08c51" title="Get energy of mc particle, units GeV." alt="" coords="235,13,374,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,32,219,32,219,37,187,37"/>
+</map>

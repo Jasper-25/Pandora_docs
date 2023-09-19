@@ -1,0 +1,17 @@
+<map id="lar_content::LArMCParticleHelper::SelectParticlesByHitCount" name="lar_content::LArMCParticleHelper::SelectParticlesByHitCount">
+<area shape="rect" id="Node000001" title="Filter an input vector of MCParticles to ensure they have sufficient good hits to be reconstructable." alt="" coords="923,88,1144,131"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_muon_leading_helper.html#a41d2056723e71ad44364c2a98f8feea5" title="Select target, reconstructable mc particles in the cosmic ray hierarchy." alt="" coords="620,5,862,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="932,86,858,67,859,62,933,81"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a32aa66741fdc5835f46ec0353ec7b1ca" title="Select target, reconstructable mc particles that match given criteria." alt="" coords="607,88,875,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="908,112,876,112,876,107,908,107"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a07190262e8db399b4426095d803b1b8a" title="Select target, reconstructable mc particles in the relevant hierarchy that match given criteria." alt="" coords="630,155,852,213"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="933,138,853,158,852,153,931,133"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_cosmic_ray_tagging_monitoring_tool.html#aa3904805678648d14de635dcb1b1e588" title="Find the list of ambiguous pfos (could represent cosmic&#45;ray muons or neutrinos)" alt="" coords="321,21,550,64"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="625,87,536,67,537,62,626,82"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_trained_vertex_selection_algorithm.html#a8830901c9a95cd0f1e2f223337abe492" title="Get the interaction type string." alt="" coords="312,88,559,131"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="591,112,560,112,560,107,591,107"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_mva_pfo_characterisation_algorithm.html#aa9ff9dd7f75bb29fd25d73fd8050a2f1" title="Whether pfo is identified as a clear track." alt="" coords="321,155,550,197"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="626,137,537,157,536,151,625,132"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_trained_vertex_selection_algorithm.html#a19474126585ba332e454985b680c68cd" title="Produce the region and vertex training sets." alt="" coords="5,88,264,131"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="296,112,264,112,264,107,296,107"/>
+</map>

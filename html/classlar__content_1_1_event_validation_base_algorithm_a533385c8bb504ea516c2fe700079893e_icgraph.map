@@ -1,0 +1,5 @@
+<map id="lar_content::EventValidationBaseAlgorithm::GetStrongestPfoMatch" name="lar_content::EventValidationBaseAlgorithm::GetStrongestPfoMatch">
+<area shape="rect" id="Node000001" title="Get the strongest pfo match (most matched hits) between an available mc primary and an available pfo." alt="" coords="268,5,514,48"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_event_validation_base_algorithm.html#a3ad9a9778a90a1a413714106e6da363f" title="Apply an interpretative matching procedure to the comprehensive matches in the provided validation in..." alt="" coords="5,5,220,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="252,29,220,29,220,24,252,24"/>
+</map>

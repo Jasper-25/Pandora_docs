@@ -1,0 +1,9 @@
+<map id="lar_content::VertexRefinementAlgorithm" name="lar_content::VertexRefinementAlgorithm">
+<area shape="rect" id="Node000001" title="VertexRefinementAlgorithm class." alt="" coords="5,248,202,291"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_algorithm.html" title="Algorithm class. Algorithm addresses are held only by the algorithm manager. They have a fully define..." alt="" coords="38,172,169,199"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,214,106,248,101,248,101,214"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_process.html" title="Process class." alt="" coords="42,96,165,123"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="106,138,106,172,101,172,101,138"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_pandora.html" title="Pandora class." alt="" coords="42,5,165,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="106,48,106,95,101,95,101,48"/>
+</map>

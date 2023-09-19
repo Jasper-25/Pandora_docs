@@ -1,0 +1,7 @@
+<map id="lar_content::MatchingBaseAlgorithm::MakeClusterMerges" name="lar_content::MatchingBaseAlgorithm::MakeClusterMerges">
+<area shape="rect" id="Node000001" title="Merge clusters together." alt="" coords="268,39,468,81"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_connected_remnants_tool.html#a75a12cf63dc21f757fd444ffe61d31ec" title="Run the algorithm tool." alt="" coords="5,5,220,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="252,48,220,43,221,38,252,42"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_missing_track_segment_tool.html#ae3f72d66f0347edf82ae3cf3a71d8aac" title="Run the algorithm tool." alt="" coords="27,72,198,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="252,78,198,85,198,80,252,72"/>
+</map>

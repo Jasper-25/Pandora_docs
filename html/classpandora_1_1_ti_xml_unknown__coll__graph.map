@@ -1,0 +1,10 @@
+<map id="pandora::TiXmlUnknown" name="pandora::TiXmlUnknown">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,301,165,328"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_ti_xml_node.html" title=" " alt="" coords="17,199,153,225"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,241,88,301,82,301,82,241"/>
+<area shape="poly" id="edge4_Node000002_Node000002" title=" " alt="" coords="170,202,180,212,172,222,154,226,153,221,169,217,175,212,167,205"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_ti_xml_base.html" title=" " alt="" coords="17,96,153,123"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="88,138,88,198,82,198,82,138"/>
+<area shape="rect" id="Node000004" href="$structpandora_1_1_ti_xml_cursor.html" title=" " alt="" coords="13,5,157,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="88,48,88,95,82,95,82,48"/>
+</map>

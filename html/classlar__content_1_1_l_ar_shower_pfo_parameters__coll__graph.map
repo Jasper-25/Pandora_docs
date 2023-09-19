@@ -1,0 +1,9 @@
+<map id="lar_content::LArShowerPfoParameters" name="lar_content::LArShowerPfoParameters">
+<area shape="rect" id="Node000001" title="lar pfo parameters" alt="" coords="392,137,567,180"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="14,5,176,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,14,234,14,280,18,325,27,369,43,400,62,427,87,466,135,462,139,423,90,397,66,367,48,324,33,279,24,234,20,191,20"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_pandora_input_type.html" title=" " alt="" coords="5,137,185,180"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="200,156,391,156,391,161,200,161"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_pandora_input_type.html" title=" " alt="" coords="5,204,185,247"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="199,206,367,177,391,173,392,178,368,183,200,211"/>
+</map>

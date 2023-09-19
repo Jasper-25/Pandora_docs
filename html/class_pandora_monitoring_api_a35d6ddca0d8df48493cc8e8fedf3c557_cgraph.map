@@ -1,0 +1,9 @@
+<map id="PandoraMonitoringApi::ViewEvent" name="PandoraMonitoringApi::ViewEvent">
+<area shape="rect" id="Node000001" title="Show the Eve Event&#45;display and pause." alt="" coords="5,55,154,97"/>
+<area shape="rect" id="Node000002" href="$classpandora__monitoring_1_1_pandora_monitoring.html#aeefdfb3a43a266bebcd08ef36b7263fb" title="Get the relevant pandora monitoring instance." alt="" coords="202,5,339,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,57,186,50,187,55,155,63"/>
+<area shape="rect" id="Node000003" href="$classpandora__monitoring_1_1_pandora_monitoring.html#a3a488ba1bc7b5ddbcb3bfe8a80b55532" title="Show the Eve Event&#45;display and pause." alt="" coords="202,88,339,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="155,89,187,97,186,102,154,95"/>
+<area shape="rect" id="Node000004" href="$classpandora__monitoring_1_1_pandora_monitoring.html#af2a6eaf171b6ffd0f73b70fa41ce5711" title="Pause thread until user enters &#39;return&#39;." alt="" coords="387,88,524,147"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="339,115,371,115,371,120,339,120"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="lar_content::LArHitWidthHelper::GetConstituentHits" name="lar_content::LArHitWidthHelper::GetConstituentHits">
+<area shape="rect" id="Node000001" title="Break up the cluster hits into constituent hits." alt="" coords="258,39,434,81"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_two_d_sliding_fit_result.html#aec4a3fcb2a5a2367a419ae480da16a44" title=" " alt="" coords="5,5,210,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="242,48,210,44,210,38,243,43"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a2d02cb529201041ac4bb5f26b9ef6f6b" title=" " alt="" coords="5,72,210,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="243,77,210,82,210,76,242,72"/>
+</map>

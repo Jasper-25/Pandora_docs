@@ -1,0 +1,16 @@
+<map id="lar_content::MasterAlgorithm" name="lar_content::MasterAlgorithm">
+<area shape="rect" id="Node000001" title="MasterAlgorithm class." alt="" coords="1037,101,1226,128"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_externally_configured_algorithm.html" title="Externally configured algorithm class. Provides ability for external specification of algorithm&#45;defin..." alt="" coords="671,93,865,136"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="881,112,1037,112,1037,117,881,117"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_algorithm.html" title="Algorithm class. Algorithm addresses are held only by the algorithm manager. They have a fully define..." alt="" coords="457,101,588,128"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="603,112,670,112,670,117,603,117"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_process.html" title="Process class." alt="" coords="254,93,377,120"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="393,107,457,109,457,115,392,112"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_pandora.html" title="Pandora class." alt="" coords="5,65,129,92"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="144,64,226,55,314,51,769,51,856,56,941,68,1081,98,1080,103,940,73,855,61,769,56,314,56,226,60,145,69"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="144,85,253,97,253,102,144,90"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_l_ar_calo_hit_factory.html" title="LArCaloHitFactory responsible for object creation." alt="" coords="668,168,867,195"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="859,162,1054,126,1055,131,860,167"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_object_factory.html" title=" " alt="" coords="426,152,619,227"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="635,183,667,182,667,187,635,188"/>
+</map>

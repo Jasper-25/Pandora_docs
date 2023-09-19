@@ -1,0 +1,41 @@
+<map id="PandoraContentApi::CreateTemporaryListAndSetCurrent" name="PandoraContentApi::CreateTemporaryListAndSetCurrent">
+<area shape="rect" id="Node000001" title="Create a temporary list and set it to be the current list, enabling object creation." alt="" coords="798,756,1025,799"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_matching_base_algorithm.html#a5ad552251c36087c22047bb5d64b72e0" title="Create particles using findings from recent algorithm processing." alt="" coords="536,360,750,403"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="885,744,657,405,661,402,889,741"/>
+<area shape="rect" id="Node000014" href="$classlar__content_1_1_master_algorithm.html#a52e91926aca7504a15d291ee3b4c2824" title="Recreate a specified list of pfos in the current pandora instance." alt="" coords="549,756,737,799"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="783,780,738,780,738,775,783,775"/>
+<area shape="rect" id="Node000019" href="$classlar__content_1_1_custom_particle_creation_algorithm.html#acd2c8d72127d0e7ddfcff04724166877" title="Run the algorithm." alt="" coords="552,823,734,865"/>
+<area shape="poly" id="edge20_Node000001_Node000019" title=" " alt="" coords="809,806,733,825,731,819,808,800"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_matched_end_points_tool.html#a5a25cd500499e60bd01034297ba074bc" title="Run the algorithm tool." alt="" coords="279,5,482,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="632,346,615,284,587,208,567,168,544,129,517,93,486,62,470,51,473,46,490,58,521,90,549,126,572,165,591,206,620,282,637,344"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_connected_remnants_tool.html#a75a12cf63dc21f757fd444ffe61d31ec" title="Run the algorithm tool." alt="" coords="273,72,488,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="627,347,607,297,577,239,537,179,513,152,486,129,468,117,471,113,490,125,517,149,541,176,581,236,612,295,632,344"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_mop_up_remnants_tool.html#ad871ed9f2e680b867e4643cada276ed1" title="Run the algorithm tool." alt="" coords="284,139,477,181"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="620,348,566,271,529,230,487,196,466,184,469,180,489,191,533,227,570,268,624,345"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_clear_showers_tool.html#a20fea69f6be612f9fce0589a6e62fa23" title="Run the algorithm tool." alt="" coords="294,205,467,248"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="607,351,553,306,487,262,461,251,464,246,489,258,556,301,611,347"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_simple_showers_tool.html#a8e68e58a9b502b0a8dd983f6fc076890" title="Run the algorithm tool." alt="" coords="289,272,472,315"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="566,357,487,329,452,318,454,313,489,324,568,352"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_long_tracks_tool.html#a0142fe0228893b63f310a22feb1c44ff" title="Run the algorithm tool." alt="" coords="273,339,488,365"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="520,370,488,367,489,361,521,365"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_missing_track_segment_tool.html#ae3f72d66f0347edf82ae3cf3a71d8aac" title="Run the algorithm tool." alt="" coords="295,389,466,432"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="521,398,466,404,466,399,521,392"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_missing_track_tool.html#ad493d050f90581e84a34b15b15238ce4" title="Run the algorithm tool." alt="" coords="295,456,466,499"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="578,412,489,447,455,458,454,453,487,441,576,407"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_tracks_crossing_gaps_tool.html#a4814a2748eb9f38d0faec6c3e56eb7a3" title="Run the algorithm tool." alt="" coords="289,523,472,565"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="613,416,558,466,525,491,489,513,464,525,462,520,487,508,521,487,554,461,609,412"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_two_view_long_tracks_tool.html#ae119de3d26e2353934e343e468d00772" title="Run the algorithm tool." alt="" coords="294,589,467,632"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="626,418,603,455,571,499,534,542,490,580,468,591,466,587,486,575,530,538,567,496,598,452,621,415"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_two_view_simple_tracks_tool.html#a9005e5ed85879bc2f7723ca0232dd004" title="Run the algorithm tool." alt="" coords="288,656,473,699"/>
+<area shape="poly" id="edge12_Node000002_Node000013" title=" " alt="" coords="633,418,613,469,583,531,542,593,517,621,490,646,472,658,469,653,486,642,513,617,537,589,578,528,608,467,628,416"/>
+<area shape="poly" id="edge15_Node000014_Node000014" title=" " alt="" coords="686,743,670,737,643,735,618,737,603,741,597,747,599,755,594,756,592,746,600,737,617,731,643,729,671,732,688,738"/>
+<area shape="rect" id="Node000015" href="$classlar__content_1_1_master_algorithm.html#a5e4808ff37d0fdeda42d718673ac14a7" title="Recreate a specified pfo in the current pandora instance." alt="" coords="286,723,475,765"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="534,766,475,759,475,753,534,761"/>
+<area shape="rect" id="Node000016" href="$classlar__content_1_1_master_algorithm.html#a57c24c2d7f7df99197c92275ff4e4f36" title="Recreate cosmic&#45;ray pfos (created by worker instances) in the master instance." alt="" coords="286,789,475,832"/>
+<area shape="poly" id="edge16_Node000014_Node000016" title=" " alt="" coords="534,794,475,801,475,796,534,789"/>
+<area shape="rect" id="Node000018" href="$classlar__content_1_1_master_algorithm.html#a6786e7855e69331c7d51c538d1770a25" title="Examine slice hypotheses to identify the most appropriate to provide in final event output." alt="" coords="285,856,476,899"/>
+<area shape="poly" id="edge18_Node000014_Node000018" title=" " alt="" coords="550,807,537,813,514,830,489,846,462,858,460,853,487,842,510,825,535,808,548,802"/>
+<area shape="rect" id="Node000017" href="$classlar__content_1_1_master_algorithm.html#ab61b051a14d2431fa04900e52277ce96" title="Run the algorithm." alt="" coords="5,831,225,857"/>
+<area shape="poly" id="edge17_Node000016_Node000017" title=" " alt="" coords="271,827,225,833,225,828,270,822"/>
+<area shape="poly" id="edge19_Node000018_Node000017" title=" " alt="" coords="269,866,225,860,226,855,270,861"/>
+</map>

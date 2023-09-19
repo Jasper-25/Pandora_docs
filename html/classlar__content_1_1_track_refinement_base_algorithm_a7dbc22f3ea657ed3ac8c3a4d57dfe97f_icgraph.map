@@ -1,0 +1,5 @@
+<map id="lar_content::TrackRefinementBaseAlgorithm::RemoveClusterFromContainers" name="lar_content::TrackRefinementBaseAlgorithm::RemoveClusterFromContainers">
+<area shape="rect" id="Node000001" title="Remove a cluster from the cluster vector and sliding fit maps." alt="" coords="271,5,502,64"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_track_refinement_base_algorithm.html#a956fac15b710344cd66b0be90706e8d0" title="Remove deleted clusters from the cluster vector and sliding fit maps and add in created clusters that..." alt="" coords="5,13,223,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="255,37,223,37,223,32,255,32"/>
+</map>

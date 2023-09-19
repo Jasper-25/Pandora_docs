@@ -1,0 +1,23 @@
+<map id="lar_content::TwoDSlidingFitResult::GetGlobalMaxLayerPosition" name="lar_content::TwoDSlidingFitResult::GetGlobalMaxLayerPosition">
+<area shape="rect" id="Node000001" title="Get global position corresponding to the fit result in maximum fit layer." alt="" coords="587,213,783,272"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a91a8b14fa7eafcfb342e62e3f350b589" title="Get extrapolated position (beyond span) for a given input coordinate." alt="" coords="307,5,529,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="659,202,609,129,576,93,538,62,516,51,519,46,540,58,579,89,613,126,663,199"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a84a929c73951688506aa2377ede44972" title="Get extrapolated position (beyond span) for a given input x coordinate." alt="" coords="297,72,539,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="641,205,594,165,538,129,511,118,513,113,540,124,597,161,645,201"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_three_view_track_fragments_algorithm.html#ade08f511676067feb093570e0e67bb5c" title="Get the list of projected positions, in the third view, corresponding to a pair of sliding fit result..." alt="" coords="307,139,529,197"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="571,214,525,201,526,195,573,208"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_l_ar_geometry_helper.html#ab687d837b539b20a69a59e4540594265" title="Whether there is a gap in a cluster (described via its sliding fit result) at a specified x sampling ..." alt="" coords="317,221,519,264"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="571,245,519,245,519,240,571,240"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_two_d_shower_fit_feature_tool.html#a64b8bc495896a1c761b20f37f58a6bc8" title=" " alt="" coords="326,288,510,331"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="573,273,507,290,506,285,571,268"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_two_d_vertex_distance_feature_tool.html#a53166fa6009e5dab9d90e1d36ecfd692" title=" " alt="" coords="311,355,525,397"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="637,284,592,316,540,345,512,356,510,352,538,340,589,312,634,280"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_vertex_selection_base_algorithm_1_1_sliding_fit_data.html#abea2763c14046864d1db8845246ec188" title="Constructor." alt="" coords="320,421,516,480"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="659,286,609,350,576,383,540,412,517,425,514,420,538,407,573,379,605,347,655,283"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_three_view_track_fragments_algorithm.html#ac4c5ebd63e3b54b7d65c81643a8de116" title="Calculate overlap result for track fragment candidate consisting of two sliding fit results and a lis..." alt="" coords="5,139,249,197"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="291,171,249,171,249,165,291,165"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_two_d_shower_fit_feature_tool.html#a7425d815b3d3a5f0b5feb934cfef09ac" title=" " alt="" coords="35,288,219,331"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="311,312,219,312,219,307,311,307"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_two_d_vertex_distance_feature_tool.html#ab301f4fe23c1342a6d13b0834b4aa115" title=" " alt="" coords="20,355,234,397"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="295,379,234,379,234,373,295,373"/>
+</map>

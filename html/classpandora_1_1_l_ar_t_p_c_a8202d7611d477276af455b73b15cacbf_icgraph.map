@@ -1,0 +1,23 @@
+<map id="pandora::LArTPC::GetWidthX" name="pandora::LArTPC::GetWidthX">
+<area shape="rect" id="Node000001" title="Get the width in x, units mm." alt="" coords="786,173,977,200"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_stitching_helper.html#a58b74fc1e2a8595c6186b3ec1c00e0bb" title="Whether a pair of drift volumes are adjacent to each other." alt="" coords="551,76,720,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="827,170,696,122,697,117,829,165"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_stitching_helper.html#a8f867cf07160f99e7c41b43a98309f84" title="Determine centre in X at the boundary between a pair of tpcs." alt="" coords="273,5,485,48"/>
+<area shape="poly" id="edge10_Node000001_Node000004" title=" " alt="" coords="858,163,807,112,774,87,737,66,675,45,609,32,545,26,485,24,486,19,545,20,610,27,676,40,739,62,777,82,810,108,862,159"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_l_ar_stitching_helper.html#a55f359a951baad0527dcd901a704c76f" title="Determine width in X at the boundary between a pair of tpcs." alt="" coords="275,139,483,181"/>
+<area shape="poly" id="edge11_Node000001_Node000005" title=" " alt="" coords="771,184,483,168,483,163,771,178"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_master_algorithm.html#a2d3e85f24a174950aa1f53e07aa0d8ce" title="Create a pandora worker instance to handle a single LArTPC." alt="" coords="542,195,730,237"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="771,203,730,207,730,202,770,197"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_master_algorithm.html#ab58b3d72ec31c2eef1721c907b5258b5" title="Create a pandora worker instance to handle a number of LArTPCs." alt="" coords="542,261,730,304"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="839,209,739,252,707,263,706,258,737,247,836,204"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_cosmic_ray_tagging_tool.html#a97a8cf51621b1ef511b80fe3f20aa903" title="Find the list of ambiguous pfos (could represent cosmic&#45;ray muons or neutrinos)" alt="" coords="533,328,738,371"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="860,214,809,266,776,294,740,318,716,330,714,325,737,314,772,290,805,262,857,210"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_stitching_helper.html#a0cba0037a530996dfc96bd5a06bb6ccc" title="Whether particles from a given pair of tpcs can be stitched together." alt="" coords="286,72,472,115"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="535,98,472,97,472,92,535,93"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="540,74,458,51,460,46,541,69"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="536,124,470,141,469,135,535,119"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_master_algorithm.html#adc0ae3e6b2ec020e18e7c0f63b2cbf54" title="Initialize pandora worker instances." alt="" coords="285,205,473,248"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="526,223,473,225,473,220,526,218"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_master_algorithm.html#ab61b051a14d2431fa04900e52277ce96" title="Run the algorithm." alt="" coords="5,213,225,240"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="269,229,225,229,225,224,269,224"/>
+</map>

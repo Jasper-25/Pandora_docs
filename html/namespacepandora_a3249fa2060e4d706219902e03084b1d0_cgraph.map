@@ -1,0 +1,19 @@
+<map id="pandora::operator+" name="pandora::operator+">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,147,136,173"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_ti_xml_string.html#a507afe37775c29d4474d328899ec147e" title=" " alt="" coords="184,139,324,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,157,168,157,168,163,136,163"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_ti_xml_string.html#afda0c45de6d73d20cb6518a56b3f69bc" title=" " alt="" coords="560,205,701,248"/>
+<area shape="poly" id="edge9_Node000001_Node000004" title=" " alt="" coords="112,171,184,191,280,206,377,215,545,223,545,229,377,221,279,211,183,196,111,177"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_ti_xml_string.html#a7a5091d5865ec6c2466d7bee63803a21" title=" " alt="" coords="372,80,512,123"/>
+<area shape="poly" id="edge10_Node000001_Node000005" title=" " alt="" coords="111,144,183,124,272,111,356,103,357,108,273,116,184,129,112,149"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_ti_xml_string.html#ac795c1fab149837609537ea7b654e8a8" title=" " alt="" coords="560,139,701,181"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="325,157,545,157,545,163,325,163"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="325,170,545,209,545,214,324,175"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="323,136,356,125,358,130,325,141"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="513,121,546,131,545,136,512,126"/>
+<area shape="poly" id="edge7_Node000005_Node000004" title=" " alt="" coords="470,121,512,156,562,191,569,195,566,200,559,196,508,160,466,125"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_ti_xml_string.html#acd23994c46f61ee8e4ae5738afc33447" title=" " alt="" coords="560,72,701,115"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="513,96,545,94,545,100,513,101"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_ti_xml_string.html#a94c7d295a1dd8240bcf4ea3fd3e5cd18" title=" " alt="" coords="560,5,701,48"/>
+<area shape="poly" id="edge8_Node000005_Node000007" title=" " alt="" coords="497,77,560,52,562,57,499,82"/>
+</map>

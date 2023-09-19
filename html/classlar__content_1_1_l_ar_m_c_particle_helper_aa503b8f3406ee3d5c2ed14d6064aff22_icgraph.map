@@ -1,0 +1,5 @@
+<map id="lar_content::LArMCParticleHelper::GetMainMCParticle" name="lar_content::LArMCParticleHelper::GetMainMCParticle">
+<area shape="rect" id="Node000001" title="Find the mc particle making the largest contribution to 2D clusters in a specified pfo." alt="" coords="283,5,462,48"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_mva_pfo_characterisation_algorithm.html#aa9ff9dd7f75bb29fd25d73fd8050a2f1" title="Whether pfo is identified as a clear track." alt="" coords="5,5,235,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="267,29,235,29,235,24,267,24"/>
+</map>

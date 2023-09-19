@@ -1,0 +1,11 @@
+<map id="lar_content::StitchingCosmicRayMergingTool" name="lar_content::StitchingCosmicRayMergingTool">
+<area shape="rect" id="Node000001" title="StitchingCosmicRayMergingTool class." alt="" coords="10,324,199,367"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_stitching_base_tool.html" title="StitchingBaseTool class." alt="" coords="5,248,204,275"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,290,107,324,102,324,102,290"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_algorithm_tool.html" title="AlgorithmTool class. Algorithm tools will tend to be tailored for specific parent algorithms,..." alt="" coords="27,172,182,199"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="107,214,107,248,102,248,102,214"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_process.html" title="Process class." alt="" coords="43,96,166,123"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="107,138,107,172,102,172,102,138"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_pandora.html" title="Pandora class." alt="" coords="43,5,166,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="107,48,107,95,102,95,102,48"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="lar_content::LArMvaHelper::ProduceTrainingExample" name="lar_content::LArMvaHelper::ProduceTrainingExample">
+<area shape="rect" id="Node000001" title="Produce a training example with the given features and result." alt="" coords="591,176,764,219"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_mva_pfo_characterisation_algorithm.html#a56004cd1d73d1c53f98832e34dadb2d6" title="Whether cluster is identified as a clear track." alt="" coords="313,5,542,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="650,165,603,112,574,85,542,62,519,51,521,46,544,58,577,81,607,108,654,162"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_mva_pfo_characterisation_algorithm.html#aa9ff9dd7f75bb29fd25d73fd8050a2f1" title="Whether pfo is identified as a clear track." alt="" coords="313,72,542,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="626,170,542,129,510,118,512,113,544,124,628,166"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_mva_helper.html#a7090b24fcc74f1aabf8d0d6903269673" title="Produce a training example with the given features and result &#45; using a map." alt="" coords="341,139,514,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="575,185,514,176,515,170,576,180"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_trained_vertex_selection_algorithm.html#ab664f2fc44554042d0754f991b2900e7" title="Produce a set of training examples for a binary classifier." alt="" coords="312,205,543,264"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="576,215,544,220,543,215,575,210"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_bdt_beam_particle_id_tool.html#ad58d896477422f06c252badcb9ee5b2d" title="Select which reconstruction hypotheses to use; neutrino outcomes or cosmic&#45;ray muon outcomes for each..." alt="" coords="332,288,523,331"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="633,230,591,255,544,278,514,290,512,285,542,274,588,250,630,225"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_neutrino_id_tool.html#aaa2e9353284706dc119f1585cddf14ee" title="Select which reconstruction hypotheses to use; neutrino outcomes or cosmic&#45;ray muon outcomes for each..." alt="" coords="340,355,515,397"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="656,233,609,290,578,320,544,345,516,359,514,354,542,340,575,316,605,287,652,230"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_trained_vertex_selection_algorithm.html#a19474126585ba332e454985b680c68cd" title="Produce the region and vertex training sets." alt="" coords="5,213,264,256"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="296,237,264,237,264,232,296,232"/>
+</map>

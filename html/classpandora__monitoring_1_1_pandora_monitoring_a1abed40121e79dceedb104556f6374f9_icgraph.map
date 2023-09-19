@@ -1,0 +1,5 @@
+<map id="pandora_monitoring::PandoraMonitoring::AddLineToVisualization" name="pandora_monitoring::PandoraMonitoring::AddLineToVisualization">
+<area shape="rect" id="Node000001" title="Add line to visualization." alt="" coords="218,5,382,64"/>
+<area shape="rect" id="Node000002" href="$class_pandora_monitoring_api.html#aef0998002315cf2f30791a301501c7c5" title="Add line to visualization." alt="" coords="5,13,170,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,37,170,37,170,32,202,32"/>
+</map>

@@ -1,0 +1,135 @@
+<map id="PandoraSDK/include/Persistency/BinaryFileWriter.h" name="PandoraSDK/include/Persistency/BinaryFileWriter.h">
+<area shape="rect" id="Node000001" title="Header file for the binary file writer class." alt="" coords="3287,5,3490,48"/>
+<area shape="rect" id="Node000002" href="$_l_ar_calo_hit_8h.html" title="Header file for the lar calo hit class." alt="" coords="3292,96,3485,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="3391,64,3391,96,3386,96,3386,64"/>
+<area shape="rect" id="Node000043" href="$_l_ar_content_2larpandoracontent_2_l_ar_persistency_2_event_writing_algorithm_8cc.html" title=" " alt="" coords="1284,301,1549,344"/>
+<area shape="poly" id="edge81_Node000001_Node000043" title=" " alt="" coords="3272,34,2794,54,2488,73,2179,99,2081,105,1997,107,1852,106,1784,111,1714,125,1636,149,1548,189,1511,214,1478,244,1432,302,1428,299,1475,241,1508,209,1546,184,1634,144,1712,119,1783,106,1852,101,1997,101,2081,100,2179,93,2488,67,2794,49,3272,29"/>
+<area shape="rect" id="Node000050" href="$_l_ar_m_c_particle_8h.html" title="Header file for the lar mc particle class." alt="" coords="2192,96,2385,139"/>
+<area shape="poly" id="edge48_Node000001_Node000050" title=" " alt="" coords="3272,40,2386,111,2386,106,3272,35"/>
+<area shape="rect" id="Node000109" href="$_binary_file_writer_8cc.html" title="Implementation of the file writer class." alt="" coords="3509,96,3700,139"/>
+<area shape="poly" id="edge82_Node000001_Node000109" title=" " alt="" coords="3454,52,3555,93,3553,98,3452,57"/>
+<area shape="rect" id="Node000110" href="$_pandora_s_d_k_2src_2_persistency_2_event_writing_algorithm_8cc.html" title="Implementation of the event writing algorithm class." alt="" coords="3725,96,3916,139"/>
+<area shape="poly" id="edge83_Node000001_Node000110" title=" " alt="" coords="3505,49,3725,94,3724,99,3504,54"/>
+<area shape="rect" id="Node000003" href="$_cosmic_ray_tagging_tool_8cc.html" title="Implementation of the cosmic&#45;ray tagging tool class." alt="" coords="5037,400,5266,459"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="3501,136,3641,154,3751,163,3999,184,4145,193,4272,191,4490,180,4593,182,4700,197,4756,211,4816,231,4879,258,4947,291,4965,304,4975,319,4983,335,4998,350,5038,376,5079,397,5077,402,5035,380,4995,354,4979,338,4970,322,4961,308,4944,296,4877,262,4814,236,4755,216,4699,202,4593,187,4490,185,4272,197,4145,198,3999,189,3750,168,3641,159,3500,142"/>
+<area shape="rect" id="Node000004" href="$_master_algorithm_8cc.html" title="Implementation of the master algorithm class." alt="" coords="3801,301,4032,344"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="3501,136,3607,139,3733,139,3794,142,3849,149,3895,163,3912,173,3926,185,3935,198,3941,213,3943,245,3937,276,3928,302,3923,300,3932,275,3937,245,3936,214,3931,201,3923,188,3909,177,3892,168,3848,155,3794,147,3733,144,3607,144,3501,141"/>
+<area shape="rect" id="Node000005" href="$_master_algorithm_8h.html" title="Header file for the master algorithm class." alt="" coords="5532,195,5755,237"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="3501,136,3727,158,3919,170,4088,176,4245,177,4572,176,4764,178,4990,184,5531,207,5531,212,4990,189,4764,183,4572,181,4245,183,4088,181,3918,175,3727,163,3500,142"/>
+<area shape="rect" id="Node000034" href="$_cosmic_ray_tagging_monitoring_tool_8cc.html" title="Implementation of the cosmic&#45;ray tagging monitoring tool class." alt="" coords="3988,400,4269,459"/>
+<area shape="poly" id="edge38_Node000002_Node000034" title=" " alt="" coords="3501,136,3609,143,3738,148,3862,159,3913,170,3952,184,3971,198,3993,220,4038,279,4114,398,4110,401,4034,282,3989,224,3968,202,3950,189,3911,175,3861,165,3738,154,3609,148,3501,142"/>
+<area shape="rect" id="Node000039" href="$_streaming_algorithm_8cc.html" title=" " alt="" coords="3528,301,3777,344"/>
+<area shape="poly" id="edge36_Node000002_Node000039" title=" " alt="" coords="3501,136,3601,139,3719,140,3777,143,3829,151,3871,164,3901,185,3911,200,3914,215,3911,231,3901,247,3880,260,3840,274,3737,303,3736,298,3839,269,3878,255,3897,243,3906,229,3909,215,3906,202,3897,189,3869,169,3827,156,3776,149,3719,145,3601,144,3501,141"/>
+<area shape="rect" id="Node000040" href="$_l_ar_cluster_helper_8cc.html" title="Implementation of the cluster helper class." alt="" coords="3015,195,3224,237"/>
+<area shape="poly" id="edge37_Node000002_Node000040" title=" " alt="" coords="3317,147,3178,197,3176,192,3315,142"/>
+<area shape="rect" id="Node000041" href="$_visual_particle_monitoring_algorithm_8cc.html" title="Implementation of the particle visualisation algorithm." alt="" coords="2295,187,2544,245"/>
+<area shape="poly" id="edge39_Node000002_Node000041" title=" " alt="" coords="3276,126,2953,147,2755,165,2557,189,2545,191,2544,186,2556,184,2754,160,2952,142,3276,121"/>
+<area shape="rect" id="Node000042" href="$_l_ar_content_2larpandoracontent_2_l_ar_persistency_2_event_reading_algorithm_8cc.html" title=" " alt="" coords="2568,195,2838,237"/>
+<area shape="poly" id="edge40_Node000002_Node000042" title=" " alt="" coords="3277,134,3081,158,2857,189,2812,197,2812,191,2856,184,3080,153,3276,129"/>
+<area shape="poly" id="edge41_Node000002_Node000043" title=" " alt="" coords="3277,122,2969,126,2582,137,2395,145,2231,157,2106,171,2062,180,2034,189,2017,202,2009,217,1999,233,1982,248,1923,274,1871,288,1823,294,1778,294,1681,289,1625,289,1561,296,1518,303,1517,298,1560,291,1625,284,1681,283,1778,288,1823,288,1870,283,1921,269,1979,243,1995,230,2004,214,2013,198,2031,184,2061,175,2105,166,2230,151,2394,140,2582,131,2969,121,3277,117"/>
+<area shape="rect" id="Node000044" href="$_stream_selection_algorithm_8cc.html" title=" " alt="" coords="2354,301,2634,344"/>
+<area shape="poly" id="edge42_Node000002_Node000044" title=" " alt="" coords="3277,128,3175,136,3066,149,2969,166,2931,177,2902,189,2886,202,2877,217,2868,233,2851,248,2758,271,2599,303,2598,298,2757,265,2849,243,2864,229,2873,214,2882,199,2899,184,2929,172,2968,161,3065,144,3174,131,3276,122"/>
+<area shape="rect" id="Node000045" href="$_dl_hit_validation_algorithm_8cc.html" title="Implementation of the deep learning track shower validation algorithm." alt="" coords="2658,301,2925,344"/>
+<area shape="poly" id="edge43_Node000002_Node000045" title=" " alt="" coords="3277,129,3143,149,3072,166,3003,189,2966,208,2916,239,2822,303,2819,299,2913,234,2963,204,3001,184,3070,161,3142,144,3276,124"/>
+<area shape="rect" id="Node000046" href="$_dl_cluster_characterisation_algorithm_8cc.html" title=" " alt="" coords="3248,187,3529,245"/>
+<area shape="poly" id="edge44_Node000002_Node000046" title=" " alt="" coords="3391,154,3391,186,3386,186,3386,154"/>
+<area shape="rect" id="Node000047" href="$_dl_hit_track_shower_id_algorithm_8cc.html" title="Implementation of the deep learning track shower id algorithm." alt="" coords="2949,293,3186,352"/>
+<area shape="poly" id="edge45_Node000002_Node000047" title=" " alt="" coords="3501,136,3635,147,3762,157,3810,167,3828,175,3842,184,3849,196,3849,211,3842,228,3826,247,3812,257,3787,264,3717,276,3624,283,3519,287,3318,291,3198,296,3187,298,3186,292,3198,291,3318,286,3519,282,3623,278,3716,270,3786,259,3809,252,3823,243,3837,225,3844,210,3844,198,3838,188,3826,179,3809,172,3761,163,3634,153,3500,142"/>
+<area shape="rect" id="Node000048" href="$_dl_pfo_characterisation_algorithm_8cc.html" title=" " alt="" coords="3554,187,3813,245"/>
+<area shape="poly" id="edge46_Node000002_Node000048" title=" " alt="" coords="3467,141,3596,184,3595,189,3465,146"/>
+<area shape="rect" id="Node000049" href="$_dl_track_shower_stream_selection_algorithm_8cc.html" title="Implementation of the deep learning track shower cluster streaming algorithm." alt="" coords="3209,293,3504,352"/>
+<area shape="poly" id="edge47_Node000002_Node000049" title=" " alt="" coords="3501,136,3574,143,3651,145,3795,151,3849,160,3870,167,3885,177,3894,190,3894,206,3887,225,3870,247,3843,266,3803,279,3755,286,3702,290,3596,292,3515,296,3505,298,3504,292,3515,291,3596,286,3702,284,3754,281,3802,274,3840,262,3867,243,3882,222,3889,205,3889,192,3881,181,3868,172,3848,165,3794,156,3651,151,3573,148,3500,142"/>
+<area shape="poly" id="edge24_Node000005_Node000004" title=" " alt="" coords="5516,222,5256,227,4903,240,4501,262,4094,296,4033,304,4032,299,4094,291,4501,257,4903,235,5256,222,5516,216"/>
+<area shape="rect" id="Node000006" href="$_cheating_beam_particle_id_tool_8h.html" title="Header file for the cheating beam particle id tool class." alt="" coords="4439,400,4669,459"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="5516,223,5228,233,4885,249,4591,270,4495,282,4467,289,4453,295,4444,308,4443,321,4454,351,4473,377,4498,397,4495,401,4469,380,4449,353,4437,321,4439,306,4449,291,4465,284,4494,277,4590,264,4885,243,5228,228,5516,218"/>
+<area shape="rect" id="Node000008" href="$_l_ar_content_8cc.html" title="Factory implementations for content intended for use with particle flow reconstruction at liquid argo..." alt="" coords="5364,515,5557,557"/>
+<area shape="poly" id="edge16_Node000005_Node000008" title=" " alt="" coords="5770,219,5870,225,5982,235,6096,251,6201,274,6247,288,6287,305,6320,324,6345,345,6359,370,6362,397,6352,428,6328,461,6312,471,6288,480,6215,496,6117,508,6003,518,5761,531,5558,536,5558,531,5761,525,6003,513,6117,503,6214,491,6286,475,6310,466,6324,457,6347,425,6357,397,6354,372,6340,349,6317,328,6285,310,6245,293,6199,279,6095,256,5981,240,5870,230,5770,224"/>
+<area shape="rect" id="Node000009" href="$_cheating_cosmic_ray_tagging_tool_8h.html" title="Header file for the cheating cosmic&#45;ray tagging tool class." alt="" coords="6389,293,6652,352"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="5770,225,6046,251,6370,291,6389,294,6388,299,6369,296,6046,256,5770,230"/>
+<area shape="rect" id="Node000011" href="$_cheating_neutrino_id_tool_8h.html" title="Header file for the cheating neutrino id tool class." alt="" coords="4768,408,5012,451"/>
+<area shape="poly" id="edge10_Node000005_Node000011" title=" " alt="" coords="5716,243,5746,264,5769,292,5778,309,5781,324,5779,339,5769,354,5752,365,5723,374,5639,386,5529,393,5405,397,5167,399,5025,403,4981,410,4980,405,5024,397,5167,394,5405,392,5529,388,5639,381,5722,368,5749,360,5765,350,5774,337,5776,324,5773,310,5765,295,5742,268,5713,247"/>
+<area shape="rect" id="Node000013" href="$_cheating_slice_id_base_tool_8h.html" title="Header file for the cheating slice id base tool class." alt="" coords="4713,293,4933,352"/>
+<area shape="poly" id="edge12_Node000005_Node000013" title=" " alt="" coords="5517,233,5275,260,4997,296,4934,305,4933,300,4996,291,5275,255,5516,228"/>
+<area shape="rect" id="Node000016" href="$_cheating_slice_selection_tool_8h.html" title="Header file for the cheating slice selection tool class." alt="" coords="5009,293,5243,352"/>
+<area shape="poly" id="edge15_Node000005_Node000016" title=" " alt="" coords="5520,243,5256,296,5244,298,5243,293,5255,291,5519,238"/>
+<area shape="rect" id="Node000022" href="$_bdt_beam_particle_id_tool_8h.html" title="Header file for the beam particle id tool class." alt="" coords="4464,293,4689,352"/>
+<area shape="poly" id="edge17_Node000005_Node000022" title=" " alt="" coords="5516,225,5149,247,4925,267,4701,296,4690,298,4689,292,4700,291,4924,262,5148,241,5516,219"/>
+<area shape="rect" id="Node000024" href="$_beam_particle_id_tool_8h.html" title="Header file for the beam particle id tool class." alt="" coords="5340,408,5581,451"/>
+<area shape="poly" id="edge19_Node000005_Node000024" title=" " alt="" coords="5770,216,5896,225,5959,234,6015,247,6059,264,6075,275,6087,288,6094,302,6094,318,6087,335,6073,354,6057,368,6035,379,5981,393,5916,400,5845,402,5702,399,5641,399,5593,403,5552,410,5551,405,5592,397,5640,394,5702,394,5845,397,5916,395,5980,388,6033,374,6054,363,6069,350,6082,333,6088,317,6088,303,6083,291,6072,279,6056,269,6013,252,5958,239,5896,231,5770,221"/>
+<area shape="rect" id="Node000026" href="$_cosmic_ray_tagging_tool_8h.html" title="Header file for the cosmic&#45;ray tagging tool class." alt="" coords="5830,293,6059,352"/>
+<area shape="poly" id="edge21_Node000005_Node000026" title=" " alt="" coords="5718,240,5863,290,5861,295,5716,245"/>
+<area shape="rect" id="Node000027" href="$_neutrino_id_tool_8h.html" title="Header file for the neutrino id tool class." alt="" coords="5605,408,5815,451"/>
+<area shape="poly" id="edge25_Node000005_Node000027" title=" " alt="" coords="5770,217,5871,224,5973,237,6020,246,6061,259,6094,273,6117,291,6187,374,6190,384,6186,390,6161,390,6114,385,6043,381,5947,385,5828,403,5794,410,5792,405,5827,397,5947,380,6043,376,6114,380,6161,385,6183,385,6185,383,6182,377,6113,295,6092,278,6059,264,6019,252,5973,242,5870,229,5770,223"/>
+<area shape="rect" id="Node000029" href="$_simple_neutrino_id_tool_8h.html" title="Header file for the neutrino id tool class." alt="" coords="5840,400,6055,459"/>
+<area shape="poly" id="edge27_Node000005_Node000029" title=" " alt="" coords="5770,215,5882,220,5998,233,6051,243,6098,255,6135,272,6161,292,6171,307,6174,322,6170,338,6161,354,6145,368,6120,381,6056,404,6054,399,6118,376,6142,364,6157,350,6165,336,6169,322,6166,309,6157,295,6133,276,6096,260,6050,248,5997,238,5881,226,5770,220"/>
+<area shape="rect" id="Node000031" href="$_stitching_cosmic_ray_merging_tool_8h.html" title=" " alt="" coords="6079,400,6314,459"/>
+<area shape="poly" id="edge29_Node000005_Node000031" title=" " alt="" coords="5771,215,5888,220,6011,232,6067,242,6117,255,6158,271,6186,292,6202,317,6208,345,6209,374,6206,400,6200,399,6204,374,6203,346,6197,319,6183,295,6155,276,6116,260,6066,247,6010,238,5887,225,5771,220"/>
+<area shape="rect" id="Node000033" href="$_cosmic_ray_tagging_monitoring_tool_8h.html" title="Header file for the cosmic&#45;ray tagging monitoring tool class." alt="" coords="4107,293,4388,352"/>
+<area shape="poly" id="edge31_Node000005_Node000033" title=" " alt="" coords="5516,223,5305,231,5029,244,4719,265,4407,296,4389,298,4388,293,4407,291,4719,260,5029,239,5305,225,5516,218"/>
+<area shape="rect" id="Node000035" href="$_d_l_master_algorithm_8h.html" title="Header file for the master algorithm class." alt="" coords="5268,301,5507,344"/>
+<area shape="poly" id="edge34_Node000005_Node000035" title=" " alt="" coords="5580,246,5439,303,5437,298,5578,241"/>
+<area shape="rect" id="Node000038" href="$_pandora_interface_8cxx.html" title=" " alt="" coords="5532,309,5755,336"/>
+<area shape="poly" id="edge35_Node000005_Node000038" title=" " alt="" coords="5646,253,5646,309,5641,309,5641,253"/>
+<area shape="rect" id="Node000007" href="$_cheating_beam_particle_id_tool_8cc.html" title="Implementation of the cheating beam particle id tool class." alt="" coords="3509,507,3738,565"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="4424,448,3739,524,3738,519,4423,443"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="4685,453,4704,456,4886,480,5068,499,5364,525,5363,530,5067,504,4885,485,4703,461,4684,458"/>
+<area shape="poly" id="edge9_Node000009_Node000008" title=" " alt="" coords="6491,366,6439,418,6406,442,6371,461,6303,482,6211,499,6104,512,5986,522,5750,533,5558,537,5558,532,5750,528,5986,516,6103,507,6210,494,6301,477,6369,456,6403,437,6435,414,6487,362"/>
+<area shape="poly" id="edge11_Node000011_Node000008" title=" " alt="" coords="5002,452,5025,456,5364,516,5363,521,5024,461,5001,457"/>
+<area shape="poly" id="edge13_Node000013_Node000006" title=" " alt="" coords="4736,360,4629,402,4627,397,4734,356"/>
+<area shape="poly" id="edge14_Node000013_Node000011" title=" " alt="" coords="4852,363,4879,406,4875,409,4847,366"/>
+<area shape="poly" id="edge18_Node000022_Node000008" title=" " alt="" coords="4630,359,4682,398,4718,431,4733,444,4756,456,4806,471,4873,485,5038,506,5214,520,5364,528,5364,533,5213,525,5037,511,4872,490,4805,477,4754,461,4730,449,4714,435,4679,402,4627,364"/>
+<area shape="poly" id="edge20_Node000024_Node000008" title=" " alt="" coords="5463,466,5463,514,5458,514,5458,466"/>
+<area shape="poly" id="edge23_Node000026_Node000003" title=" " alt="" coords="5815,354,5812,355,5664,372,5548,379,5432,385,5285,403,5267,406,5266,400,5284,397,5432,380,5548,373,5663,367,5811,349,5814,349"/>
+<area shape="poly" id="edge22_Node000026_Node000008" title=" " alt="" coords="5815,354,5811,355,5763,358,5701,358,5557,355,5485,357,5420,364,5367,378,5346,389,5330,402,5322,415,5320,428,5323,442,5331,457,5344,475,5360,489,5398,512,5395,516,5357,494,5340,478,5326,460,5318,444,5314,428,5317,413,5327,398,5343,384,5365,373,5419,358,5485,351,5557,350,5701,353,5763,353,5811,349,5814,349"/>
+<area shape="poly" id="edge26_Node000027_Node000008" title=" " alt="" coords="5648,459,5511,517,5509,512,5646,455"/>
+<area shape="poly" id="edge28_Node000029_Node000008" title=" " alt="" coords="5825,462,5558,518,5557,513,5824,457"/>
+<area shape="poly" id="edge30_Node000031_Node000008" title=" " alt="" coords="6063,462,5785,502,5558,528,5557,523,5784,497,6063,457"/>
+<area shape="poly" id="edge32_Node000033_Node000008" title=" " alt="" coords="4287,361,4350,413,4388,437,4428,456,4508,477,4614,494,4739,507,4875,517,5147,528,5363,532,5363,537,5147,534,4875,522,4739,513,4613,500,4506,483,4426,461,4385,442,4347,417,4284,365"/>
+<area shape="poly" id="edge33_Node000033_Node000034" title=" " alt="" coords="4205,364,4163,402,4159,398,4202,360"/>
+<area shape="poly" id="edge49_Node000050_Node000004" title=" " alt="" coords="2401,121,2611,141,2732,159,2851,184,2894,199,2927,214,2959,230,3002,243,3120,264,3221,275,3310,278,3393,277,3567,273,3669,278,3789,291,3831,298,3830,303,3788,296,3669,283,3567,279,3393,282,3310,283,3220,280,3119,269,3001,248,2957,235,2924,219,2892,204,2849,189,2731,164,2610,146,2400,127"/>
+<area shape="poly" id="edge78_Node000050_Node000041" title=" " alt="" coords="2330,146,2382,184,2379,188,2327,150"/>
+<area shape="poly" id="edge79_Node000050_Node000042" title=" " alt="" coords="2393,140,2615,191,2613,197,2392,145"/>
+<area shape="poly" id="edge80_Node000050_Node000043" title=" " alt="" coords="2176,123,2072,128,1950,140,1820,159,1692,189,1622,214,1555,245,1450,303,1448,299,1553,240,1620,209,1690,184,1819,154,1949,134,2072,123,2176,117"/>
+<area shape="rect" id="Node000051" href="$_l_ar_interaction_type_helper_8h.html" title="Header file for the interaction type helper class." alt="" coords="1573,301,1823,344"/>
+<area shape="poly" id="edge50_Node000050_Node000051" title=" " alt="" coords="2177,128,2045,137,1904,151,1786,168,1747,178,1725,189,1708,214,1699,244,1696,275,1698,301,1692,301,1691,275,1694,243,1703,212,1721,185,1745,173,1785,163,1903,146,2045,132,2176,122"/>
+<area shape="rect" id="Node000062" href="$_l_ar_m_c_particle_helper_8h.html" title="Header file for the lar monte carlo particle helper helper class." alt="" coords="2045,195,2271,237"/>
+<area shape="poly" id="edge61_Node000050_Node000062" title=" " alt="" coords="2250,150,2188,196,2184,192,2247,146"/>
+<area shape="rect" id="Node000084" href="$_m_c_particle_monitoring_algorithm_8cc.html" title="Implementation of the mc particle monitoring algorithm." alt="" coords="1736,187,1969,245"/>
+<area shape="poly" id="edge77_Node000050_Node000084" title=" " alt="" coords="2181,145,1970,191,1969,186,2180,140"/>
+<area shape="rect" id="Node000052" href="$_l_ar_hierarchy_helper_8cc.html" title="Implementation of the lar hierarchy helper class." alt="" coords="805,408,1028,451"/>
+<area shape="poly" id="edge51_Node000051_Node000052" title=" " alt="" coords="1589,350,1561,355,1414,371,1300,378,1185,384,1040,403,1001,410,1000,405,1039,397,1185,379,1300,372,1414,366,1560,349,1588,345"/>
+<area shape="rect" id="Node000053" href="$_l_ar_interaction_type_helper_8cc.html" title="Implementation of the interaction type helper class." alt="" coords="1795,408,2051,451"/>
+<area shape="poly" id="edge52_Node000051_Node000053" title=" " alt="" coords="1757,348,1880,405,1878,410,1755,353"/>
+<area shape="rect" id="Node000054" href="$_event_validation_base_algorithm_8cc.html" title="Implementation of the event validation algorithm." alt="" coords="1052,400,1280,459"/>
+<area shape="poly" id="edge53_Node000051_Node000054" title=" " alt="" coords="1584,350,1561,355,1293,403,1281,405,1280,400,1292,397,1560,349,1583,345"/>
+<area shape="rect" id="Node000055" href="$_hierarchy_validation_algorithm_8cc.html" title="Implementation of the particle visualisation algorithm." alt="" coords="1305,400,1526,459"/>
+<area shape="poly" id="edge54_Node000051_Node000055" title=" " alt="" coords="1629,352,1494,402,1492,397,1627,347"/>
+<area shape="rect" id="Node000056" href="$_neutrino_event_validation_algorithm_8cc.html" title="Implementation of the neutrino event validation algorithm." alt="" coords="5,400,252,459"/>
+<area shape="poly" id="edge55_Node000051_Node000056" title=" " alt="" coords="1593,350,1561,355,1364,374,1197,381,1049,382,912,378,774,375,627,375,460,383,263,403,252,404,252,399,263,397,460,378,627,370,774,370,912,373,1049,376,1197,376,1364,368,1560,349,1592,345"/>
+<area shape="rect" id="Node000057" href="$_test_beam_event_validation_algorithm_8cc.html" title="Implementation of the test beam event validation algorithm." alt="" coords="276,400,533,459"/>
+<area shape="poly" id="edge56_Node000051_Node000057" title=" " alt="" coords="1592,350,1561,355,1407,371,1276,378,1053,379,830,380,699,387,545,403,534,404,533,399,544,397,698,382,829,374,1053,374,1276,373,1406,365,1560,349,1591,345"/>
+<area shape="rect" id="Node000058" href="$_test_beam_hierarchy_event_validation_algorithm_8cc.html" title="Implementation of the test beam hierarchy event validation algorithm." alt="" coords="557,400,780,459"/>
+<area shape="poly" id="edge57_Node000051_Node000058" title=" " alt="" coords="1591,350,1561,355,1444,368,1345,374,1176,377,1008,381,909,389,793,403,781,404,780,399,792,397,909,383,1008,376,1176,372,1345,369,1444,362,1560,349,1590,345"/>
+<area shape="rect" id="Node000059" href="$_vertex_monitoring_algorithm_8cc.html" title="Implementation of the particle visualisation algorithm." alt="" coords="2075,408,2355,451"/>
+<area shape="poly" id="edge58_Node000051_Node000059" title=" " alt="" coords="1815,345,2113,405,2112,410,1814,350"/>
+<area shape="rect" id="Node000060" href="$_mva_vertex_selection_algorithm_8cc.html" title=" " alt="" coords="2379,408,2654,451"/>
+<area shape="poly" id="edge59_Node000051_Node000060" title=" " alt="" coords="1838,338,1937,349,2152,371,2368,397,2412,405,2411,410,2367,403,2152,376,1936,355,1838,343"/>
+<area shape="rect" id="Node000061" href="$_trained_vertex_selection_algorithm_8cc.html" title="Implementation of the trained vertex selection algorithm class." alt="" coords="1550,400,1771,459"/>
+<area shape="poly" id="edge60_Node000051_Node000061" title=" " alt="" coords="1688,360,1673,401,1668,399,1683,358"/>
+<area shape="poly" id="edge64_Node000062_Node000004" title=" " alt="" coords="2254,238,2282,243,2510,266,2704,274,2875,273,3035,268,3195,262,3366,260,3560,268,3789,291,3833,298,3832,303,3788,296,3560,274,3366,266,3195,267,3035,273,2875,279,2704,280,2510,271,2281,248,2253,243"/>
+<area shape="poly" id="edge62_Node000062_Node000007" title=" " alt="" coords="2211,243,2284,291,2301,308,2312,323,2324,337,2343,350,3508,516,3507,521,2341,354,2321,341,2308,327,2297,312,2280,295,2208,248"/>
+<area shape="poly" id="edge68_Node000062_Node000033" title=" " alt="" coords="2254,238,2282,243,2549,270,2775,282,2975,284,3161,279,3348,273,3548,270,3775,274,4043,291,4107,297,4106,303,4043,296,3775,280,3548,275,3348,278,3161,285,2975,289,2775,288,2548,275,2281,248,2253,244"/>
+<area shape="poly" id="edge65_Node000062_Node000039" title=" " alt="" coords="2255,238,2282,243,2469,263,2627,271,2767,272,2898,269,3029,265,3169,265,3328,273,3516,291,3562,298,3562,303,3515,296,3328,278,3169,271,3029,271,2898,274,2768,277,2627,276,2468,268,2281,248,2254,244"/>
+<area shape="poly" id="edge70_Node000062_Node000043" title=" " alt="" coords="2052,243,2026,248,1896,265,1793,273,1691,280,1561,296,1517,303,1516,298,1560,291,1691,275,1793,267,1895,260,2025,243,2052,238"/>
+<area shape="poly" id="edge71_Node000062_Node000044" title=" " alt="" coords="2240,240,2428,298,2427,303,2238,245"/>
+<area shape="poly" id="edge74_Node000062_Node000045" title=" " alt="" coords="2260,238,2282,243,2384,259,2464,268,2544,276,2646,291,2689,298,2688,303,2645,296,2543,281,2463,273,2383,264,2281,248,2259,244"/>
+<area shape="poly" id="edge75_Node000062_Node000047" title=" " alt="" coords="2256,238,2282,243,2381,255,2465,262,2609,267,2753,272,2838,279,2937,291,2948,292,2948,298,2936,296,2837,284,2753,277,2609,273,2465,268,2381,261,2281,248,2255,244"/>
+<area shape="poly" id="edge76_Node000062_Node000049" title=" " alt="" coords="2256,238,2282,243,2421,259,2538,267,2739,270,2941,272,3059,278,3198,291,3209,292,3208,297,3198,296,3059,283,2941,277,2739,276,2538,273,2420,264,2281,248,2255,244"/>
+<area shape="poly" id="edge67_Node000062_Node000051" title=" " alt="" coords="2053,244,1790,303,1788,298,2052,239"/>
+<area shape="poly" id="edge66_Node000062_Node000053" title=" " alt="" coords="2053,244,1983,268,1956,281,1939,295,1925,322,1919,352,1919,382,1922,407,1916,408,1913,383,1914,352,1920,320,1934,292,1953,277,1981,263,2052,239"/>
+<area shape="poly" id="edge69_Node000062_Node000059" title=" " alt="" coords="2176,250,2192,293,2207,355,2215,407,2210,408,2202,356,2187,294,2171,252"/>
+<area shape="poly" id="edge72_Node000062_Node000060" title=" " alt="" coords="2186,248,2236,300,2266,326,2299,350,2365,382,2432,405,2430,410,2363,387,2296,354,2263,331,2232,304,2182,251"/>
+<area shape="poly" id="edge73_Node000062_Node000061" title=" " alt="" coords="2050,244,1981,266,1912,296,1890,310,1874,324,1858,338,1835,354,1786,380,1737,402,1735,397,1784,375,1832,350,1855,334,1870,320,1887,306,1910,291,1979,261,2049,239"/>
+<area shape="rect" id="Node000018" href="$_cheating_beam_particle_slice_selection_tool_8cc.html" title="Implementation of the beam slice selection tool class." alt="" coords="1949,293,2178,352"/>
+<area shape="poly" id="edge63_Node000062_Node000018" title=" " alt="" coords="2131,251,2091,295,2087,291,2127,247"/>
+</map>

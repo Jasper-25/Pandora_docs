@@ -1,0 +1,17 @@
+<map id="lar_content::ClusterAssociation::GetUpstreamMergePoint" name="lar_content::ClusterAssociation::GetUpstreamMergePoint">
+<area shape="rect" id="Node000001" title="Returns the upstream cluster merge point." alt="" coords="916,152,1119,195"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_track_refinement_base_algorithm.html#a3a16d4f7140eb76ddbc3af84baa7c0d9" title="Remove the hits from a shower cluster that belong to the main track and add them into the main track ..." alt="" coords="609,5,843,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="979,144,928,105,867,69,821,51,823,46,870,64,931,101,982,140"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_track_refinement_base_algorithm.html#affe8cf41267558fcadf2b61f3a7056bf" title="Perform topological checks on the collected hits to ensure no gaps are present." alt="" coords="5,93,267,136"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="962,147,917,128,868,113,789,100,708,91,545,86,394,90,267,101,267,95,394,85,545,80,708,86,789,95,869,108,919,123,964,142"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_track_refinement_base_algorithm.html#ab7df0769d010eb10f532124b0693847e" title="Obtain the segment boundaries of the connecting line to test whether extrapolated hits are continuous..." alt="" coords="584,123,868,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="901,164,868,161,869,156,901,159"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_track_refinement_base_algorithm.html#a5d405ce4ca49c3fb833abb5255cb2c0f" title="Check whether the extrapolatedCaloHitVector contains a continuous line of hits between the cluster me..." alt="" coords="315,123,536,165"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="901,184,750,188,666,186,584,180,514,169,515,163,584,175,666,181,750,183,900,179"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_cluster_association.html#afdce031a5003187106cd4215951d79d7" title=" " alt="" coords="625,240,827,283"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="937,202,869,224,807,242,806,237,868,219,936,197"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_cluster_association.html#a61f0fa936527183899ab71812509a00b" title=" " alt="" coords="625,307,827,349"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="987,208,935,254,903,277,869,297,829,313,827,308,867,292,900,273,932,250,983,204"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="568,147,537,147,537,141,568,141"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="299,134,267,131,267,125,300,129"/>
+</map>

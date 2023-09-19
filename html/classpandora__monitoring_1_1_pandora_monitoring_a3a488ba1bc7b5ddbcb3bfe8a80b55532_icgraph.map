@@ -1,0 +1,9 @@
+<map id="pandora_monitoring::PandoraMonitoring::ViewEvent" name="pandora_monitoring::PandoraMonitoring::ViewEvent">
+<area shape="rect" id="Node000001" title="Show the Eve Event&#45;display and pause." alt="" coords="398,43,535,101"/>
+<area shape="rect" id="Node000002" href="$classpandora__monitoring_1_1_pandora_monitoring.html#a948144bcd89fbed2282566f1ef280826" title="Save the Eve Event&#45;displays." alt="" coords="206,5,346,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="382,58,346,51,347,46,383,53"/>
+<area shape="rect" id="Node000004" href="$class_pandora_monitoring_api.html#a35d6ddca0d8df48493cc8e8fedf3c557" title="Show the Eve Event&#45;display and pause." alt="" coords="202,88,350,131"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="383,91,351,97,350,92,382,86"/>
+<area shape="rect" id="Node000003" href="$class_pandora_monitoring_api.html#a2a12e904b587b5cb7e3b51e453c4d731" title="Show the Eve Event&#45;display and pause. Whilst paused, save the event displays." alt="" coords="5,13,154,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="190,37,154,37,154,32,190,32"/>
+</map>

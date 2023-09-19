@@ -1,0 +1,13 @@
+<map id="PandoraContentApi::CreateDaughterAlgorithm" name="PandoraContentApi::CreateDaughterAlgorithm">
+<area shape="rect" id="Node000001" title="Create an algorithm instance, via one of the algorithm factories registered with pandora...." alt="" coords="479,105,645,148"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_xml_helper.html#a205d4b55f86d5af0ba996f94bd8eddaa" title="Process an algorithm described in an xml element with a matching &quot;description = ....." alt="" coords="288,72,421,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="463,114,421,107,422,101,464,108"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_xml_helper.html#abaf027ad6c54615415e3129598138cf2" title="Process a list of daughter algorithms in an xml file." alt="" coords="278,139,431,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="464,145,432,150,431,145,463,140"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_xml_helper.html#a980ba5cc88ed49c3d10335573f99ba69" title="Process a single algorithm described in an xml file (the first found by the xml handle)" alt="" coords="38,5,197,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="272,73,195,51,197,46,273,68"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_three_view_track_fragments_algorithm.html#a56dd4f31d03c6ed3ef658119e4dab17e" title="Read the algorithm settings." alt="" coords="5,72,230,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="272,96,230,96,230,91,272,91"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_two_d_sliding_fit_consolidation_algorithm.html#ab6d9e68232de0dc63b980cb649f6860c" title="Read the algorithm settings." alt="" coords="33,139,202,197"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="273,122,203,144,202,139,272,116"/>
+</map>

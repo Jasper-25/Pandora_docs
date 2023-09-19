@@ -1,0 +1,17 @@
+<map id="pandora::Histogram::GetUnderflowBinNumber" name="pandora::Histogram::GetUnderflowBinNumber">
+<area shape="rect" id="Node000001" title="Get the underflow bin number of the histogram." alt="" coords="376,172,546,215"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_histogram.html#a305a7ef85212d38d6848ca7e495d9783" title="Get the bin number for a specified value." alt="" coords="191,5,325,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="431,162,384,112,326,62,308,51,311,46,330,58,388,108,435,158"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_histogram.html#a724113ae87c3b196515c33245131c719" title="Get the cumulative sum of bin entries in a specified range of the histogram (includes overflow and un..." alt="" coords="188,72,328,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="403,167,327,129,304,118,306,113,329,124,405,162"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_histogram.html#acbfa30052db6ad7ba0e7a1eeb1bf7e9f" title="Get the maximum value in a specified range of the histogram and the corresponding bin numbers (includ..." alt="" coords="191,139,325,181"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="361,180,325,174,326,168,362,174"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_histogram.html#a73201723b9a300db84827db9e969c2d9" title="Constructor." alt="" coords="191,205,325,248"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="362,212,326,218,325,213,361,207"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_histogram.html#a76241a42572f8cdaee9097eced93fa88" title="Set the contents of a specified bin." alt="" coords="191,272,325,315"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="405,224,329,262,306,274,304,269,327,258,403,219"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_histogram.html#aad92946c82d5f00e63d5394878401950" title="Write the histogram to an xml document." alt="" coords="191,339,325,381"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="435,228,388,279,330,329,311,340,308,336,326,325,384,275,431,225"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_histogram.html#a349cb7822c54fdf75111db71c00acacd" title="Add an entry to the histogram." alt="" coords="5,5,140,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="175,29,140,29,140,24,175,24"/>
+</map>

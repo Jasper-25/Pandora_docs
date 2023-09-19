@@ -1,0 +1,5 @@
+<map id="lar_content::RemovalBaseTool::IsInLineSegment" name="lar_content::RemovalBaseTool::IsInLineSegment">
+<area shape="rect" id="Node000001" title="Whether the projection of a given position lies on a defined line." alt="" coords="228,5,400,48"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_removal_base_tool.html#a9a3a46d7d758a934ce52548e5aa6a86a" title="Collect the hits that are closest to and can be projected onto a defined line." alt="" coords="5,5,180,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,29,180,29,180,24,212,24"/>
+</map>

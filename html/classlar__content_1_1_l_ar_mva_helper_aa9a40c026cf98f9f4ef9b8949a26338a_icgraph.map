@@ -1,0 +1,7 @@
+<map id="lar_content::LArMvaHelper::AddFeatureToolToVector" name="lar_content::LArMvaHelper::AddFeatureToolToVector">
+<area shape="rect" id="Node000001" title="Add a feature tool to a vector of feature tools." alt="" coords="526,5,699,48"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_trained_vertex_selection_algorithm.html#a68243bcb91d963da988466b9810b2924" title="Read the algorithm settings." alt="" coords="262,5,478,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="510,29,479,29,479,24,510,24"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_mva_vertex_selection_algorithm.html#a9a63d0b30ffed9a759d5da9ab7ff2366" title="Read the algorithm settings." alt="" coords="5,5,214,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="246,29,214,29,214,24,246,24"/>
+</map>

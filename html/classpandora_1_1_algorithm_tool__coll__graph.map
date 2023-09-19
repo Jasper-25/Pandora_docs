@@ -1,0 +1,7 @@
+<map id="pandora::AlgorithmTool" name="pandora::AlgorithmTool">
+<area shape="rect" id="Node000001" title="AlgorithmTool class. Algorithm tools will tend to be tailored for specific parent algorithms,..." alt="" coords="5,172,160,199"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_process.html" title="Process class." alt="" coords="21,96,144,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,138,85,172,80,172,80,138"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_pandora.html" title="Pandora class." alt="" coords="21,5,144,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="85,48,85,95,80,95,80,48"/>
+</map>

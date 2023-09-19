@@ -1,0 +1,27 @@
+<map id="pandora::CartesianVector::GetCrossProduct" name="pandora::CartesianVector::GetCrossProduct">
+<area shape="rect" id="Node000001" title="Get the cross product of the cartesian vector with a second cartesian vector." alt="" coords="581,255,749,297"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_n_view_delta_ray_matching_algorithm.html#a7bb001ef18534b8fec3e27f3e1eb9cb9" title="In one view, pull out any hits from a cosmic ray cluster that belong to the child delta ray cluster." alt="" coords="316,5,516,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="647,242,628,204,603,160,570,116,531,78,514,67,517,62,535,74,574,113,607,157,633,201,652,240"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_simple_cone.html#a17f8cc2364e642cc62a5b933f76e6f3a" title="Get the fraction of hits in a provided cluster that are bounded within the cone, using provided cone ..." alt="" coords="334,88,498,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="637,244,591,193,563,167,532,145,497,129,500,125,534,140,566,163,595,189,641,240"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_pointing_cluster_helper.html#a29b40a125706e30d2f9799a63b07bcbe" title="Calculate impact parameters of a specified position and direction to a target position." alt="" coords="299,155,533,197"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="611,249,532,212,500,200,502,195,534,207,614,245"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_simple_cone.html#a26fb4f8bf020876df0dafe95f6355203" title="Get the mean transverse distance to all hits in a cluster (whether contained or not)" alt="" coords="334,221,498,264"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="566,265,498,256,498,251,566,260"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_calo_hit.html#aadf98ed9882cbd841eb0b0e203ea45ef" title="Get the list of cartesian coordinates for rectangular cell corners." alt="" coords="308,288,524,331"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="566,292,524,298,524,292,565,287"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_track_refinement_base_algorithm.html#a8ba3feee8fd660c43bc827ae6a1034a9" title="Check whether a hit is close to a line." alt="" coords="318,355,514,397"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="614,307,534,345,502,357,500,352,532,340,611,303"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_removal_base_tool.html#abb409d6bf7e6ba20aa42857b9c42058b" title="Whether a given position is close to a defined line." alt="" coords="330,421,502,464"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="641,312,595,363,566,389,534,412,503,426,501,421,532,407,563,385,591,359,637,308"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_l_ar_connection_pathway_helper.html#a9d47d3dbc00590dbc63816ab8b158adf" title="Find a 2D shower start, from a drift coordinate by assuming consistency of initial direction." alt="" coords="302,488,530,547"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="652,312,633,351,607,395,574,439,535,478,517,490,514,485,531,474,570,436,603,392,628,348,647,310"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_calo_hit.html#a9545e4ad498ab49e0c2387196ccb886c" title="Get the list of cartesian coordinates for the cell corners." alt="" coords="44,288,212,331"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="292,312,212,312,212,307,292,307"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_track_refinement_base_algorithm.html#a70628edc4c1f9c56e3dd36f7d4557b28" title="Find the unprotected hits that are contained within a defined box with the option to apply a cut on t..." alt="" coords="5,355,251,397"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="302,379,251,379,251,373,302,373"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_removal_base_tool.html#a9a3a46d7d758a934ce52548e5aa6a86a" title="Collect the hits that are closest to and can be projected onto a defined line." alt="" coords="41,421,215,464"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="314,445,216,445,216,440,314,440"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_l_ar_connection_pathway_helper.html#af92f442f19e473eb517332723fb13055" title="Create a 3D shower start position from an input 2D position, assuming consistency of initial directio..." alt="" coords="22,488,234,547"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="286,520,234,520,234,515,286,515"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="lar_content::TwoDSlidingFitResult::GetLocalDirection" name="lar_content::TwoDSlidingFitResult::GetLocalDirection">
+<area shape="rect" id="Node000001" title="Get local sliding fit gradient for a given global direction." alt="" coords="528,51,712,93"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_three_d_sliding_fit_result.html#abae0b7bfb8b57ff3152b71db776d2f6e" title="Get global fit direction for a given longitudinal coordinate." alt="" coords="275,51,480,93"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="512,75,480,75,480,69,512,69"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_three_d_sliding_cone_fit_result.html#a171bb1078cb8d61b86b33c6cb3271701" title="Constructor." alt="" coords="5,5,227,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="259,58,227,53,228,48,260,53"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_three_d_sliding_fit_result.html#affa4f646020fbff021956fd9773e15bb" title="Constructor." alt="" coords="9,88,223,131"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="259,92,223,97,223,91,259,86"/>
+</map>

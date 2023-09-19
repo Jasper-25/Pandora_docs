@@ -1,0 +1,9 @@
+<map id="lar_content::CheatingSliceIdBaseTool::GetTargetParticleWeight" name="lar_content::CheatingSliceIdBaseTool::GetTargetParticleWeight">
+<area shape="rect" id="Node000001" title="Get the target particle weight in a list of pfos." alt="" coords="291,72,526,115"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_cheating_cosmic_ray_tagging_tool.html#a155a10fe79d4a86d6b847a5417ec336d" title="Find the list of ambiguous pfos (could represent cosmic&#45;ray muons or neutrinos)" alt="" coords="5,5,243,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="299,71,217,51,219,46,300,65"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_cheating_beam_particle_id_tool.html#aaf934322370c1f914f67f771c77d7d4e" title="Select which reconstruction hypotheses to use; neutrino outcomes or cosmic&#45;ray muon outcomes for each..." alt="" coords="19,72,229,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="275,96,229,96,229,91,275,91"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_cheating_neutrino_id_tool.html#a3b82328ce01a7831a658060612f8d51f" title="Select which reconstruction hypotheses to use; neutrino outcomes or cosmic&#45;ray muon outcomes for each..." alt="" coords="28,139,220,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="300,121,219,141,217,135,299,116"/>
+</map>

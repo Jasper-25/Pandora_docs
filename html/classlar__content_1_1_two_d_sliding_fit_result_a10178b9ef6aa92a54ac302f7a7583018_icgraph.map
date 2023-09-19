@@ -1,0 +1,9 @@
+<map id="lar_content::TwoDSlidingFitResult::GetL" name="lar_content::TwoDSlidingFitResult::GetL">
+<area shape="rect" id="Node000001" title="Get longitudinal coordinate for a given sliding linear fit layer number." alt="" coords="276,72,440,115"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_two_d_sliding_fit_result.html#a91a8b14fa7eafcfb342e62e3f350b589" title="Get extrapolated position (beyond span) for a given input coordinate." alt="" coords="5,5,228,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="263,70,196,51,197,46,265,65"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_three_d_kink_base_tool.html#a4a243d2b55a391ec2d7515a99fde605d" title="Get a sampling point in x that is common to sliding linear fit objects in three views." alt="" coords="21,72,212,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="260,96,212,96,212,91,260,91"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_three_d_sliding_fit_result.html#affa4f646020fbff021956fd9773e15bb" title="Constructor." alt="" coords="10,139,223,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="265,122,197,141,196,135,263,117"/>
+</map>

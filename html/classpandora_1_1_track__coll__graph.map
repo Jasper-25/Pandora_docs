@@ -1,0 +1,23 @@
+<map id="pandora::Track" name="pandora::Track">
+<area shape="rect" id="Node000001" title="Track class." alt="" coords="421,131,529,157"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_cluster.html" title="Cluster class." alt="" coords="785,269,901,296"/>
+<area shape="poly" id="edge5_Node000004_Node000001" title=" " alt="" coords="535,124,586,114,645,110,706,116,735,125,762,138,780,150,795,166,818,203,833,239,841,268,836,270,828,241,813,205,791,170,776,155,760,142,733,130,705,121,645,115,587,119,536,129"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_cartesian_vector.html" title="CartesianVector class." alt="" coords="5,80,174,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,106,198,107,421,135,420,140,197,112,189,111"/>
+<area shape="poly" id="edge7_Node000004_Node000002" title=" " alt="" coords="145,72,265,41,342,28,426,19,513,19,601,28,643,38,685,52,725,69,763,91,784,109,801,131,825,182,838,231,844,269,838,269,833,233,820,184,797,134,780,113,759,96,722,74,683,57,642,43,600,34,513,24,426,25,343,33,266,46,146,77"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_track_state.html" title="TrackState class." alt="" coords="20,176,159,203"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="174,194,264,195,358,185,382,176,436,155,438,160,384,181,359,191,264,200,174,199"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="825,258,798,221,780,203,760,189,727,180,666,170,528,152,529,147,667,165,728,175,762,184,783,199,802,217,829,255"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_ordered_calo_hit_list.html" title="Calo hit lists arranged by pseudo layer." alt="" coords="383,191,567,217"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="583,201,671,210,717,218,762,231,797,247,826,267,823,271,794,252,760,236,716,224,670,215,582,206"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_pandora_input_type.html" title=" " alt="" coords="385,255,565,297"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="580,278,591,279,785,280,785,286,591,284,579,284"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_cluster_fit_result.html" title="ClusterFitResult class." alt="" coords="391,321,559,348"/>
+<area shape="poly" id="edge8_Node000004_Node000007" title=" " alt="" coords="574,326,665,317,760,303,797,294,798,299,762,308,666,322,575,331"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_pandora_input_type.html" title=" " alt="" coords="385,456,565,499"/>
+<area shape="poly" id="edge9_Node000004_Node000008" title=" " alt="" coords="580,494,625,495,672,491,718,480,760,459,779,442,795,422,818,376,832,331,838,296,843,297,837,332,823,378,799,425,783,446,762,464,720,485,673,497,625,501,580,499"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_pandora_input_type.html" title=" " alt="" coords="385,523,565,565"/>
+<area shape="poly" id="edge10_Node000004_Node000009" title=" " alt="" coords="580,558,626,559,673,553,719,540,759,517,783,493,802,465,816,433,826,401,837,340,839,296,845,296,842,341,831,402,821,435,806,467,787,496,763,521,721,545,674,558,626,564,580,563"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_pandora_input_type.html" title=" " alt="" coords="385,589,565,632"/>
+<area shape="poly" id="edge11_Node000004_Node000010" title=" " alt="" coords="580,632,626,635,674,632,719,620,759,597,776,575,791,542,814,453,830,361,838,296,843,297,835,362,819,454,796,544,780,578,763,601,721,625,674,637,626,640,580,637"/>
+</map>

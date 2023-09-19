@@ -1,0 +1,13 @@
+<map id="lar_content::MvaPfoCharacterisationAlgorithm&lt; T &gt;" name="lar_content::MvaPfoCharacterisationAlgorithm&lt; T &gt;">
+<area shape="rect" id="Node000001" title="MvaPfoCharacterisationAlgorithm class." alt="" coords="992,55,1222,97"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_pfo_characterisation_base_algorithm.html" title="PfoCharacterisationBaseAlgorithm class." alt="" coords="606,5,812,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="828,39,992,59,992,64,828,44"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_algorithm.html" title="Algorithm class. Algorithm addresses are held only by the algorithm manager. They have a fully define..." alt="" coords="426,13,557,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="572,24,605,24,605,29,572,29"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_process.html" title="Process class." alt="" coords="254,13,377,40"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="393,24,426,24,426,29,393,29"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_pandora.html" title="Pandora class." alt="" coords="5,13,129,40"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="144,24,253,24,253,29,144,29"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_l_ar_m_c_particle_helper_1_1_primary_parameters.html" title="PrimaryParameters class." alt="" coords="620,72,798,115"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="814,86,992,78,992,84,814,91"/>
+</map>

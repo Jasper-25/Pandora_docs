@@ -1,0 +1,13 @@
+<map id="pandora_monitoring::PandoraMonitoring::DrawPandoraHistogram" name="pandora_monitoring::PandoraMonitoring::DrawPandoraHistogram">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,131,171,189"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_histogram.html#ac837ba74c6a8a536609406e84bdb37b2" title="Get the content of a specified bin." alt="" coords="220,5,355,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,128,166,93,217,58,224,54,227,58,220,62,170,97,125,133"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_histogram.html#a00425804330e1c67176be8d58c0cbb2c" title="Get the number of x bins." alt="" coords="220,72,355,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="170,130,206,117,208,123,172,135"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_histogram.html#ac4924d005402ff9bdccd97a5e62a6780" title="Get the max binned x value." alt="" coords="220,139,355,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="171,157,205,157,205,163,171,163"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_histogram.html#ad95ab3d99ac70119bc798455a3497075" title="Get the min binned x value." alt="" coords="220,205,355,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="172,185,208,197,206,203,170,190"/>
+<area shape="rect" id="Node000006" href="$classpandora__monitoring_1_1_pandora_monitoring.html#af2a6eaf171b6ffd0f73b70fa41ce5711" title="Pause thread until user enters &#39;return&#39;." alt="" coords="219,272,356,331"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="128,188,220,258,225,261,222,265,217,262,124,192"/>
+</map>

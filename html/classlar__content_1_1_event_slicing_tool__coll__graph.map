@@ -1,0 +1,11 @@
+<map id="lar_content::EventSlicingTool" name="lar_content::EventSlicingTool">
+<area shape="rect" id="Node000001" title="EventSlicingTool class." alt="" coords="5,340,194,367"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_event_slicing_base_tool.html" title="EventSlicingBaseTool class." alt="" coords="17,248,182,291"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,306,102,340,97,340,97,306"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_algorithm_tool.html" title="AlgorithmTool class. Algorithm tools will tend to be tailored for specific parent algorithms,..." alt="" coords="22,172,177,199"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="102,214,102,248,97,248,97,214"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_process.html" title="Process class." alt="" coords="38,96,161,123"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="102,138,102,172,97,172,97,138"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_pandora.html" title="Pandora class." alt="" coords="38,5,161,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="102,48,102,95,97,95,97,48"/>
+</map>

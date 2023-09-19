@@ -1,0 +1,13 @@
+<map id="lar_content::ClusterAssociation::GetConnectingLineDirection" name="lar_content::ClusterAssociation::GetConnectingLineDirection">
+<area shape="rect" id="Node000001" title="Returns the unit vector of the line connecting the upstream and downstream merge points (upstream &#45;&gt; ..." alt="" coords="916,93,1119,136"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_track_refinement_base_algorithm.html#a3a16d4f7140eb76ddbc3af84baa7c0d9" title="Remove the hits from a shower cluster that belong to the main track and add them into the main track ..." alt="" coords="609,5,843,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="936,91,868,69,806,51,807,46,869,64,937,86"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_track_refinement_base_algorithm.html#affe8cf41267558fcadf2b61f3a7056bf" title="Perform topological checks on the collected hits to ensure no gaps are present." alt="" coords="5,93,267,136"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="901,114,868,113,592,111,315,113,267,114,267,109,315,108,592,106,868,108,901,109"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_track_refinement_base_algorithm.html#ab7df0769d010eb10f532124b0693847e" title="Obtain the segment boundaries of the connecting line to test whether extrapolated hits are continuous..." alt="" coords="584,123,868,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="901,129,869,132,868,127,901,124"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_track_refinement_base_algorithm.html#a5d405ce4ca49c3fb833abb5255cb2c0f" title="Check whether the extrapolatedCaloHitVector contains a continuous line of hits between the cluster me..." alt="" coords="315,123,536,165"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="964,146,919,165,869,180,790,192,727,194,584,180,514,169,515,163,584,175,727,189,789,187,868,175,917,160,962,141"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="568,147,537,147,537,141,568,141"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="299,134,267,131,267,125,300,129"/>
+</map>

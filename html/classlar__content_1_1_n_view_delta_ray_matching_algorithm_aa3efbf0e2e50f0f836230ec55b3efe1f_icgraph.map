@@ -1,0 +1,5 @@
+<map id="lar_content::NViewDeltaRayMatchingAlgorithm::GetProjectedPositions" name="lar_content::NViewDeltaRayMatchingAlgorithm::GetProjectedPositions">
+<area shape="rect" id="Node000001" title="Use two clusters from different views to calculate projected positions in the remaining third view." alt="" coords="255,5,468,64"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_removal_base_tool.html#ac01d4e750e1104686b559b40edac09c5" title="Use two views of a delta ray pfo to calculate projected positions in a given third view." alt="" coords="5,13,207,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,37,207,37,207,32,239,32"/>
+</map>

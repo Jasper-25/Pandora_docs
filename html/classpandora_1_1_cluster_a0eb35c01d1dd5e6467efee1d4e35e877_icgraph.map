@@ -1,0 +1,26 @@
+<map id="pandora::Cluster::IsAvailable" name="pandora::Cluster::IsAvailable">
+<area shape="rect" id="Node000001" title="Whether the cluster is available to be added to a particle flow object." alt="" coords="821,267,1007,293"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_cluster_mop_up_base_algorithm.html#add8d3a4be610d0a144c12e045dfa612c" title="Get the two dimensional clusters contained in an input cluster list, divided into three different vie..." alt="" coords="551,72,755,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="892,256,842,196,808,165,772,137,733,118,735,113,775,132,812,160,845,193,896,252"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_three_view_track_fragments_algorithm.html#ad4c6a2350807c12ae4d59c406b2c5f0d" title="Get the list of hits associated with the projected positions and a useful hit to cluster map." alt="" coords="533,147,773,189"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="878,260,829,231,772,204,741,192,743,187,774,199,831,227,880,256"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_cluster_merging_algorithm.html#ac7e713e03d25baf72fedc1ad1a3caa17" title="Sort the selected clusters, so that they have a well&#45;defined ordering." alt="" coords="548,213,758,272"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="806,267,758,260,759,255,806,262"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_cluster_manager.html#a220111340583b95f42b24c20988ddcca" title=" " alt="" coords="570,296,736,339"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="806,298,737,308,737,303,806,293"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_three_view_remnants_algorithm.html#a1492c4e4f2e4b4d298f08e48109713e4" title="Select a subset of input clusters for processing in this algorithm." alt="" coords="547,363,759,405"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="877,304,829,329,774,353,741,365,739,360,772,348,827,324,875,299"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_three_view_showers_algorithm.html#ae945bd3478f3e37a900e8d7c33414459" title="Select a subset of input clusters for processing in this algorithm." alt="" coords="552,429,755,472"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="896,307,845,364,812,394,775,420,751,431,749,426,772,415,808,390,841,360,892,304"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_cluster_mop_up_base_algorithm.html#a9b5ae5f007c3e1b75ee49264d389e473" title="Get the two dimensional clusters contained in the input remant/daughter cluster lists,..." alt="" coords="229,5,485,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="540,71,454,51,455,46,541,65"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_cluster_mop_up_base_algorithm.html#a8802edc4d28a98104b61bb111325310f" title="Get the two dimensional clusters contained in the input pfo list, divided into three different views." alt="" coords="245,72,469,115"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="535,96,469,96,469,91,535,91"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_cluster_mop_up_base_algorithm.html#a13b3b10e76390a56a85880380ccf3bc7" title="Run the algorithm." alt="" coords="5,39,181,81"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="214,47,182,52,181,46,213,42"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="229,80,181,74,181,68,230,75"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_three_view_track_fragments_algorithm.html#ac4c5ebd63e3b54b7d65c81643a8de116" title="Calculate overlap result for track fragment candidate consisting of two sliding fit results and a lis..." alt="" coords="235,139,479,197"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="517,171,479,171,479,165,517,165"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_cluster_merging_algorithm.html#aa4ce6778279608ee960abab30f8a3e9f" title="Run the algorithm." alt="" coords="267,221,447,264"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="532,245,448,245,448,240,532,240"/>
+</map>

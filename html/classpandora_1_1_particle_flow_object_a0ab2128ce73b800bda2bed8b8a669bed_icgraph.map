@@ -1,0 +1,14 @@
+<map id="pandora::ParticleFlowObject::GetEnergy" name="pandora::ParticleFlowObject::GetEnergy">
+<area shape="rect" id="Node000001" title="Get the particle flow object energy." alt="" coords="734,55,919,97"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_master_algorithm.html#a6d95131b95ea12d436b9ecb216c038b5" title="Create a new pfo in the current pandora instance, based upon the provided input pfo." alt="" coords="498,12,686,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="719,59,686,53,687,48,720,54"/>
+<area shape="rect" id="Node000004" href="$classpandora__monitoring_1_1_pandora_monitoring.html#a1dbf0a1c06c9215bf493d0f781a6c9f1" title="Sort pfos by descending energy." alt="" coords="524,84,661,143"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="720,96,662,105,661,100,719,90"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_master_algorithm.html#a5e4808ff37d0fdeda42d718673ac14a7" title="Recreate a specified pfo in the current pandora instance." alt="" coords="257,5,445,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="482,33,445,32,445,27,483,28"/>
+<area shape="rect" id="Node000005" href="$classpandora__monitoring_1_1_pandora_monitoring.html#a57776172a0049baed050b7bd8c95878a" title="Add Particle flow objects to the Eve event&#45;display." alt="" coords="252,96,450,155"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="508,120,451,123,450,118,508,115"/>
+<area shape="poly" id="edge6_Node000005_Node000005" title=" " alt="" coords="390,84,375,77,351,75,330,77,316,81,309,88,309,96,303,96,304,85,313,77,329,71,351,69,376,72,392,79"/>
+<area shape="rect" id="Node000006" href="$class_pandora_monitoring_api.html#a2680ef7dc1ea556f1524b1d79e10ad9f" title="Add Particle flow objects to the Eve event&#45;display." alt="" coords="5,104,204,147"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="236,128,204,128,204,123,236,123"/>
+</map>

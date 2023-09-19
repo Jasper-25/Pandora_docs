@@ -1,0 +1,5 @@
+<map id="pandora::LArTransformationPlugin::GetMinChiSquaredYZ" name="pandora::LArTransformationPlugin::GetMinChiSquaredYZ">
+<area shape="rect" id="Node000001" title="Get the y, z position that yields the minimum chi squared value with respect to specified u,..." alt="" coords="248,5,438,48"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_hit_creation_base_tool.html#ad0d16e049b6e99100b39d491ad3b3750" title="Get the three dimensional position using a provided two dimensional calo hit and candidate fit positi..." alt="" coords="5,5,200,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="232,29,200,29,200,24,232,24"/>
+</map>

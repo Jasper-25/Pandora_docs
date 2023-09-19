@@ -1,0 +1,9 @@
+<map id="lar_content::ShowerHitsBaseTool::GetShowerHits3D" name="lar_content::ShowerHitsBaseTool::GetShowerHits3D">
+<area shape="rect" id="Node000001" title="Create three dimensional hits, using a list of input two dimensional hits and the hits (contained in ..." alt="" coords="5,72,195,115"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_three_d_hit_creation_algorithm_1_1_proto_hit.html#a3435a0d86e2165a485fa3b229e82e96d" title="Get the chi squared value." alt="" coords="252,5,450,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,69,253,50,254,55,184,74"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_shower_hits_base_tool.html#a0f28572d25b9b22301d35193a95da016" title="Get the three dimensional position for to a two dimensional calo hit, using the hit and a list of can..." alt="" coords="256,72,446,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="195,91,241,91,241,96,195,96"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_three_d_hit_creation_algorithm_1_1_proto_hit.html#a5b21120bf1564d55b3500e3f053b009e" title="Whether the proto hit position is set." alt="" coords="243,139,459,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="184,113,254,132,253,137,182,118"/>
+</map>

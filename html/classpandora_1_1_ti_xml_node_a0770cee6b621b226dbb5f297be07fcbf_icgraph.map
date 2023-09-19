@@ -1,0 +1,119 @@
+<map id="pandora::TiXmlNode::FirstChild" name="pandora::TiXmlNode::FirstChild">
+<area shape="rect" id="Node000001" title="The first child of this node. Will be null if there are no children." alt="" coords="997,740,1133,783"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_ti_xml_document.html#a16d4ab08eaf42d198a76ce49d6c3657b" title=" " alt="" coords="783,307,949,349"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1060,725,1055,650,1038,554,1023,503,1004,453,979,406,947,363,934,352,937,348,951,360,983,403,1009,451,1028,502,1043,553,1060,650,1066,724"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_ti_xml_element.html#a598c94bdcef9f308c657170d7a15a21e" title=" " alt="" coords="789,373,943,416"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1058,725,1049,662,1030,584,1015,542,997,502,974,464,947,430,933,419,936,415,951,426,978,461,1001,500,1020,540,1035,582,1054,661,1063,724"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_ti_xml_handle.html#a6b2c6bce202cb9c023b2e20bae699b43" title=" " alt="" coords="793,440,939,483"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1054,725,1042,675,1021,614,989,551,970,522,947,497,932,485,935,481,950,493,974,519,994,549,1025,612,1047,673,1060,724"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_ti_xml_handle.html#a574d23ff4f13026f6ce822ac234cd96c" title=" " alt="" coords="793,507,939,549"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1049,726,1033,689,1011,645,982,602,947,563,931,552,934,548,950,559,986,598,1015,642,1038,686,1054,724"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_ti_xml_handle.html#a4e5eaba7177abb6d44bdc86a2362070e" title="Return a handle to the first child node." alt="" coords="793,573,939,616"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1039,729,999,678,974,653,947,630,928,619,931,614,950,626,978,649,1003,675,1043,725"/>
+<area shape="rect" id="Node000071" href="$classpandora_1_1_ti_xml_handle.html#a25675b0ecd9105006baf57308c437e69" title="Return a handle to the first child node with the given name." alt="" coords="793,640,939,683"/>
+<area shape="poly" id="edge47_Node000001_Node000071" title=" " alt="" coords="1015,734,947,697,923,686,925,681,950,692,1017,730"/>
+<area shape="rect" id="Node000072" href="$classpandora_1_1_ti_xml_node.html#af00e05bbedec4a3e1a4eb1a9b4c201a4" title="Convenience function to get through elements." alt="" coords="798,873,934,916"/>
+<area shape="poly" id="edge48_Node000001_Node000072" title=" " alt="" coords="1021,794,901,875,898,871,1018,789"/>
+<area shape="rect" id="Node000079" href="$classpandora_1_1_ti_xml_node.html#a32717321dc11ee00a279c4d41771f303" title="Convenience function to get through elements." alt="" coords="798,773,934,816"/>
+<area shape="poly" id="edge55_Node000001_Node000079" title=" " alt="" coords="982,778,935,786,934,781,981,773"/>
+<area shape="rect" id="Node000080" href="$classpandora_1_1_ti_xml_element.html#ac30030547fca44cfb876380d7002aeb4" title=" " alt="" coords="789,707,943,749"/>
+<area shape="poly" id="edge56_Node000001_Node000080" title=" " alt="" coords="981,750,943,744,944,738,982,745"/>
+<area shape="rect" id="Node000081" href="$classpandora_1_1_ti_xml_node.html#a30d25ccfcac5aa77c68c7c27c7ce601c" title="This flavor of IterateChildren searches for children with a particular &#39;value&#39;." alt="" coords="798,940,934,983"/>
+<area shape="poly" id="edge63_Node000001_Node000081" title=" " alt="" coords="1049,798,1010,864,982,899,950,930,933,942,930,937,947,926,978,896,1005,861,1045,796"/>
+<area shape="rect" id="Node000082" href="$classpandora_1_1_ti_xml_node.html#aa5f6d6b1ebb1208e9f8b5fbde9a55706" title=" " alt="" coords="798,1007,934,1049"/>
+<area shape="poly" id="edge64_Node000001_Node000082" title=" " alt="" coords="1057,798,1043,843,1021,896,990,949,950,997,935,1008,931,1004,947,993,986,946,1016,893,1038,841,1052,797"/>
+<area shape="rect" id="Node000083" href="$classpandora_1_1_ti_xml_document.html#aa6308a74b34e9470c8653890e15ec568" title="Print this Document to a FILE stream." alt="" coords="783,1073,949,1116"/>
+<area shape="poly" id="edge65_Node000001_Node000083" title=" " alt="" coords="1062,798,1051,855,1030,926,998,999,976,1033,951,1063,936,1075,933,1071,947,1059,972,1029,993,996,1025,924,1045,854,1056,797"/>
+<area shape="rect" id="Node000084" href="$classpandora_1_1_ti_xml_printer.html#a998bf7d60bee5e72c3ad6f3239cd1fb2" title="Visit an element." alt="" coords="794,1140,938,1183"/>
+<area shape="poly" id="edge66_Node000001_Node000084" title=" " alt="" coords="1065,799,1057,867,1039,955,1024,1002,1005,1048,981,1091,951,1130,937,1142,933,1137,947,1126,976,1088,1000,1045,1019,1000,1034,954,1052,866,1059,798"/>
+<area shape="rect" id="Node000085" href="$classpandora_1_1_ti_xml_printer.html#a2d674550dd3c48a3bdd87587bfd8c034" title="Visit an element." alt="" coords="794,1207,938,1249"/>
+<area shape="poly" id="edge67_Node000001_Node000085" title=" " alt="" coords="1067,798,1063,878,1047,984,1033,1040,1012,1096,985,1149,951,1196,937,1208,934,1204,947,1193,981,1146,1007,1094,1028,1039,1042,983,1058,878,1061,798"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_histogram.html#a73201723b9a300db84827db9e969c2d9" title="Constructor." alt="" coords="289,405,424,448"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="785,566,781,563,770,550,764,536,759,509,753,484,746,473,734,462,698,441,658,427,617,417,575,411,494,410,424,417,424,411,494,405,576,406,618,411,660,421,700,437,737,458,750,469,757,482,764,508,769,534,775,547,785,559,788,562"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_xml_helper.html#a205d4b55f86d5af0ba996f94bd8eddaa" title="Process an algorithm described in an xml element with a matching &quot;description = ....." alt="" coords="561,205,694,248"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="782,564,781,563,758,523,750,484,752,446,758,409,765,372,766,336,757,299,733,262,715,247,693,237,696,233,718,243,737,258,762,297,771,335,770,373,764,410,757,447,755,484,763,521,786,560,786,561"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_xml_helper.html#abaf027ad6c54615415e3129598138cf2" title="Process a list of daughter algorithms in an xml file." alt="" coords="551,72,704,115"/>
+<area shape="poly" id="edge11_Node000006_Node000012" title=" " alt="" coords="782,564,781,563,763,534,750,505,743,477,741,449,747,395,759,341,771,289,776,236,773,210,766,183,753,156,733,128,720,116,703,107,705,102,723,112,737,125,757,153,771,181,778,209,781,236,777,290,764,343,752,396,747,449,749,476,755,503,767,531,786,560,786,561"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_xml_helper.html#ab8e223a4d8663e38cf36fe8b2301a217" title="Process an algorithm tool described in an xml element with a matching &quot;description = ...." alt="" coords="549,139,705,181"/>
+<area shape="poly" id="edge12_Node000006_Node000013" title=" " alt="" coords="782,564,781,563,765,538,754,514,746,467,749,420,759,375,768,330,771,286,768,264,761,241,750,218,733,195,720,183,704,175,707,170,723,179,737,192,755,215,766,239,773,262,776,286,773,331,764,376,755,421,751,466,759,512,770,536,785,560,786,561"/>
+<area shape="rect" id="Node000015" href="$classpandora_1_1_xml_helper.html#a76c04c5ba3039dff3b0d003521892579" title="Process a list of algorithms tools in an xml file." alt="" coords="539,272,716,315"/>
+<area shape="poly" id="edge14_Node000006_Node000015" title=" " alt="" coords="783,565,781,563,762,532,755,502,754,472,758,443,761,414,761,386,753,357,733,328,715,314,718,309,737,325,758,355,766,385,767,414,763,443,760,472,760,501,767,530,785,560,787,561"/>
+<area shape="rect" id="Node000019" href="$classlar__content_1_1_l_ar_mva_helper.html#a1d7ae5a2e8a5000cef87ff96953a80e4" title="Process a list of algorithms tools in an xml file, using a map. Idea is for this to go to XmlHelper i..." alt="" coords="519,573,735,616"/>
+<area shape="poly" id="edge18_Node000006_Node000019" title=" " alt="" coords="778,597,736,597,736,592,778,592"/>
+<area shape="rect" id="Node000021" href="$classpandora_1_1_xml_helper.html#a38b8f3ac236489c118e1e9875a8fb84d" title="Read a two&#45;dimensional array of values into a vector of vectors. Each row of values must be contained..." alt="" coords="544,507,710,549"/>
+<area shape="poly" id="edge20_Node000006_Node000021" title=" " alt="" coords="777,573,706,553,707,547,779,568"/>
+<area shape="rect" id="Node000022" href="$classpandora_1_1_two_d_histogram.html#ac90dbb61114c87a37dd94d39feec8906" title="Constructor." alt="" coords="273,472,440,515"/>
+<area shape="poly" id="edge46_Node000006_Node000022" title=" " alt="" coords="786,567,782,563,766,545,758,527,750,511,734,497,699,482,661,472,583,463,507,466,440,476,440,470,507,461,583,458,662,466,700,477,737,492,755,507,763,525,771,542,785,559,790,563"/>
+<area shape="rect" id="Node000023" href="$classpandora_1_1_xml_helper.html#ac71098b54bd0a6a7c99527ce1c83559b" title=" " alt="" coords="561,840,694,883"/>
+<area shape="poly" id="edge22_Node000006_Node000023" title=" " alt="" coords="787,628,785,630,769,655,762,680,761,704,763,729,765,754,763,779,755,804,737,830,718,845,695,855,693,850,715,840,733,826,750,802,758,778,760,754,758,729,756,704,757,679,764,653,781,626,783,625"/>
+<area shape="rect" id="Node000024" href="$classpandora_1_1_xml_helper.html#ac2d5bf5d86677d5d43c43f55cb0fdde2" title=" " alt="" coords="561,707,694,749"/>
+<area shape="poly" id="edge23_Node000006_Node000024" title=" " alt="" coords="790,627,785,630,770,646,762,663,753,680,737,697,696,717,693,712,734,693,749,677,757,661,766,643,782,626,786,622"/>
+<area shape="rect" id="Node000025" href="$classpandora_1_1_xml_helper.html#a4c31774825e5cb5d7f3f38eabb889b12" title="Read a value from an xml element." alt="" coords="561,640,694,683"/>
+<area shape="poly" id="edge24_Node000006_Node000025" title=" " alt="" coords="779,622,695,645,693,640,777,617"/>
+<area shape="rect" id="Node000064" href="$classpandora_1_1_xml_helper.html#ad335673d5e1172205cf122817c19e2aa" title=" " alt="" coords="561,773,694,816"/>
+<area shape="poly" id="edge42_Node000006_Node000064" title=" " alt="" coords="787,628,785,630,773,646,766,663,763,696,758,729,751,746,737,763,717,777,695,787,693,782,715,773,734,759,746,744,753,728,757,695,761,661,768,644,781,626,783,624"/>
+<area shape="rect" id="Node000065" href="$classpandora_1_1_xml_helper.html#a36263b047534b2003862cf5e6d12fa71" title="Read a vector of values from a (space separated) list in an xml element." alt="" coords="552,339,702,381"/>
+<area shape="poly" id="edge43_Node000006_Node000065" title=" " alt="" coords="783,565,781,563,767,542,759,521,757,481,755,441,748,422,733,402,719,389,702,380,704,375,722,385,737,398,752,419,760,440,762,480,764,520,771,540,785,560,787,561"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_xml_helper.html#a980ba5cc88ed49c3d10335573f99ba69" title="Process a single algorithm described in an xml file (the first found by the xml handle)" alt="" coords="277,72,436,115"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="545,210,517,195,501,180,493,165,484,150,469,135,435,117,437,112,473,131,488,147,497,162,506,177,521,191,547,205"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_three_view_track_fragments_algorithm.html#a56dd4f31d03c6ed3ef658119e4dab17e" title="Read the algorithm settings." alt="" coords="244,272,469,315"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="546,249,446,274,445,269,545,244"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_two_d_sliding_fit_consolidation_algorithm.html#ab6d9e68232de0dc63b980cb649f6860c" title="Read the algorithm settings." alt="" coords="272,189,441,248"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="545,227,441,224,441,218,545,222"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_xml_helper.html#ada261e673cac011b22573161a0eb2152" title="Process a single algorithm tool described in an xml file (the first found by the xml handle)" alt="" coords="265,5,448,48"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="534,139,517,129,501,112,493,94,485,78,469,62,447,49,449,45,473,58,489,75,497,92,505,109,521,125,537,134"/>
+<area shape="poly" id="edge16_Node000015_Node000010" title=" " alt="" coords="523,296,469,296,469,291,523,291"/>
+<area shape="rect" id="Node000016" href="$classlar__content_1_1_master_algorithm.html#ad004248f04cd97eb38b6932b093546ef" title="Read the algorithm settings." alt="" coords="5,597,194,640"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="524,267,517,262,500,240,494,217,487,197,480,188,470,180,409,150,381,142,354,138,328,140,301,147,273,160,243,179,218,208,195,254,173,312,154,377,124,505,107,597,102,596,119,504,149,375,168,311,190,252,214,205,240,175,270,156,299,142,327,135,354,133,382,137,410,145,472,175,484,184,492,194,499,216,505,238,521,258,527,262"/>
+<area shape="rect" id="Node000017" href="$classlar__content_1_1_trained_vertex_selection_algorithm.html#a68243bcb91d963da988466b9810b2924" title="Read the algorithm settings." alt="" coords="248,339,465,381"/>
+<area shape="poly" id="edge17_Node000015_Node000017" title=" " alt="" coords="524,321,447,341,445,335,523,316"/>
+<area shape="rect" id="Node000020" href="$classlar__content_1_1_mva_pfo_characterisation_algorithm.html#a137fa3242eb74dbb8c89b1ee16270910" title="Read the algorithm settings." alt="" coords="242,539,471,581"/>
+<area shape="poly" id="edge19_Node000019_Node000020" title=" " alt="" coords="503,582,471,577,472,572,504,576"/>
+<area shape="poly" id="edge21_Node000021_Node000022" title=" " alt="" coords="528,518,439,507,440,501,529,513"/>
+<area shape="poly" id="edge25_Node000025_Node000007" title=" " alt="" coords="545,649,517,630,501,608,494,587,493,544,491,502,484,482,469,462,448,447,423,437,425,432,450,442,473,458,489,480,497,501,498,544,499,586,506,606,521,626,548,644"/>
+<area shape="poly" id="edge37_Node000025_Node000010" title=" " alt="" coords="544,650,517,630,493,591,484,552,486,514,493,477,500,439,501,403,493,366,469,328,456,317,460,313,473,325,498,364,506,402,505,440,498,478,491,515,489,552,498,589,521,626,547,645"/>
+<area shape="poly" id="edge39_Node000025_Node000011" title=" " alt="" coords="545,650,530,642,517,630,500,606,488,582,481,559,479,535,482,490,491,444,501,399,504,354,502,331,496,309,485,285,469,262,456,249,440,239,443,235,459,245,473,258,490,283,501,307,507,330,510,354,506,400,496,445,487,490,484,535,487,558,493,580,504,603,521,626,533,637,548,646"/>
+<area shape="poly" id="edge30_Node000025_Node000016" title=" " alt="" coords="544,654,471,647,194,627,194,621,471,641,545,649"/>
+<area shape="poly" id="edge40_Node000025_Node000017" title=" " alt="" coords="544,649,517,630,497,600,489,569,489,540,493,510,496,481,496,452,488,424,469,395,456,384,459,380,473,392,493,422,501,452,502,481,498,511,494,540,494,569,502,597,521,626,548,645"/>
+<area shape="poly" id="edge38_Node000025_Node000020" title=" " alt="" coords="545,641,518,630,494,616,470,602,425,584,427,579,472,598,496,612,520,626,547,636"/>
+<area shape="poly" id="edge41_Node000025_Node000022" title=" " alt="" coords="544,647,517,630,506,617,498,604,493,578,487,553,480,541,469,529,439,511,441,506,473,525,485,537,492,551,498,577,503,602,510,614,521,626,547,642"/>
+<area shape="rect" id="Node000026" href="$classlar__content_1_1_ada_boost_decision_tree.html#a323b58bbaa269bbb1fb5943b85edc1e7" title="Initialize the bdt model." alt="" coords="256,656,457,699"/>
+<area shape="poly" id="edge26_Node000025_Node000026" title=" " alt="" coords="545,669,457,674,457,669,545,664"/>
+<area shape="rect" id="Node000027" href="$classlar__content_1_1_master_algorithm.html#a6a6fc093319e1692554558f2e966d51a" title="Read settings from external steering parameters block, if present, otherwise from xml as standard." alt="" coords="262,1189,451,1232"/>
+<area shape="poly" id="edge27_Node000025_Node000027" title=" " alt="" coords="547,677,533,685,521,696,500,727,486,757,478,787,476,817,483,877,498,936,513,995,520,1055,517,1086,509,1117,495,1148,473,1179,452,1196,449,1192,469,1176,490,1145,504,1115,512,1085,515,1055,508,996,493,937,478,878,471,817,473,787,481,756,495,724,517,693,530,681,545,672"/>
+<area shape="rect" id="Node000028" href="$classlar__content_1_1_cheating_slice_selection_tool.html#a8ea8a9bcb8e4aa2c6a2d3388b0c62e22" title="Read the algorithm settings." alt="" coords="264,723,449,765"/>
+<area shape="poly" id="edge29_Node000025_Node000028" title=" " alt="" coords="547,689,520,697,472,713,434,725,433,720,470,708,518,692,545,684"/>
+<area shape="rect" id="Node000029" href="$classlar__content_1_1_custom_particle_creation_algorithm.html#a978f79d0fb9b136ed3e1412d293eca9e" title="Read the algorithm settings." alt="" coords="251,789,462,832"/>
+<area shape="poly" id="edge31_Node000025_Node000029" title=" " alt="" coords="547,681,521,697,505,716,498,737,490,758,473,779,454,791,451,787,469,775,486,756,493,735,500,714,517,693,544,677"/>
+<area shape="rect" id="Node000030" href="$classlar__content_1_1_event_validation_base_algorithm.html#a5be3a52eb49b7a7f86996474d95e0c5c" title="Read the algorithm settings." alt="" coords="260,856,453,899"/>
+<area shape="poly" id="edge32_Node000025_Node000030" title=" " alt="" coords="547,679,521,697,507,714,500,732,498,770,495,808,488,827,473,846,454,860,451,855,469,842,483,824,490,806,492,769,495,731,502,712,517,693,544,675"/>
+<area shape="rect" id="Node000031" href="$classlar__content_1_1_cosmic_ray_base_matching_algorithm.html#a71e4da22492ad67cfdfa482a02379aab" title="Read the algorithm settings." alt="" coords="249,923,464,965"/>
+<area shape="poly" id="edge33_Node000025_Node000031" title=" " alt="" coords="548,678,521,697,503,723,495,749,495,776,498,803,501,830,500,857,492,885,473,912,459,924,456,920,469,909,487,883,495,856,495,830,493,803,490,776,490,748,498,721,517,693,545,673"/>
+<area shape="rect" id="Node000032" href="$classlar__content_1_1_n_view_delta_ray_matching_algorithm.html#afbd3d2636adf63bebe24ef6db5ad4124" title="Read the algorithm settings." alt="" coords="249,989,464,1032"/>
+<area shape="poly" id="edge34_Node000025_Node000032" title=" " alt="" coords="547,677,521,696,499,731,491,766,492,801,498,836,504,871,505,907,496,943,473,979,459,991,456,987,469,976,491,941,500,906,499,872,493,837,487,801,485,766,494,729,517,693,544,673"/>
+<area shape="rect" id="Node000033" href="$classlar__content_1_1_hit_creation_base_tool.html#a8be0a4da384dd91bc143b553953b14c7" title="Read the algorithm settings." alt="" coords="276,1056,437,1099"/>
+<area shape="poly" id="edge35_Node000025_Node000033" title=" " alt="" coords="548,677,533,685,521,696,505,718,495,740,486,783,489,826,498,869,507,912,510,956,501,1001,490,1023,473,1046,457,1060,438,1069,436,1064,454,1055,469,1042,485,1020,496,999,505,956,502,913,493,870,484,827,480,783,490,738,501,716,517,693,530,681,545,672"/>
+<area shape="rect" id="Node000036" href="$classlar__content_1_1_longitudinal_track_hits_base_tool.html#ab70800a24c2aa81771d7abb9b8d6a49d" title="Read the algorithm settings." alt="" coords="248,1123,465,1165"/>
+<area shape="poly" id="edge36_Node000025_Node000036" title=" " alt="" coords="547,677,533,685,521,696,503,723,490,749,483,775,481,800,486,851,498,902,510,954,515,1006,512,1032,505,1059,492,1085,473,1112,460,1124,457,1120,469,1109,488,1083,500,1057,507,1031,510,1006,505,955,493,904,481,852,476,800,478,774,485,747,498,720,517,693,530,681,545,672"/>
+<area shape="poly" id="edge28_Node000027_Node000016" title=" " alt="" coords="247,1186,240,1179,212,1136,187,1073,164,997,145,914,116,752,101,640,106,640,122,751,150,913,170,996,192,1072,216,1134,244,1176,251,1182"/>
+<area shape="poly" id="edge44_Node000065_Node000007" title=" " alt="" coords="537,385,425,413,423,408,536,380"/>
+<area shape="poly" id="edge45_Node000065_Node000017" title=" " alt="" coords="537,363,465,363,465,357,537,357"/>
+<area shape="rect" id="Node000073" href="$classpandora_1_1_ti_xml_handle.html#a9313b9e62a6488bfa7bde4405aab5de7" title=" " alt="" coords="554,907,700,949"/>
+<area shape="poly" id="edge49_Node000072_Node000073" title=" " alt="" coords="783,909,701,920,700,915,782,904"/>
+<area shape="rect" id="Node000074" href="$classpandora_1_1_ti_xml_handle.html#a233522bf550ed6c1e3df5e894677328e" title=" " alt="" coords="554,973,700,1016"/>
+<area shape="poly" id="edge50_Node000072_Node000074" title=" " alt="" coords="794,925,785,930,761,947,737,964,702,978,700,973,734,959,758,943,782,926,792,921"/>
+<area shape="rect" id="Node000075" href="$classpandora_1_1_ti_xml_handle.html#a056b70e1eb8abc650f3d7883e370e650" title="Return a handle to the first child element." alt="" coords="554,1040,700,1083"/>
+<area shape="poly" id="edge51_Node000072_Node000075" title=" " alt="" coords="788,927,785,930,768,954,762,979,756,1005,749,1017,737,1030,702,1050,699,1045,734,1026,744,1014,751,1003,757,978,764,952,781,926,785,923"/>
+<area shape="rect" id="Node000076" href="$classpandora_1_1_ti_xml_handle.html#ad5da0502c79daf751e9bc97e466ccf9d" title="Return a handle to the first child element with the given name." alt="" coords="554,1107,700,1149"/>
+<area shape="poly" id="edge52_Node000072_Node000076" title=" " alt="" coords="788,927,785,930,771,951,764,971,763,1012,761,1054,753,1075,737,1097,721,1109,702,1119,700,1114,718,1105,733,1093,748,1073,756,1053,758,1012,759,970,766,948,781,926,784,924"/>
+<area shape="rect" id="Node000077" href="$classpandora_1_1_ti_xml_document.html#acdb46eaa6bc34b9f5c0838a7d74384e9" title=" " alt="" coords="545,1173,710,1216"/>
+<area shape="poly" id="edge53_Node000072_Node000077" title=" " alt="" coords="788,927,785,930,767,959,760,988,760,1017,763,1045,767,1074,766,1104,757,1133,737,1163,712,1182,709,1177,733,1159,753,1131,761,1103,761,1075,758,1046,755,1017,755,987,762,957,781,926,784,924"/>
+<area shape="rect" id="Node000078" href="$classpandora_1_1_ti_xml_document.html#a84b4880e80b5ac0523fe13609503c990" title=" " alt="" coords="545,1240,710,1283"/>
+<area shape="poly" id="edge54_Node000072_Node000078" title=" " alt="" coords="788,927,786,930,763,968,756,1005,757,1042,764,1079,770,1116,771,1153,762,1191,737,1230,712,1249,709,1245,733,1226,757,1189,766,1153,765,1116,758,1080,752,1043,750,1005,758,966,781,926,784,923"/>
+<area shape="poly" id="edge57_Node000080_Node000021" title=" " alt="" coords="783,699,781,696,768,679,761,661,757,628,753,595,746,579,734,563,709,547,712,542,737,559,751,576,758,593,763,627,766,660,773,676,785,693,787,695"/>
+<area shape="poly" id="edge58_Node000080_Node000023" title=" " alt="" coords="790,760,785,763,770,780,762,796,753,813,737,830,696,850,693,846,734,826,749,810,757,794,766,777,782,759,786,756"/>
+<area shape="poly" id="edge59_Node000080_Node000024" title=" " alt="" coords="773,731,694,731,694,725,773,725"/>
+<area shape="poly" id="edge60_Node000080_Node000025" title=" " alt="" coords="773,705,694,683,695,677,775,700"/>
+<area shape="poly" id="edge61_Node000080_Node000064" title=" " alt="" coords="775,756,695,779,694,773,773,751"/>
+<area shape="poly" id="edge62_Node000080_Node000065" title=" " alt="" coords="783,698,781,696,763,671,754,646,750,623,749,600,749,551,744,525,733,496,714,463,692,433,649,383,653,380,696,429,719,460,738,494,749,523,754,551,755,599,755,622,759,645,768,668,785,693,787,695"/>
+</map>

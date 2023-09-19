@@ -1,0 +1,17 @@
+<map id="lar_content::LArPointingClusterHelper::IsNode" name="lar_content::LArPointingClusterHelper::IsNode">
+<area shape="rect" id="Node000001" title="Whether pointing vertex is adjacent to a given position." alt="" coords="832,105,993,148"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_shower_growing_algorithm.html#a701ca87340d0a0508f0337fe98dffb84" title="Whether a pointing cluster is assciated with a provided 2D vertex projection." alt="" coords="557,5,754,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="861,100,783,62,750,51,752,46,785,58,863,95"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_vertex_based_pfo_mop_up_algorithm.html#a4598da4cf6c03627ca0c533dd37126a1" title="Whether a specified pfo is associated with a specified vertex." alt="" coords="527,72,784,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="816,117,784,113,785,107,817,112"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_end_associated_pfos_tool.html#afaed9c5369e63ec8dda7c6ebd008d1d0" title="Run the algorithm tool." alt="" coords="565,139,746,181"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="817,142,747,151,747,146,817,136"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_vertex_associated_pfos_tool.html#a5baf85eaaf90d97effceabe73e0df55a" title="Run the algorithm tool." alt="" coords="558,205,754,248"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="863,158,785,196,752,207,750,202,783,191,861,153"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_vertex_based_pfo_mop_up_algorithm.html#a71ad6b63314e127c9561973be35d8dfb" title="Get the list of input pfos and divide them into vertex&#45;associated and non&#45;vertex&#45;associated lists." alt="" coords="241,39,460,81"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="511,80,460,75,461,69,512,75"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_vertex_based_pfo_mop_up_algorithm.html#ae27eac53ad717c7bd9469957f9fc7e11" title="Whether a specified pfo is associated with a specified vertex." alt="" coords="222,105,479,148"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="512,112,480,115,479,110,511,106"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_vertex_based_pfo_mop_up_algorithm.html#a9e188aee8a6b3ced1eb47c31b68bfd18" title="Run the algorithm." alt="" coords="5,39,174,81"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="225,63,174,63,174,57,225,57"/>
+</map>

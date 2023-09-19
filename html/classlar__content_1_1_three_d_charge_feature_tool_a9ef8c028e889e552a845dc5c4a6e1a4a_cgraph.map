@@ -1,0 +1,19 @@
+<map id="lar_content::ThreeDChargeFeatureTool::Run" name="lar_content::ThreeDChargeFeatureTool::Run">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,147,181,189"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_three_d_charge_feature_tool.html#ab074124bf166e9a8ea2c4de29aa58e76" title=" " alt="" coords="229,147,404,189"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,165,213,165,213,171,181,171"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_pfo_helper.html#aa787af8a9076523d5ac8fc72a0102760" title="Get a list of clusters of a particular hit type from a list of pfos." alt="" coords="485,29,654,72"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="346,144,394,112,451,82,470,74,472,79,453,86,397,117,349,148"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_process.html#abce8ef815d9d4bb3080be3c6a5d8de61" title="Get the instance name." alt="" coords="452,96,687,123"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="404,143,451,132,488,124,489,129,453,137,405,149"/>
+<area shape="rect" id="Node000005" href="$class_pandora_content_api.html#aeed1b08b9b265ce554250784193bdd54" title="Get the pandora settings instance." alt="" coords="499,147,640,189"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="405,165,483,165,483,171,405,171"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_process.html#a76435ee767be0d57159aa460ed6fc5a7" title="Get the type." alt="" coords="480,213,660,240"/>
+<area shape="poly" id="edge8_Node000002_Node000007" title=" " alt="" coords="405,187,453,199,489,207,488,212,451,204,404,193"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_pandora_settings.html#ab629c73e8638e7b4c9dfd48c7acaa38b" title="Whether to display algorithm information during processing." alt="" coords="476,264,663,307"/>
+<area shape="poly" id="edge9_Node000002_Node000008" title=" " alt="" coords="349,188,397,219,453,250,468,256,466,261,451,254,394,224,346,192"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="525,29,523,19,531,10,546,5,570,3,595,5,610,11,608,16,594,10,570,8,547,10,534,15,528,21,530,28"/>
+<area shape="rect" id="Node000006" href="$class_pandora_content_api.html#a564c7edc453a936e78fdd2102e870234" title="Replace the current list with a pre&#45;saved list; use this new list as a permanent replacement for the ..." alt="" coords="735,147,877,189"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="640,165,720,165,720,171,640,171"/>
+<area shape="poly" id="edge7_Node000006_Node000006" title=" " alt="" coords="761,147,759,137,767,128,783,122,806,120,831,122,846,129,844,134,830,128,806,125,784,127,770,132,765,138,766,146"/>
+</map>

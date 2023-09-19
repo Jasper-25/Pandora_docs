@@ -1,0 +1,18 @@
+<map id="lar_content::LArMCParticleHelper::GetAllDescendentMCParticles" name="lar_content::LArMCParticleHelper::GetAllDescendentMCParticles">
+<area shape="rect" id="Node000001" title="Get all descendent mc particles." alt="" coords="781,187,1024,229"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="950,174,933,168,902,165,875,167,858,172,851,178,853,185,848,187,846,177,855,167,874,162,903,160,934,162,952,169"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_hierarchy_helper_1_1_m_c_hierarchy_1_1_node.html#a28be42a53570fd6bce4cd04dd57c9d16" title="Fill this node by folding all descendent particles to this node." alt="" coords="523,5,702,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="866,178,806,127,732,78,701,64,703,59,735,74,809,123,869,174"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_hierarchy_helper_1_1_m_c_hierarchy_1_1_node.html#a4102227281a1c736a2636e099ebd068b" title="Recursively fill the hierarchy based on the criteria established for this MCHierarchy." alt="" coords="523,112,702,171"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="791,185,702,165,703,159,792,180"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_hierarchy_helper_1_1_m_c_hierarchy.html#ad5c077a1944b8d033f5ecd1a4dc4f245" title="Creates an MC hierarchy representation. Without folding this will be a mirror image of the standard M..." alt="" coords="222,153,443,196"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="766,203,443,184,443,178,766,197"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a34b48f7b99309cb2a3cbe23a11b5bf27" title="Get all descendent mc particles, separated into track&#45;like, shower&#45;like and neutron branches...." alt="" coords="491,245,733,288"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="780,236,722,247,721,242,779,230"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_l_ar_hierarchy_helper_1_1_m_c_hierarchy.html#a41c4a8dc1f65707696a7e1e4758d65e2" title="Interpret the hierarchy below a particular particle to determine if and how it should be folded...." alt="" coords="514,312,710,371"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="854,240,797,271,734,302,706,314,704,309,732,298,795,267,851,235"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="658,100,640,93,612,91,588,93,571,97,564,104,563,112,558,111,559,101,569,93,587,87,612,85,642,88,660,95"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="507,156,444,164,443,159,507,151"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_l_ar_hierarchy_helper.html#ad84a7f09d1da939af88e2afa4d6cc975" title="Fill an MC hierarchy based on the specified folding criteria (see MCHierarchy::FillHierarchy for deta..." alt="" coords="5,153,174,196"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="206,177,174,177,174,172,206,172"/>
+</map>

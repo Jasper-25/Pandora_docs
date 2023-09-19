@@ -1,0 +1,7 @@
+<map id="object_creation::ObjectCreationHelper::AlterMetadata" name="object_creation::ObjectCreationHelper::AlterMetadata">
+<area shape="rect" id="Node000001" title="Alter the metadata information stored in an object." alt="" coords="5,27,209,69"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_process.html#a7dd41c24ac856e2f41d5a0432eb99cd5" title="Get the associated pandora instance." alt="" coords="257,5,457,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,33,241,30,241,35,210,39"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_pandora.html#aa5163d5ee5d3b8e8ebffa80ac4cba5ba" title="Get the pandora content api impl." alt="" coords="257,56,457,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="210,57,241,61,241,66,209,63"/>
+</map>

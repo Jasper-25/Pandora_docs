@@ -1,0 +1,9 @@
+<map id="lar_content::VisualParticleMonitoringAlgorithm" name="lar_content::VisualParticleMonitoringAlgorithm">
+<area shape="rect" id="Node000001" title="VisualParticleMonitoringAlgorithm class." alt="" coords="5,248,179,291"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_algorithm.html" title="Algorithm class. Algorithm addresses are held only by the algorithm manager. They have a fully define..." alt="" coords="27,172,157,199"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,214,95,248,89,248,89,214"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_process.html" title="Process class." alt="" coords="30,96,154,123"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="95,138,95,172,89,172,89,138"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_pandora.html" title="Pandora class." alt="" coords="30,5,154,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="95,48,95,95,89,95,89,48"/>
+</map>

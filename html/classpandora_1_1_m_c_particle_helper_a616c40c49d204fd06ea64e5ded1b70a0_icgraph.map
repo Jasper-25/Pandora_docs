@@ -1,0 +1,60 @@
+<map id="pandora::MCParticleHelper::GetMainMCParticle" name="pandora::MCParticleHelper::GetMainMCParticle">
+<area shape="rect" id="Node000001" title="Find the mc particle making the largest contribution to a specified calo hit, track or cluster." alt="" coords="1201,339,1377,381"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_hierarchy_helper_1_1_m_c_hierarchy.html#ad5c077a1944b8d033f5ecd1a4dc4f245" title="Creates an MC hierarchy representation. Without folding this will be a mirror image of the standard M..." alt="" coords="927,5,1149,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1279,324,1265,266,1240,196,1203,124,1179,91,1151,62,1135,51,1138,46,1154,58,1183,87,1207,121,1245,193,1270,265,1284,323"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_m_c_particle_helper.html#a8b95e4f6de445840238cc43fd4059386" title=" " alt="" coords="950,72,1126,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1274,325,1256,280,1230,227,1195,174,1174,150,1151,129,1125,114,1128,109,1154,125,1178,146,1199,171,1235,224,1261,278,1279,323"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_m_c_particle_helper.html#ad64f7fa5de8925030908824179c77afd" title=" " alt="" coords="950,139,1126,181"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1264,327,1217,264,1186,231,1151,202,1118,184,1120,180,1154,198,1190,227,1221,260,1269,324"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#aa503b8f3406ee3d5c2ed14d6064aff22" title="Find the mc particle making the largest contribution to 2D clusters in a specified pfo." alt="" coords="652,139,831,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1257,329,1210,285,1182,264,1152,246,1030,219,831,180,832,174,1031,214,1154,242,1185,260,1213,281,1260,325"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a74de8876be56175c0837049f0d0d5451" title="Match calo hits to their parent particles." alt="" coords="934,256,1142,315"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1199,336,1138,318,1139,313,1201,331"/>
+<area shape="rect" id="Node000015" href="$classlar__content_1_1_l_ar_muon_leading_helper.html#afd710058ff8fe15e3a5c0bbc9ffd1a0f" title="Separate a leading pfo hit list according to the true owner of the hit e.g. other shower." alt="" coords="925,405,1151,448"/>
+<area shape="poly" id="edge16_Node000001_Node000015" title=" " alt="" coords="1192,388,1122,407,1120,402,1191,383"/>
+<area shape="rect" id="Node000016" href="$classlar__content_1_1_mva_pfo_characterisation_algorithm.html#a56004cd1d73d1c53f98832e34dadb2d6" title="Whether cluster is identified as a clear track." alt="" coords="923,472,1153,515"/>
+<area shape="poly" id="edge17_Node000001_Node000016" title=" " alt="" coords="1254,394,1208,429,1154,462,1126,474,1124,469,1151,458,1205,425,1251,389"/>
+<area shape="rect" id="Node000017" href="$classlar__content_1_1_transverse_matrix_visualization_tool.html#a25a891a8ffbf3f71c0f7fe9ca088c399" title="Run the algorithm tool." alt="" coords="942,539,1134,581"/>
+<area shape="poly" id="edge18_Node000001_Node000017" title=" " alt="" coords="1270,396,1223,464,1191,499,1154,529,1133,540,1131,536,1151,524,1187,495,1219,460,1266,393"/>
+<area shape="rect" id="Node000018" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a7917077e78aec683a9779d8f5bac1997" title="Select a subset of calo hits representing those that represent &quot;reconstructable&quot; regions of the event..." alt="" coords="949,339,1127,381"/>
+<area shape="poly" id="edge19_Node000001_Node000018" title=" " alt="" coords="1185,363,1127,363,1127,357,1185,357"/>
+<area shape="rect" id="Node000019" href="$classpandora__monitoring_1_1_pandora_monitoring.html#aa563ba64b2da3e07f948012b44dbedcf" title="Add CaloHits to the Eve event&#45;display." alt="" coords="969,605,1107,664"/>
+<area shape="poly" id="edge22_Node000001_Node000019" title=" " alt="" coords="1278,397,1260,442,1234,495,1198,549,1154,595,1132,610,1108,621,1106,616,1130,606,1151,591,1194,545,1229,492,1255,440,1273,395"/>
+<area shape="rect" id="Node000025" href="$classpandora__monitoring_1_1_pandora_monitoring.html#afa9da26acb81d032a4730efb84522395" title="Add Tracks to the Eve event&#45;display." alt="" coords="969,688,1107,747"/>
+<area shape="poly" id="edge29_Node000001_Node000025" title=" " alt="" coords="1284,397,1270,458,1246,533,1208,610,1183,646,1154,678,1132,694,1108,705,1106,700,1130,689,1151,674,1179,643,1203,607,1241,531,1265,456,1279,396"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_hierarchy_helper.html#ad84a7f09d1da939af88e2afa4d6cc975" title="Fill an MC hierarchy based on the specified folding criteria (see MCHierarchy::FillHierarchy for deta..." alt="" coords="657,5,825,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="912,29,826,29,826,24,912,24"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_mva_pfo_characterisation_algorithm.html#aa9ff9dd7f75bb29fd25d73fd8050a2f1" title="Whether pfo is identified as a clear track." alt="" coords="321,197,550,240"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="637,183,550,199,549,194,636,177"/>
+<area shape="poly" id="edge8_Node000008_Node000007" title=" " alt="" coords="919,255,875,247,791,236,705,229,550,222,551,217,705,223,791,231,876,241,920,250"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_l_ar_muon_leading_helper.html#a41d2056723e71ad44364c2a98f8feea5" title="Select target, reconstructable mc particles in the cosmic ray hierarchy." alt="" coords="620,256,862,315"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="919,288,863,288,863,283,919,283"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a32aa66741fdc5835f46ec0353ec7b1ca" title="Select target, reconstructable mc particles that match given criteria." alt="" coords="607,339,875,381"/>
+<area shape="poly" id="edge10_Node000008_Node000010" title=" " alt="" coords="920,318,876,329,831,341,830,335,875,324,919,313"/>
+<area shape="rect" id="Node000014" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a07190262e8db399b4426095d803b1b8a" title="Select target, reconstructable mc particles in the relevant hierarchy that match given criteria." alt="" coords="630,405,852,464"/>
+<area shape="poly" id="edge15_Node000008_Node000014" title=" " alt="" coords="930,325,925,329,910,345,902,361,893,379,877,395,854,409,851,405,874,391,889,375,897,359,906,342,922,325,927,321"/>
+<area shape="poly" id="edge14_Node000010_Node000007" title=" " alt="" coords="621,336,606,329,581,313,557,296,473,243,475,238,561,291,584,309,608,324,623,331"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_cosmic_ray_tagging_monitoring_tool.html#aa3904805678648d14de635dcb1b1e588" title="Find the list of ambiguous pfos (could represent cosmic&#45;ray muons or neutrinos)" alt="" coords="321,372,550,415"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="592,379,551,383,550,378,591,374"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_trained_vertex_selection_algorithm.html#a8830901c9a95cd0f1e2f223337abe492" title="Get the interaction type string." alt="" coords="312,305,559,348"/>
+<area shape="poly" id="edge12_Node000010_Node000012" title=" " alt="" coords="591,346,559,343,560,338,592,341"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_trained_vertex_selection_algorithm.html#a19474126585ba332e454985b680c68cd" title="Produce the region and vertex training sets." alt="" coords="5,305,264,348"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="296,329,264,329,264,324,296,324"/>
+<area shape="poly" id="edge20_Node000018_Node000010" title=" " alt="" coords="934,363,876,363,876,357,934,357"/>
+<area shape="poly" id="edge21_Node000018_Node000014" title=" " alt="" coords="936,388,853,409,852,404,935,383"/>
+<area shape="rect" id="Node000020" href="$class_pandora_monitoring_api.html#a488bf862808f77e5f34066268a3aa217" title="Add CaloHits to the Eve event&#45;display." alt="" coords="667,555,815,597"/>
+<area shape="poly" id="edge23_Node000019_Node000020" title=" " alt="" coords="953,621,815,593,816,588,954,616"/>
+<area shape="rect" id="Node000021" href="$classpandora__monitoring_1_1_pandora_monitoring.html#a8f13d4e39d4c31373e247c3f5212acc9" title="Add Clusters to the Eve event&#45;display." alt="" coords="673,621,810,680"/>
+<area shape="poly" id="edge24_Node000019_Node000021" title=" " alt="" coords="954,642,810,650,810,644,954,637"/>
+<area shape="rect" id="Node000022" href="$class_pandora_monitoring_api.html#a64d5b5abe95e69386873da784070e23e" title="Add Clusters to the Eve event&#45;display." alt="" coords="361,597,510,640"/>
+<area shape="poly" id="edge25_Node000021_Node000022" title=" " alt="" coords="657,645,510,629,510,624,657,639"/>
+<area shape="rect" id="Node000023" href="$classpandora__monitoring_1_1_pandora_monitoring.html#a57776172a0049baed050b7bd8c95878a" title="Add Particle flow objects to the Eve event&#45;display." alt="" coords="336,688,535,747"/>
+<area shape="poly" id="edge26_Node000021_Node000023" title=" " alt="" coords="658,671,535,698,534,693,657,666"/>
+<area shape="poly" id="edge28_Node000023_Node000023" title=" " alt="" coords="484,676,466,669,435,667,409,669,391,673,383,680,382,688,377,687,378,677,389,669,408,663,435,661,467,664,486,671"/>
+<area shape="rect" id="Node000024" href="$class_pandora_monitoring_api.html#a2680ef7dc1ea556f1524b1d79e10ad9f" title="Add Particle flow objects to the Eve event&#45;display." alt="" coords="35,696,234,739"/>
+<area shape="poly" id="edge27_Node000023_Node000024" title=" " alt="" coords="320,720,234,720,234,715,320,715"/>
+<area shape="poly" id="edge30_Node000025_Node000021" title=" " alt="" coords="954,701,809,669,811,663,955,696"/>
+<area shape="poly" id="edge31_Node000025_Node000023" title=" " alt="" coords="954,720,535,720,535,715,954,715"/>
+<area shape="rect" id="Node000026" href="$class_pandora_monitoring_api.html#a7505691fc464781ae6e7e27225df53b0" title="Add Tracks to the Eve event&#45;display." alt="" coords="667,755,815,797"/>
+<area shape="poly" id="edge32_Node000025_Node000026" title=" " alt="" coords="954,736,816,764,815,759,953,731"/>
+</map>

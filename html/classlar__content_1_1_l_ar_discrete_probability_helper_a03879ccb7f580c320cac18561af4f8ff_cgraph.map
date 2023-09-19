@@ -1,0 +1,7 @@
+<map id="lar_content::LArDiscreteProbabilityHelper::CalculateCorrelationCoefficientPValueFromPermutationTest" name="lar_content::LArDiscreteProbabilityHelper::CalculateCorrelationCoefficientPValueFromPermutationTest">
+<area shape="rect" id="Node000001" title="Calculate P value for measured correlation coefficient between two datasets via a permutation test." alt="" coords="5,5,316,64"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_discrete_probability_helper.html#adb58d30ea6df619b955ccb7b335bea3d" title="Calculate the correlation coefficient between two datasets." alt="" coords="364,5,545,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="316,32,348,32,348,37,316,37"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_discrete_probability_helper.html#adf0867b77eff0927df524f04a4fec7e8" title="Calculate the mean of a dataset." alt="" coords="593,13,806,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="545,32,577,32,577,37,545,37"/>
+</map>

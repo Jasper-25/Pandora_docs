@@ -1,0 +1,7 @@
+<map id="lar_content::NViewMatchingAlgorithm::GetSelectedClusterList" name="lar_content::NViewMatchingAlgorithm::GetSelectedClusterList">
+<area shape="rect" id="Node000001" title="Get the selected cluster list corresponding to a specified hit type." alt="" coords="301,43,519,85"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_three_view_track_fragments_algorithm.html#a18c830b8bfefedb0af402fd02fe902e7" title="Main loop over cluster combinations in order to populate the overlap container. Responsible for calli..." alt="" coords="5,5,253,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="285,50,253,46,254,41,286,45"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_three_view_track_fragments_algorithm.html#a29206ba2b154a1ca461873f70d095cff" title="Update to reflect addition of a new cluster to the problem space." alt="" coords="13,72,245,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="286,83,246,89,245,83,285,78"/>
+</map>

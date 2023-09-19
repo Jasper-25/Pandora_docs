@@ -1,0 +1,11 @@
+<map id="PandoraApi::Reset" name="PandoraApi::Reset">
+<area shape="rect" id="Node000001" title="Reset pandora to process another event." alt="" coords="509,35,639,61"/>
+<area shape="rect" id="Node000002" href="$namespacelar__reco.html#afc41d7024b1f9b11b819b3914de0daf1" title="Process events using the supplied pandora instances." alt="" coords="286,5,448,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="493,39,448,33,449,28,494,34"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_master_algorithm.html#a74d26f2198e4ea13ed5be24a2b2b0383" title="Reset all worker instances." alt="" coords="273,56,461,99"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="494,62,462,67,461,61,493,57"/>
+<area shape="rect" id="Node000003" href="$_pandora_interface_8cxx.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="90,5,140,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="270,21,140,21,140,16,270,16"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_master_algorithm.html#ab61b051a14d2431fa04900e52277ce96" title="Run the algorithm." alt="" coords="5,64,225,91"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="257,80,225,80,225,75,257,75"/>
+</map>

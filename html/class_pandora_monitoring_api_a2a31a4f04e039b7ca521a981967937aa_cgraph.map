@@ -1,0 +1,7 @@
+<map id="PandoraMonitoringApi::DrawPandoraHistogram" name="PandoraMonitoringApi::DrawPandoraHistogram">
+<area shape="rect" id="Node000001" title="Draw a pandora histogram." alt="" coords="5,55,171,97"/>
+<area shape="rect" id="Node000002" href="$classpandora__monitoring_1_1_pandora_monitoring.html#a73d2fe39c2100aa93636e72a38c1d8eb" title="Draw a pandora histogram." alt="" coords="219,5,384,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,57,203,51,204,56,171,63"/>
+<area shape="rect" id="Node000003" href="$classpandora__monitoring_1_1_pandora_monitoring.html#aeefdfb3a43a266bebcd08ef36b7263fb" title="Get the relevant pandora monitoring instance." alt="" coords="233,88,370,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="171,89,218,98,217,104,170,95"/>
+</map>

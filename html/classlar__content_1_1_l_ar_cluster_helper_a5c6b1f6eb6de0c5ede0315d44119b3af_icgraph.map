@@ -1,0 +1,22 @@
+<map id="lar_content::LArClusterHelper::SortHitsByPosition" name="lar_content::LArClusterHelper::SortHitsByPosition">
+<area shape="rect" id="Node000001" title="Sort calo hits by their position (use Z, followed by X, followed by Y)" alt="" coords="585,221,776,264"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_asymmetry_feature_base_tool.html#aff4189506686c470f8cf527e13bac13c" title="Calculate the asymmetry feature." alt="" coords="315,5,519,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="659,209,638,174,610,134,575,95,536,62,515,51,517,46,538,58,579,91,614,131,642,171,663,206"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_cluster_helper.html#adb32cfa9b9f747aec1173743ff837620" title="Get list of Calo hits from an input cluster that are contained in a bounding box. The hits are sorted..." alt="" coords="317,72,517,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="646,213,597,169,536,129,509,118,512,113,538,124,600,165,650,209"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_three_view_track_fragments_algorithm.html#a217a6d85b35f3d57c614784bec177237" title="Get the populated fragment overlap result." alt="" coords="306,139,528,197"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="587,219,522,200,523,195,589,214"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_three_view_track_fragments_algorithm.html#ad4c6a2350807c12ae4d59c406b2c5f0d" title="Get the list of hits associated with the projected positions and a useful hit to cluster map." alt="" coords="297,221,537,264"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="569,245,537,245,537,240,569,240"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_trained_vertex_selection_algorithm.html#a9dc33d47fb5b23ca044ec0b0ee1c53c5" title="Add the endpoints of any shower&#45;like clusters to the map." alt="" coords="304,288,530,347"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="589,271,523,290,522,285,587,266"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_delta_ray_shower_hits_tool.html#ae386e3543378931d17819153314e4379" title="Run the algorithm tool." alt="" coords="322,371,512,413"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="650,277,600,320,538,361,512,373,509,368,536,356,597,316,646,273"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_l_ar_cluster_helper.html#a4317c5b882e697d2f4d64c768c1dbd92" title="Sort calo hits by their position (use X, followed by Z, followed by Y)" alt="" coords="321,437,513,480"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="663,279,642,314,614,354,579,394,538,428,514,441,512,436,536,423,575,390,610,351,638,312,659,276"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_three_view_track_fragments_algorithm.html#ac4c5ebd63e3b54b7d65c81643a8de116" title="Calculate overlap result for track fragment candidate consisting of two sliding fit results and a lis..." alt="" coords="5,172,249,231"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="290,185,250,190,249,185,290,180"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="281,226,249,221,249,216,282,221"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_trained_vertex_selection_algorithm.html#aac3a43972b40bcba236703235f068117" title="Calculate the shower cluster map for a cluster list." alt="" coords="9,288,245,347"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="288,320,245,320,245,315,288,315"/>
+</map>

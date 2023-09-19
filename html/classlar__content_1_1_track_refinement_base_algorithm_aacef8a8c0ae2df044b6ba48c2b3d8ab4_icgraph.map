@@ -1,0 +1,5 @@
+<map id="lar_content::TrackRefinementBaseAlgorithm::AreExtrapolatedHitsNearBoundaries" name="lar_content::TrackRefinementBaseAlgorithm::AreExtrapolatedHitsNearBoundaries">
+<area shape="rect" id="Node000001" title="Check the separation of the extremal extrapolated hits with the expected endpoints or,..." alt="" coords="315,5,545,64"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_track_refinement_base_algorithm.html#affe8cf41267558fcadf2b61f3a7056bf" title="Perform topological checks on the collected hits to ensure no gaps are present." alt="" coords="5,13,267,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="299,37,267,37,267,32,299,32"/>
+</map>

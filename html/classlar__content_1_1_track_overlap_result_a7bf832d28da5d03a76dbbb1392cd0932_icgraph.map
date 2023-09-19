@@ -1,0 +1,18 @@
+<map id="lar_content::TrackOverlapResult::IsInitialized" name="lar_content::TrackOverlapResult::IsInitialized">
+<area shape="rect" id="Node000001" title="Whether the track overlap result has been initialized." alt="" coords="592,139,760,181"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_three_view_track_fragments_algorithm.html#a7818666ec35f8bd631303d1f002ce862" title="Calculate cluster overlap result and store in container." alt="" coords="301,35,544,93"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="610,135,543,108,512,96,514,91,545,103,612,130"/>
+<area shape="rect" id="Node000005" href="$namespacelar__content.html#acf223b9afeb209bd24df7340b8112e2e" title="Transverse overlap result + operator." alt="" coords="348,117,497,144"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="576,151,497,142,497,137,577,146"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_track_overlap_result.html#af25a2cd59ff3808abf53f4b2490b66f9" title="Track overlap result less than operator." alt="" coords="338,168,507,211"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="577,174,507,182,507,177,576,169"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_transverse_overlap_result.html#a97d6ba9be20342dc6f15f76e4078b223" title="Track overlap result assigment operator." alt="" coords="323,235,522,277"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="622,191,545,225,511,237,509,232,543,220,620,186"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="463,23,448,16,422,13,400,15,386,20,378,26,378,35,373,34,374,24,383,15,399,10,422,8,449,11,465,18"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_three_view_track_fragments_algorithm.html#a18c830b8bfefedb0af402fd02fe902e7" title="Main loop over cluster combinations in order to populate the overlap container. Responsible for calli..." alt="" coords="5,5,253,48"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="285,49,253,45,253,40,286,44"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_three_view_track_fragments_algorithm.html#a29206ba2b154a1ca461873f70d095cff" title="Update to reflect addition of a new cluster to the problem space." alt="" coords="13,72,245,131"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="286,84,245,89,245,84,285,79"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_delta_ray_overlap_result.html#aa3767d3392c8dda4703f4bd005e730aa" title="Track overlap result assigment operator." alt="" coords="34,235,224,277"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="307,259,224,259,224,253,307,253"/>
+</map>

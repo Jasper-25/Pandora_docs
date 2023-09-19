@@ -1,0 +1,9 @@
+<map id="lar_content::LArMuonLeadingHelper::GetClosestPositions" name="lar_content::LArMuonLeadingHelper::GetClosestPositions">
+<area shape="rect" id="Node000001" title="Get the closest positions between a list of positions and a cluster." alt="" coords="5,72,196,115"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_ordered_calo_hit_list.html#ae58fc438c3b46f296c9c8143cf20544a" title="Fill a provided calo hit list with all the calo hits in the ordered calo hit list." alt="" coords="248,5,433,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,69,246,50,247,55,180,74"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_cluster.html#a7d339731c79e90e04b56d6746a641fc8" title="Get the ordered calo hit list." alt="" coords="245,72,436,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="196,91,229,91,229,96,196,96"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_calo_hit.html#a3c682fba9b206078baacc18ee16fbeaf" title="Get the position vector of center of calorimeter cell, units mm." alt="" coords="244,139,437,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="180,113,247,131,246,137,179,118"/>
+</map>

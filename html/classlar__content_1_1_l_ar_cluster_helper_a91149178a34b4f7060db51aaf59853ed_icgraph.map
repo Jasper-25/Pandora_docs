@@ -1,0 +1,16 @@
+<map id="lar_content::LArClusterHelper::GetExtremalCoordinates" name="lar_content::LArClusterHelper::GetExtremalCoordinates">
+<area shape="rect" id="Node000001" title="Get positions of the two most distant calo hits in a list of cluster (ordered by Z)" alt="" coords="525,105,716,148"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="662,92,646,86,621,84,597,86,582,91,576,97,578,104,573,105,571,95,579,86,596,81,621,79,647,81,664,87"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_cluster_helper.html#a6a12e305fd8b0314c812fa50aaa4e5d4" title="Get positions of the two most distant calo hits in a cluster (ordered by Z)" alt="" coords="274,5,465,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="562,100,476,62,444,51,446,46,478,58,564,96"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_cluster_helper.html#acb971b1b779f84a1453c7e8f9b7db0a8" title="Get positions of the two most distant calo hits in an ordered calo hit list (ordered by Z)" alt="" coords="274,72,465,115"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="509,115,465,109,466,103,510,109"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_hit_width_helper.html#a0cec0e71e09f78b4fa5c3d1e313614f3" title="Calculate the higher and lower x extremal points of the constituent hits." alt="" coords="262,139,477,181"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="510,144,478,148,477,143,509,139"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_shower_growing_algorithm.html#a58f6e3806b6f739c0ed42a17b5f789b7" title="Sorting for clusters to determine order in which seeds are considered." alt="" coords="278,205,461,248"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="564,158,478,196,446,207,444,202,476,191,562,153"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_l_ar_hit_width_helper.html#a62914152ca1d5d4e72beac1452970e56" title="Return the higher x extremal point of the constituent hits." alt="" coords="5,89,214,148"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="246,143,214,138,214,133,247,138"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_l_ar_hit_width_helper.html#aee4ffcbd5bbf2cae661b0b74448c18d5" title="Return the lower x extremal point of the constituent hits." alt="" coords="5,172,214,231"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="247,182,214,187,214,182,246,177"/>
+</map>

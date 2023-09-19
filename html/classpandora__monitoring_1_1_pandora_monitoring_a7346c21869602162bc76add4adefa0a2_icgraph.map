@@ -1,0 +1,5 @@
+<map id="pandora_monitoring::PandoraMonitoring::AddMarkerToVisualization" name="pandora_monitoring::PandoraMonitoring::AddMarkerToVisualization">
+<area shape="rect" id="Node000001" title="Add marker to visualization." alt="" coords="234,5,414,64"/>
+<area shape="rect" id="Node000002" href="$class_pandora_monitoring_api.html#af653a4b789e3166741f99c35c977d2aa" title="Add marker to visualization." alt="" coords="5,13,186,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="218,37,186,37,186,32,218,32"/>
+</map>

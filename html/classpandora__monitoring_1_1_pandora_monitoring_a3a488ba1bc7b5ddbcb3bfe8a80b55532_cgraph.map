@@ -1,0 +1,5 @@
+<map id="pandora_monitoring::PandoraMonitoring::ViewEvent" name="pandora_monitoring::PandoraMonitoring::ViewEvent">
+<area shape="rect" id="Node000001" title="Show the Eve Event&#45;display and pause." alt="" coords="5,5,143,64"/>
+<area shape="rect" id="Node000002" href="$classpandora__monitoring_1_1_pandora_monitoring.html#af2a6eaf171b6ffd0f73b70fa41ce5711" title="Pause thread until user enters &#39;return&#39;." alt="" coords="191,5,328,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,32,175,32,175,37,143,37"/>
+</map>

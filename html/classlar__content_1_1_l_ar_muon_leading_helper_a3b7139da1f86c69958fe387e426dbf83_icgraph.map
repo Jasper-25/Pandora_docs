@@ -1,0 +1,6 @@
+<map id="lar_content::LArMuonLeadingHelper::GetClosestDistance" name="lar_content::LArMuonLeadingHelper::GetClosestDistance">
+<area shape="rect" id="Node000001" title="Get closest distance between a specified cluster and list of positions." alt="" coords="254,29,444,72"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="388,16,374,10,349,8,326,10,312,15,306,21,308,28,303,29,301,19,309,10,325,5,349,3,375,5,390,11"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_n_view_delta_ray_matching_algorithm.html#a7bb001ef18534b8fec3e27f3e1eb9cb9" title="In one view, pull out any hits from a cosmic ray cluster that belong to the child delta ray cluster." alt="" coords="5,21,206,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="238,53,206,53,206,48,238,48"/>
+</map>

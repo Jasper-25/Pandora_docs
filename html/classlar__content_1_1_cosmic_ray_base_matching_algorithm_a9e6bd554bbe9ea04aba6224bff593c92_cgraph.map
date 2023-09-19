@@ -1,0 +1,7 @@
+<map id="lar_content::CosmicRayBaseMatchingAlgorithm::Run" name="lar_content::CosmicRayBaseMatchingAlgorithm::Run">
+<area shape="rect" id="Node000001" title="Run the algorithm." alt="" coords="5,43,196,85"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_cosmic_ray_base_matching_algorithm.html#a85e07eeb14a0ef13fec561d7bc409483" title="Match a pair of clusters from two views." alt="" coords="244,5,465,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,47,228,43,228,48,196,53"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_cosmic_ray_base_matching_algorithm.html#a232e9c46dcf9add7e2913a2d5837793f" title="Select a set of clusters judged to be clean." alt="" coords="251,72,458,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="196,75,236,81,235,86,196,81"/>
+</map>

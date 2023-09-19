@@ -1,0 +1,11 @@
+<map id="lar_content::CosmicRayTaggingTool" name="lar_content::CosmicRayTaggingTool">
+<area shape="rect" id="Node000001" title="CosmicRayTaggingTool class." alt="" coords="5,340,235,367"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_cosmic_ray_tagging_base_tool.html" title="CosmicRayTaggingBaseTool class." alt="" coords="17,248,223,291"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,306,123,340,117,340,117,306"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_algorithm_tool.html" title="AlgorithmTool class. Algorithm tools will tend to be tailored for specific parent algorithms,..." alt="" coords="43,172,197,199"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="123,214,123,248,117,248,117,214"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_process.html" title="Process class." alt="" coords="58,96,182,123"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="123,138,123,172,117,172,117,138"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_pandora.html" title="Pandora class." alt="" coords="58,5,182,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="123,48,123,95,117,95,117,48"/>
+</map>

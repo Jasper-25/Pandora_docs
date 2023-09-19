@@ -1,0 +1,59 @@
+<map id="pandora_monitoring::PandoraMonitoring::VisualizeParticleFlowObjects" name="pandora_monitoring::PandoraMonitoring::VisualizeParticleFlowObjects">
+<area shape="rect" id="Node000001" title="Add Particle flow objects to the Eve event&#45;display." alt="" coords="5,377,204,436"/>
+<area shape="poly" id="edge27_Node000001_Node000001" title=" " alt="" coords="62,377,63,367,71,358,85,353,105,351,127,353,141,360,139,365,126,358,104,356,86,358,74,363,68,369,67,377"/>
+<area shape="rect" id="Node000002" href="$classpandora__monitoring_1_1_pandora_monitoring.html#a1dbf0a1c06c9215bf493d0f781a6c9f1" title="Sort pfos by descending energy." alt="" coords="252,141,389,200"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,375,280,210,284,213,135,379"/>
+<area shape="rect" id="Node000004" href="$classpandora__monitoring_1_1_pandora_monitoring.html#a8f13d4e39d4c31373e247c3f5212acc9" title="Add Clusters to the Eve event&#45;display." alt="" coords="252,289,389,348"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="177,374,236,350,238,355,179,379"/>
+<area shape="rect" id="Node000010" href="$classpandora__monitoring_1_1_pandora_monitoring.html#afa9da26acb81d032a4730efb84522395" title="Add Tracks to the Eve event&#45;display." alt="" coords="473,419,610,477"/>
+<area shape="poly" id="edge28_Node000001_Node000010" title=" " alt="" coords="204,413,458,437,457,443,204,419"/>
+<area shape="rect" id="Node000025" href="$classpandora__monitoring_1_1_pandora_monitoring.html#adef3cd233628c3d2954c98f0085a0ecf" title="Add vertices to the Eve event&#45;display." alt="" coords="473,815,610,873"/>
+<area shape="poly" id="edge29_Node000001_Node000025" title=" " alt="" coords="137,435,502,802,498,806,133,438"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_particle_flow_object.html#a0ab2128ce73b800bda2bed8b8a669bed" title="Get the particle flow object energy." alt="" coords="450,84,634,127"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="389,148,452,129,454,134,390,153"/>
+<area shape="rect" id="Node000005" href="$classpandora__monitoring_1_1_pandora_monitoring.html#af1427b9d2f90bc31f7c8ea5b4a3b5ad1" title="Sort clusters by descending hadronic energy." alt="" coords="437,151,646,209"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="350,287,389,252,436,219,443,215,446,219,438,224,392,256,353,291"/>
+<area shape="rect" id="Node000007" href="$classpandora__monitoring_1_1_pandora_monitoring.html#aa563ba64b2da3e07f948012b44dbedcf" title="Add CaloHits to the Eve event&#45;display." alt="" coords="473,233,610,292"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="389,299,457,281,459,286,390,304"/>
+<area shape="poly" id="edge9_Node000004_Node000010" title=" " alt="" coords="374,346,478,408,476,413,371,351"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_cluster.html#a2693cb404c534ea8c0e6c5ce71c863c9" title="Get the sum of hadronic energy measures of all constituent calo hits, units GeV." alt="" coords="701,5,897,48"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="628,148,645,137,660,117,668,98,675,78,693,58,698,54,701,59,696,62,680,81,672,100,665,120,648,141,632,152"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_m_c_particle_helper.html#a616c40c49d204fd06ea64e5ded1b70a0" title="Find the mc particle making the largest contribution to a specified calo hit, track or cluster." alt="" coords="711,72,887,115"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="609,242,645,219,661,196,667,173,674,149,692,125,697,121,700,125,696,129,679,151,673,174,666,199,648,223,612,246"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_m_c_particle.html#af3f0b7e1d41980a184f328b61d542dd0" title="Get the PDG code of the mc particle." alt="" coords="729,139,869,181"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="610,235,645,219,693,191,714,183,716,187,696,196,648,224,612,240"/>
+<area shape="poly" id="edge15_Node000010_Node000008" title=" " alt="" coords="567,416,607,365,644,303,654,277,658,253,660,210,665,168,675,147,692,125,696,121,700,125,696,128,680,150,671,170,665,210,663,254,659,278,649,305,611,368,572,420"/>
+<area shape="poly" id="edge18_Node000010_Node000009" title=" " alt="" coords="565,417,604,365,644,303,657,271,663,244,671,218,693,191,713,177,716,182,696,195,676,221,668,245,662,273,649,305,608,368,569,420"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_b_field_plugin.html#a60d5e05f3e47dbf0137ec207c9c1216a" title="Get the bfield value for a specified position vector." alt="" coords="725,205,873,248"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="562,416,628,328,663,286,693,258,709,248,712,253,696,262,667,289,632,331,566,420"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_plugin_manager.html#a436a70c392281f476525ebdef6e3f7fa" title="Get the address of the b field plugin." alt="" coords="718,272,880,315"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="571,416,626,370,693,324,704,319,706,324,696,329,629,374,575,420"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_pandora.html#ad592a184f071bcbb9b741c2e6bf4b1ec" title="Get the pandora geometry instance." alt="" coords="694,339,904,365"/>
+<area shape="poly" id="edge12_Node000010_Node000013" title=" " alt="" coords="599,416,693,375,717,367,719,372,695,380,601,421"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_cartesian_vector.html#a9ad3f33ea1192ed990e40786864af672" title="Get the magnitude." alt="" coords="715,389,883,432"/>
+<area shape="poly" id="edge13_Node000010_Node000014" title=" " alt="" coords="611,435,699,422,700,428,611,441"/>
+<area shape="rect" id="Node000016" href="$classpandora_1_1_sub_detector.html#a6bddb336ccc0e3e2089a6f9318e8cca6" title="Get the outer cylindrical polar r coordinate, origin interaction point, units mm." alt="" coords="722,539,876,581"/>
+<area shape="poly" id="edge16_Node000010_Node000016" title=" " alt="" coords="596,475,695,524,711,530,709,535,693,529,594,480"/>
+<area shape="rect" id="Node000017" href="$classpandora_1_1_sub_detector.html#a8756e4f12eacbb8a521f64a31ee29942" title="Get the outer cylindrical polar z coordinate, origin interaction point, units mm." alt="" coords="723,605,875,648"/>
+<area shape="poly" id="edge17_Node000010_Node000017" title=" " alt="" coords="569,476,623,534,658,565,696,591,710,599,708,604,693,596,655,569,620,538,565,480"/>
+<area shape="rect" id="Node000018" href="$classpandora_1_1_pandora.html#adb998d96cc062e649ce235434d7c5340" title="Get the pandora plugin instance, providing access to user registered functions and calculators." alt="" coords="701,672,897,699"/>
+<area shape="poly" id="edge19_Node000010_Node000018" title=" " alt="" coords="558,477,579,518,610,567,649,617,696,658,704,663,701,667,693,662,645,620,605,570,575,521,553,479"/>
+<area shape="rect" id="Node000019" href="$classpandora_1_1_geometry_manager.html#a7c4d089e1295f8aed438f86d9b6e6573" title="Get the sub detector corresponding to a specified name." alt="" coords="708,723,890,765"/>
+<area shape="poly" id="edge20_Node000010_Node000019" title=" " alt="" coords="555,477,574,527,603,590,644,654,668,683,696,709,701,712,697,716,693,713,665,687,640,657,598,592,569,529,550,479"/>
+<area shape="rect" id="Node000020" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="715,789,883,832"/>
+<area shape="poly" id="edge21_Node000010_Node000020" title=" " alt="" coords="551,477,566,539,594,620,613,662,636,703,664,742,696,775,703,781,700,785,693,779,660,745,632,706,608,664,589,622,561,541,546,478"/>
+<area shape="rect" id="Node000021" href="$classpandora_1_1_cartesian_vector.html#ac659e980ff25060906bd85497c49d081" title="Get the cartesian y coordinate." alt="" coords="715,856,883,899"/>
+<area shape="poly" id="edge22_Node000010_Node000021" title=" " alt="" coords="548,477,560,551,585,649,604,701,629,752,659,800,696,842,704,848,700,852,692,846,655,803,624,755,599,703,580,650,554,552,543,478"/>
+<area shape="rect" id="Node000022" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="715,923,883,965"/>
+<area shape="poly" id="edge23_Node000010_Node000022" title=" " alt="" coords="554,477,623,718,665,842,682,886,696,909,704,915,700,919,692,912,678,888,660,844,618,719,548,478"/>
+<area shape="rect" id="Node000023" href="$classpandora__monitoring_1_1_pandora_monitoring.html#acda0c3c90ce9589b033e7ab9ebf016ba" title="Sort tracks by descending momentum." alt="" coords="712,456,886,515"/>
+<area shape="poly" id="edge24_Node000010_Node000023" title=" " alt="" coords="611,455,697,468,696,473,611,461"/>
+<area shape="rect" id="Node000015" href="$classpandora_1_1_cartesian_vector.html#a311c121184ef7085d43e58f5f2fce3b7" title="Get the magnitude squared." alt="" coords="968,393,1137,436"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="884,409,953,410,953,416,884,415"/>
+<area shape="poly" id="edge25_Node000023_Node000015" title=" " alt="" coords="886,459,958,438,959,443,887,464"/>
+<area shape="rect" id="Node000024" href="$classpandora_1_1_track.html#a5bb721a7c64fcbf30c83cda0c28e2f11" title="Get the track momentum at the 2D distance of closest approach." alt="" coords="952,464,1153,507"/>
+<area shape="poly" id="edge26_Node000023_Node000024" title=" " alt="" coords="886,483,936,483,936,488,886,488"/>
+<area shape="poly" id="edge30_Node000025_Node000020" title=" " alt="" coords="611,832,699,821,700,826,611,838"/>
+<area shape="poly" id="edge31_Node000025_Node000021" title=" " alt="" coords="611,850,700,862,699,867,611,856"/>
+<area shape="poly" id="edge32_Node000025_Node000022" title=" " alt="" coords="608,871,695,908,713,915,711,920,693,913,606,876"/>
+</map>

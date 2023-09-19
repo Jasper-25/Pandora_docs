@@ -1,0 +1,26 @@
+<map id="lar_content::BeamParticleIdTool::SelectOutputPfos" name="lar_content::BeamParticleIdTool::SelectOutputPfos">
+<area shape="rect" id="Node000001" title="Select which reconstruction hypotheses to use; neutrino outcomes or cosmic&#45;ray muon outcomes for each..." alt="" coords="5,187,177,229"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_particle_flow_object.html#a634150799b48c9ae61ac82408b54ad35" title="Alter particle flow object metadata parameters." alt="" coords="225,5,409,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,185,152,123,186,88,223,58,230,54,233,58,226,62,189,92,156,126,109,188"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_l_ar_pfo_helper.html#a04ee63638ae6f53e337c543a96baad41" title="Get a flat list of all pfos, recursively including all daughters and parents associated with those pf..." alt="" coords="232,96,402,139"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="140,184,224,148,239,142,241,147,226,153,142,189"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_l_ar_pfo_helper.html#accc433f9d78994d474b8d9de9bb189c7" title="Get a list of calo hits of a particular hit type from a list of pfos." alt="" coords="232,187,402,229"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="177,205,217,205,217,211,177,211"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_cartesian_vector.html#aab719f9b9e310b8ab5be63c573d662c5" title="Get the opening angle of the cartesian vector with respect to a second cartesian vector." alt="" coords="233,253,401,296"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="166,227,228,246,226,251,165,232"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_l_ar_pca_helper.html#adfc1dab0d77bd222118ff2a464b0ce48" title="Run principal component analysis using input calo hits (TPC_VIEW_U,V,W or TPC_3D; all treated as 3D p..." alt="" coords="230,344,404,387"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="121,228,226,306,268,333,265,338,223,310,118,232"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_particle_flow_object.html#a1a7dfb68cb8bf6bf793b9a0d0d5b9e6a" title="Update the properties map." alt="" coords="459,5,643,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="409,24,443,24,443,29,409,29"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="274,96,272,86,279,77,294,71,317,69,341,72,356,78,353,83,340,77,317,75,296,77,282,81,277,87,279,95"/>
+<area shape="poly" id="edge6_Node000005_Node000005" title=" " alt="" coords="274,187,272,177,279,168,294,162,317,160,341,162,356,169,353,174,340,168,317,165,296,167,282,172,277,178,279,186"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_cartesian_vector.html#a1640175e55c87c75dce0e87493ec8412" title="Get the cosine of the opening angle of the cartesian vector with respect to a second cartesian vector..." alt="" coords="467,253,635,296"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="401,272,451,272,451,277,401,277"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_cartesian_vector.html#a808964415bdc48dde539af3363b63a24" title="Get the dot product of the cartesian vector with a second cartesian vector." alt="" coords="693,220,862,263"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="635,260,677,253,678,259,636,265"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_cartesian_vector.html#a311c121184ef7085d43e58f5f2fce3b7" title="Get the magnitude squared." alt="" coords="693,287,862,329"/>
+<area shape="poly" id="edge10_Node000007_Node000009" title=" " alt="" coords="636,284,678,291,677,296,635,290"/>
+<area shape="poly" id="edge13_Node000010_Node000010" title=" " alt="" coords="274,344,272,334,279,325,294,319,317,317,341,320,356,326,353,331,340,325,317,323,296,325,282,329,277,335,279,343"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_l_ar_object_helper_1_1_type_adaptor.html#a426cd23365d522a7d8a5bfe1a09669e4" title="Get the associated position." alt="" coords="457,344,645,387"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="404,363,441,363,441,368,404,368"/>
+</map>

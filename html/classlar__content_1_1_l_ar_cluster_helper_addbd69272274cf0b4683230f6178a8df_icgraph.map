@@ -1,0 +1,5 @@
+<map id="lar_content::LArClusterHelper::GetLayerOccupancy" name="lar_content::LArClusterHelper::GetLayerOccupancy">
+<area shape="rect" id="Node000001" title="Fraction of occupied layers in cluster." alt="" coords="211,13,402,56"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_l_ar_particle_id_plugins_1_1_l_ar_muon_id.html#a2e2dec9f94d5581106b0d6dc1596ffa6" title="Whether the cluster matches the specific particle hypothesis." alt="" coords="5,5,163,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,37,163,37,163,32,195,32"/>
+</map>

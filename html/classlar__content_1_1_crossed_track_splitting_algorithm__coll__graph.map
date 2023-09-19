@@ -1,0 +1,11 @@
+<map id="lar_content::CrossedTrackSplittingAlgorithm" name="lar_content::CrossedTrackSplittingAlgorithm">
+<area shape="rect" id="Node000001" title="CrossedTrackSplittingAlgorithm class." alt="" coords="27,340,201,383"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_two_d_sliding_fit_splitting_and_switching_algorithm.html" title="TwoDSlidingFitSplittingAndSwitchingAlgorithm class." alt="" coords="5,248,223,291"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,306,117,340,111,340,111,306"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_algorithm.html" title="Algorithm class. Algorithm addresses are held only by the algorithm manager. They have a fully define..." alt="" coords="49,172,179,199"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="117,214,117,248,111,248,111,214"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_process.html" title="Process class." alt="" coords="52,96,176,123"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="117,138,117,172,111,172,111,138"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_pandora.html" title="Pandora class." alt="" coords="52,5,176,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="117,48,117,95,111,95,111,48"/>
+</map>

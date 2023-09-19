@@ -1,0 +1,15 @@
+<map id="pandora::TiXmlPrinter::VisitEnter" name="pandora::TiXmlPrinter::VisitEnter">
+<area shape="rect" id="Node000001" title="Visit an element." alt="" coords="5,172,150,215"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_ti_xml_text.html#a3ef8b966de8f411ddd0501bac5a0a903" title="Queries whether this represents text using a CDATA section." alt="" coords="210,5,341,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,170,135,115,164,85,196,58,202,54,205,58,199,62,167,89,139,119,96,173"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_ti_xml_node.html#a0770cee6b621b226dbb5f297be07fcbf" title="The first child of this node. Will be null if there are no children." alt="" coords="207,72,344,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="115,169,196,124,207,119,209,124,199,129,117,174"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_ti_xml_node.html#a0600bdc4c627811fcb9f22935f06d7ff" title=" " alt="" coords="207,139,344,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="149,179,191,171,192,177,150,184"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_ti_xml_attribute.html#aad373623e5dcd472083cb0c48438afc2" title="Get the next sibling attribute in the DOM. Returns null at end." alt="" coords="198,205,353,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="150,203,183,208,182,214,149,208"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_ti_xml_node.html#a8caab284c224f0d4726ebf175bf66c5e" title="Cast to a more defined type. Will return null if not of the requested type." alt="" coords="207,272,344,315"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="117,213,199,258,209,263,207,267,196,262,115,218"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_ti_xml_node.html#ac3eec12e25197da0dec780fbeb3a4d29" title=" " alt="" coords="207,339,344,381"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="96,213,139,268,167,298,199,325,205,328,202,333,196,329,164,302,135,271,91,217"/>
+</map>

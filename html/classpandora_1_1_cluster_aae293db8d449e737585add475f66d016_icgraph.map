@@ -1,0 +1,9 @@
+<map id="pandora::Cluster::GetIsolatedCaloHitList" name="pandora::Cluster::GetIsolatedCaloHitList">
+<area shape="rect" id="Node000001" title="Get the isolated calo hit list." alt="" coords="251,80,441,123"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_cluster.html#a0e8a51a56b64088ce690e3e7d57e4a45" title="Add the calo hits from a second cluster to this." alt="" coords="19,5,189,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="259,77,175,51,177,46,260,72"/>
+<area shape="rect" id="Node000003" href="$classlar__dl__content_1_1_dl_track_shower_stream_selection_algorithm.html#a1f2aba2da2c84ac2b552c6d93c2a1e5b" title="Allocate a cluster to the appropriate streams." alt="" coords="5,72,203,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="235,104,203,104,203,99,235,99"/>
+<area shape="rect" id="Node000004" href="$classlar__dl__content_1_1_dl_cluster_characterisation_algorithm.html#a2af9ec06bd2ad7a9a0c568d8f36482c2" title="Whether cluster is identified as a clear track." alt="" coords="19,155,189,213"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="267,131,191,157,189,152,266,126"/>
+</map>

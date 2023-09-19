@@ -1,0 +1,35 @@
+<map id="PandoraMonitoringApi::VisualizeMCParticles" name="PandoraMonitoringApi::VisualizeMCParticles">
+<area shape="rect" id="Node000001" title="Add MCParticles to the Eve event&#45;display." alt="" coords="5,311,159,353"/>
+<area shape="rect" id="Node000002" href="$classpandora__monitoring_1_1_pandora_monitoring.html#aeefdfb3a43a266bebcd08ef36b7263fb" title="Get the relevant pandora monitoring instance." alt="" coords="215,261,352,320"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,314,199,305,200,310,160,319"/>
+<area shape="rect" id="Node000003" href="$classpandora__monitoring_1_1_pandora_monitoring.html#a85a2ea83f433b7a975f41d97de31b1de" title="Add MC particles to the Eve event&#45;display." alt="" coords="207,344,360,403"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="160,345,192,352,191,357,158,350"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_b_field_plugin.html#a60d5e05f3e47dbf0137ec207c9c1216a" title="Get the bfield value for a specified position vector." alt="" coords="439,5,587,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="347,342,358,330,377,295,384,260,383,227,378,194,374,161,374,127,383,93,406,58,423,44,426,48,410,62,388,95,379,128,379,160,383,193,388,226,389,261,382,296,362,334,351,345"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_plugin_manager.html#a436a70c392281f476525ebdef6e3f7fa" title="Get the address of the b field plugin." alt="" coords="432,72,593,115"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="347,342,358,330,373,304,380,278,379,227,377,202,379,177,388,151,406,125,417,115,420,119,410,128,392,153,384,178,383,202,384,227,385,278,378,306,362,334,351,345"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_pandora.html#ad592a184f071bcbb9b741c2e6bf4b1ec" title="Get the pandora geometry instance." alt="" coords="408,139,617,165"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="347,342,358,330,371,310,377,291,379,252,382,214,390,194,406,175,410,172,414,176,410,179,395,197,387,215,384,252,382,292,375,312,362,334,350,345"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_cartesian_vector.html#a9ad3f33ea1192ed990e40786864af672" title="Get the magnitude." alt="" coords="429,189,597,232"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="345,341,358,330,374,308,380,286,388,264,406,242,414,236,417,241,410,246,393,267,385,288,378,310,362,334,348,346"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_sub_detector.html#a6bddb336ccc0e3e2089a6f9318e8cca6" title="Get the outer cylindrical polar r coordinate, origin interaction point, units mm." alt="" coords="436,256,589,299"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="338,341,407,308,424,302,425,307,409,313,340,346"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_sub_detector.html#a8756e4f12eacbb8a521f64a31ee29942" title="Get the outer cylindrical polar z coordinate, origin interaction point, units mm." alt="" coords="437,323,588,365"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="360,361,422,353,422,358,360,366"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_pandora.html#adb998d96cc062e649ce235434d7c5340" title="Get the pandora plugin instance, providing access to user registered functions and calculators." alt="" coords="415,389,610,416"/>
+<area shape="poly" id="edge10_Node000003_Node000011" title=" " alt="" coords="360,380,400,386,399,391,360,386"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_geometry_manager.html#a7c4d089e1295f8aed438f86d9b6e6573" title="Get the sub detector corresponding to a specified name." alt="" coords="422,440,604,483"/>
+<area shape="poly" id="edge11_Node000003_Node000012" title=" " alt="" coords="350,401,409,426,427,432,425,437,407,430,348,406"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_cartesian_vector.html#a33ade0b98f73b304086f719e042146d2" title="Get the cartesian x coordinate." alt="" coords="429,507,597,549"/>
+<area shape="poly" id="edge12_Node000003_Node000013" title=" " alt="" coords="310,401,353,448,380,472,409,492,418,497,416,502,407,497,377,476,350,452,306,405"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_cartesian_vector.html#ac659e980ff25060906bd85497c49d081" title="Get the cartesian y coordinate." alt="" coords="429,573,597,616"/>
+<area shape="poly" id="edge13_Node000003_Node000014" title=" " alt="" coords="299,402,316,438,341,481,372,523,410,559,417,564,414,569,406,563,368,526,336,484,312,441,294,404"/>
+<area shape="rect" id="Node000015" href="$classpandora_1_1_cartesian_vector.html#a7b2fa76a298fca127aa9ff159c62f6a8" title="Get the cartesian z coordinate." alt="" coords="429,640,597,683"/>
+<area shape="poly" id="edge14_Node000003_Node000015" title=" " alt="" coords="294,402,307,451,330,511,364,573,385,601,410,626,417,631,413,636,406,630,381,605,360,576,325,514,302,453,288,404"/>
+<area shape="rect" id="Node000016" href="$classpandora__monitoring_1_1_pandora_monitoring.html#a453ad5c8eed2ddb606e46cebc22f1c26" title="Sort MCParticles by descending energy." alt="" coords="422,707,603,765"/>
+<area shape="poly" id="edge15_Node000003_Node000016" title=" " alt="" coords="291,403,302,463,323,540,339,581,358,621,382,659,410,693,412,695,408,699,406,696,377,662,353,624,334,583,318,542,296,464,286,404"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_cartesian_vector.html#a311c121184ef7085d43e58f5f2fce3b7" title="Get the magnitude squared." alt="" coords="665,189,834,232"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="597,208,650,208,650,213,597,213"/>
+<area shape="rect" id="Node000017" href="$classpandora_1_1_m_c_particle.html#a4ab7e3a1a32d98917ba7b8cd0bc08c51" title="Get energy of mc particle, units GeV." alt="" coords="680,715,819,757"/>
+<area shape="poly" id="edge16_Node000016_Node000017" title=" " alt="" coords="604,733,664,733,664,739,604,739"/>
+</map>

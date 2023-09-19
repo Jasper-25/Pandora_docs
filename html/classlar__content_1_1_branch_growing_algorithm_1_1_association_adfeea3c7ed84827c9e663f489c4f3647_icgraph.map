@@ -1,0 +1,7 @@
+<map id="lar_content::BranchGrowingAlgorithm::Association::GetType" name="lar_content::BranchGrowingAlgorithm::Association::GetType">
+<area shape="rect" id="Node000001" title="Get association type." alt="" coords="276,31,457,89"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_branch_growing_algorithm.html#a4518213c44fdad9a8bc836fc1b719058" title="Find clusters associated with a particle seed." alt="" coords="5,5,228,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="260,49,228,44,228,39,261,43"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_branch_growing_algorithm.html#aff0ebb3a6d6b7d65446579323d0d917c" title="Identify cluster merges." alt="" coords="12,72,221,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="261,77,222,82,221,77,260,71"/>
+</map>

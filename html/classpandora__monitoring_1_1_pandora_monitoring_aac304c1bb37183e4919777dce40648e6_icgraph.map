@@ -1,0 +1,5 @@
+<map id="pandora_monitoring::PandoraMonitoring::DeleteInstance" name="pandora_monitoring::PandoraMonitoring::DeleteInstance">
+<area shape="rect" id="Node000001" title="Delete instance of PandoraMonitoring." alt="" coords="202,5,339,64"/>
+<area shape="rect" id="Node000002" href="$class_pandora_monitoring_api.html#ad8ec7f84f493248225601c83851d3272" title="Delete monitoring instance, terminating its associated ROOT TApplication (unless it is in use by anot..." alt="" coords="5,13,154,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,37,154,37,154,32,186,32"/>
+</map>

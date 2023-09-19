@@ -1,0 +1,233 @@
+--------------------------------------------------------------------------------------------------------------------------------------------
+TAG v03-04-01
+--------------------------------------------------------------------------------------------------------------------------------------------
+Caching of cluster span to improve performance.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+TAG v03-04-00
+--------------------------------------------------------------------------------------------------------------------------------------------
+Update to C++17 standard.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+TAG v03-03-03
+--------------------------------------------------------------------------------------------------------------------------------------------
+Portable means of removing compile-time fallthrough warnings in TinyXml.
+Minor updates relating to Coverity CI configuration.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+TAG v03-03-02
+--------------------------------------------------------------------------------------------------------------------------------------------
+Updated TinyXml: v02-06-01 to v02-06-02.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+TAG v03-03-01
+--------------------------------------------------------------------------------------------------------------------------------------------
+Improved handling of external parameters map for externally configured algorithms.
+Updated isolated hit availability information upon cluster construction.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+TAG v03-03-00
+--------------------------------------------------------------------------------------------------------------------------------------------
+Added support for LArTPC w-type wires with non-zero angle to the vertical.
+Added ability to register a descriptive name or label for the pandora instance upon construction.
+Pfo now holds a map from registered property name to floating point property value, manipulated via pfo metadata.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+TAG v03-02-01
+--------------------------------------------------------------------------------------------------------------------------------------------
+Clear algorithm info map as a matter of course during reset procedures.
+Removed cout on cluster fit fail.
+Added CartesianVector::GetDistanceSquared(CartesianVector) method.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+TAG v03-02-00
+--------------------------------------------------------------------------------------------------------------------------------------------
+LArTPC management and access is now keyed upon unique volume ids.
+For LArTPC usage, added ability to set x0 for each hit and vertex, representing x-coordinate shift associated with a drift time t0 shift.
+Added ability to rename saved object lists.
+Added callback to reset all processes at end of event, with default null implementation.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+TAG v03-01-00
+--------------------------------------------------------------------------------------------------------------------------------------------
+LineGaps now have a line gap type, start/end x and z positions.
+Added LArTPC treatment to Geometry manager and persistency.
+Added LArTransformation plugin as a managed Pandora Process.
+Added ExternallyConfigured algorithm, offering extended configuration functionality for single instances of a given algorithm type per Pandora instance.
+Made external parameter functionality availability in event reading algorithm. Added ability to read lists of event files and terminate when last event reached.
+Added StopProcessingException.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+TAG v03-00-02
+--------------------------------------------------------------------------------------------------------------------------------------------
+Selected license: GPLv3.
+Added TravisCI builds, Coverity scan and badges.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+TAG v03-00-01
+--------------------------------------------------------------------------------------------------------------------------------------------
+Adjust handling of default list names (input list, selected list and null list).
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+TAG v03-00-00
+--------------------------------------------------------------------------------------------------------------------------------------------
+Switched managed container from std::unordered_set to std::list.
+Improved separation of api, objects and object creation mechanics.
+Altered names by which algorithm and tools are stored/accessed, providing well-defined names for temporary object lists.
+Added particle id functionality for pfos, in addition to clusters.
+Changes to object interfaces for improved consistency.
+Prefer range-based for loops and use of nullptr.
+Checked all use of unordered containers.
+CMake: No longer any option to proceed without support for specified cxx flags.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------
+TAG v02-03-02
+--------------------------------------------------------------------------------------------------------------------------------------------
+Add sorting functionality for ClusterFitPoints and use in linear fits.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+TAG v02-03-01
+--------------------------------------------------------------------------------------------------------------------------------------------
+Add address of function in which exception is raised to StatusCodeException backtrace (populated if preprocessor flag BACKTRACE defined).
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+TAG v02-03-00
+--------------------------------------------------------------------------------------------------------------------------------------------
+Add implementation of LineGap class.
+Interface change for DetectorGap IsInGap functionality: now require a hit type to be specified.
+Interface change for custom object persistency.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+TAG v02-02-00
+--------------------------------------------------------------------------------------------------------------------------------------------
+Interface changes and additions for ShowerProfilePlugin.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+TAG v02-01-00
+--------------------------------------------------------------------------------------------------------------------------------------------
+Improvements to CMake build mechanics.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+TAG v02-00-01
+--------------------------------------------------------------------------------------------------------------------------------------------
+Overhaul of histogram underflow and overflow bins.
+Set vertex availability upon pfo deletion.
+Address minor issues highlighted by Coverity.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+TAG v02-00-00
+--------------------------------------------------------------------------------------------------------------------------------------------
+Implementation of custom object creation factories, with plugins for pandora persistency.
+Improvements to persistency to allow use with user-modified objects.
+Interface changes for persistency.
+Reduce pointing and rectangular calohits to a single class.
+Ensure all object parameters classes are polymorphic.
+Remove cached helix fit from track object.
+Restructuring to tidy the Pandora directory.
+Fixed CXX flags for the clang 6.0 linker.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------
+TAG v01-00-01
+--------------------------------------------------------------------------------------------------------------------------------------------
+75a3006 Improve specification of CMAKE_CXX_FLAGS.
+1241d1b Handle cases where c++11 is not available.
+e9dd775 Improved user-control of cxx flags.
+e264e99 Efficiency improvement for filling histograms.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+TAG v01-00-00
+--------------------------------------------------------------------------------------------------------------------------------------------
+Milestone v01 release.
+Improved managed-object container efficiency if c++11 is available.
+Improved const-correctness. Algorithms are now only exposed to pointers to const managed-objects. Access to managed-object non-const functionality is now only via Pandora APIs.
+New managed-object metadata functionality, allowing for flexible modification of information associated with managed-objects.
+Overhaul of rules governing addition of objects to particle flow objects.
+Added VertexLabel property to Vertex class.
+Efficiency improvement keeping track of number of hits in cluster in calorimeter outer sampling layers.
+Efficiency improvement for calculation of cluster layer centroids.
+Reset current calo hit list at end of cluster fragmentation.
+Address issues highlighted by Coverity.
+Makefile and CMakeLists overhaul.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------
+TAG v00-17
+--------------------------------------------------------------------------------------------------------------------------------------------
+Overhaul, with emphasis on ensuring that client applications can instantiate and use multiple concurrent pandora instances.
+Add GeometryManager and upgrade PluginManager to deal with plugins for particle id, energy corrections, shower profile calculations, pseudo-layer calculations and B-Field maps.
+Add Pandora process class: Algorithms, AlgorithmTools and all Plugins are Pandora processes, which know with which Pandora instance they are associated.
+Move some Helper classes into LCContent. No Helper classes (and indeed no Pandora classes) have any configurable static member variables.
+Address issues highlighted by Coverity.
+Tweak InputType enums and InputObject parameters classes.
+Check parent and daughter addresses are dissimilar before creating a parent-daughter pfo hierarchy.
+Alter compiler warning flags, including all, extra, pedantic and shadow declarations to Makefile. Report warnings as errors.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+TAG v00-16
+--------------------------------------------------------------------------------------------------------------------------------------------
+Overhaul object creation from within Pandora algorithms.
+Algorithms are now able to add lists of calo hits to a cluster with a single API call.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+TAG v00-15
+--------------------------------------------------------------------------------------------------------------------------------------------
+Major upgrade of PandoraContentApi, with templates removing need for separate accessors for each object type.
+Add Pandora Vertex class and its AlgorithmObject Manager and associated APIs.
+The ifndef statements in header files are now fully qualified.
+Add single hit type clustering mode functionality.
+Modify rules for removing last calo hit from a cluster.
+Modify error-checking upon addition of reconstruction objects to a pfo.
+Remove unused CaloHit variables and associated Helper functions.
+Rename HitType entries VIEW_U->TPC_VIEW_U, etc. and add new HitType TPC_3D.
+Improve inner workings of OrderedCaloHitList.
+Allow Client Apps to avoid registering GeometryParameters.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+TAG v00-14
+--------------------------------------------------------------------------------------------------------------------------------------------
+Add algorithm tool functionality.
+Add vertex to ParticleFlowObject class.
+Add ability to make pfo parent-daughter associations.
+Add ability to create pfos containing no clusters or tracks, but which can hold metadata and daughter pfos.
+XmlHelper algorithm and tool creation improvements.
+Changes for clang build on Mavericks.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+TAG v00-13
+--------------------------------------------------------------------------------------------------------------------------------------------
+Upgrade handling of relationships between mc particles and calohits/tracks.
+Instead of associating the single mc particle representing the largest energy contribution, client applications can now provide the relationships as a series of weighted contributions.
+Calohits and tracks now hold a map of mc particles to weights (typically energy contribution). Previous functionality is restored if an algorithm uses the GetMainMCParticle methods.
+Add UseSingleMCParticleAssociation configuration option, so that, for every calohit/track, MCManager only keeps track of the mc particle association with the largest weight.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+TAG v00-12
+--------------------------------------------------------------------------------------------------------------------------------------------
+Updated Pandora persistency, with separate binary and xml file writers and readers.
+Relaxed restriction on merging a cluster with a parent cluster that happens to already be part of a PFO.
+Provided opportunity to receive address of newly-constructed PFOs in algorithms.
+Ensured local include directory is first in include path.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+TAG v00-11
+--------------------------------------------------------------------------------------------------------------------------------------------
+RESTRUCTURING
+Up to v00-11, the PandoraSDK was the core part of the PandoraPFANew parent package.
+PandoraPFANew is now a "metadata" package containing only Makefiles for downloading and building relevant Pandora libraries.
+The PandoraSDK is now maintained and released separately.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------
+GENERAL INFO:
+Pandora consists of the PandoraSDK (Software Development Kit), which comprises a single library and header files with flexible APIs.
+There is also an optional PandoraMonitoring library, which contains event display and tree/histogram-writing functionality.
+The PandoraMonitoring library depends on the PandoraSDK and ROOT.
+Pandora algorithms will necessarily depend upon the PandoraSDK (and also PandoraMonitoring, if desired).
+The algorithms can be built as part of a Pandora client application, such as MarlinPandora, or the standalone TestPandora binary.
+Algorithms declared to be suitably generic may be designed for use by multiple client applications.
+Such re-usable algorithms are best bundled together into a Pandora "content" library.
+Algorithms are always registered via the client application, using the PandoraAPIs, but the client app can link against as many content libraries as required.
+--------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------

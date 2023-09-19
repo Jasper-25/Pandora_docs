@@ -1,0 +1,14 @@
+<map id="pandora_monitoring::PandoraMonitoring::VisualizeCaloHits" name="pandora_monitoring::PandoraMonitoring::VisualizeCaloHits">
+<area shape="rect" id="Node000001" title="Add CaloHits to the Eve event&#45;display." alt="" coords="694,35,832,93"/>
+<area shape="rect" id="Node000002" href="$class_pandora_monitoring_api.html#a488bf862808f77e5f34066268a3aa217" title="Add CaloHits to the Eve event&#45;display." alt="" coords="498,5,646,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="678,50,646,44,647,39,679,45"/>
+<area shape="rect" id="Node000003" href="$classpandora__monitoring_1_1_pandora_monitoring.html#a8f13d4e39d4c31373e247c3f5212acc9" title="Add Clusters to the Eve event&#45;display." alt="" coords="504,72,641,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="679,83,642,90,641,85,678,78"/>
+<area shape="rect" id="Node000004" href="$class_pandora_monitoring_api.html#a64d5b5abe95e69386873da784070e23e" title="Add Clusters to the Eve event&#45;display." alt="" coords="277,31,425,73"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="488,85,425,71,426,66,489,80"/>
+<area shape="rect" id="Node000005" href="$classpandora__monitoring_1_1_pandora_monitoring.html#a57776172a0049baed050b7bd8c95878a" title="Add Particle flow objects to the Eve event&#45;display." alt="" coords="252,121,450,180"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="489,123,451,131,450,126,488,117"/>
+<area shape="poly" id="edge6_Node000005_Node000005" title=" " alt="" coords="386,109,372,102,351,100,332,102,319,107,313,113,312,121,307,121,308,111,316,102,330,97,351,95,374,97,388,104"/>
+<area shape="rect" id="Node000006" href="$class_pandora_monitoring_api.html#a2680ef7dc1ea556f1524b1d79e10ad9f" title="Add Particle flow objects to the Eve event&#45;display." alt="" coords="5,129,204,172"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="236,153,204,153,204,148,236,148"/>
+</map>

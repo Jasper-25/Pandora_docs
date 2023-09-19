@@ -1,0 +1,5 @@
+<map id="pandora::FileReader::ReadGeometry" name="pandora::FileReader::ReadGeometry">
+<area shape="rect" id="Node000001" title="Read the current geometry information from the file." alt="" coords="209,5,346,48"/>
+<area shape="rect" id="Node000002" href="$class_event_reading_algorithm.html#ab9894e20210af7ac5843642aed2338c3" title="Perform any operations that must occur after reading settings, but before running the process." alt="" coords="5,5,161,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,29,161,29,161,24,193,24"/>
+</map>

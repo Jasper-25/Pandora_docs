@@ -1,0 +1,42 @@
+<map id="lar_content::LArMCParticleHelper::IsBeamParticle" name="lar_content::LArMCParticleHelper::IsBeamParticle">
+<area shape="rect" id="Node000001" title="Returns true if passed a primary beam MCParticle." alt="" coords="1155,411,1332,453"/>
+<area shape="rect" id="Node000002" href="$classlar__content_1_1_cosmic_ray_tagging_monitoring_tool.html#aa3904805678648d14de635dcb1b1e588" title="Find the list of ambiguous pfos (could represent cosmic&#45;ray muons or neutrinos)" alt="" coords="877,5,1107,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1237,396,1227,325,1204,235,1187,188,1165,142,1138,99,1105,62,1090,51,1093,46,1108,58,1142,96,1170,139,1192,186,1210,233,1232,324,1242,395"/>
+<area shape="rect" id="Node000003" href="$classlar__content_1_1_l_ar_interaction_type_helper.html#a7b7e3cd67cc6ff3d75771355fbc575dd" title="Get the interaction type of an event." alt="" coords="890,72,1094,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1233,396,1218,339,1193,269,1156,197,1132,165,1105,135,1078,117,1081,113,1108,131,1136,161,1160,195,1198,267,1223,338,1238,395"/>
+<area shape="rect" id="Node000006" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a3784dab36efda32825e9a2ad53039e8e" title="Get the leading particle in the hierarchy, for use at ProtoDUNE." alt="" coords="894,281,1090,324"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1191,405,1105,357,1042,327,1045,322,1108,352,1194,400"/>
+<area shape="rect" id="Node000009" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a07190262e8db399b4426095d803b1b8a" title="Select target, reconstructable mc particles in the relevant hierarchy that match given criteria." alt="" coords="5,299,228,357"/>
+<area shape="poly" id="edge21_Node000001_Node000009" title=" " alt="" coords="1149,409,1106,401,981,386,874,380,691,380,509,382,401,377,275,364,228,356,229,351,276,359,402,372,509,377,691,375,874,374,981,381,1107,396,1150,404"/>
+<area shape="rect" id="Node000011" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a4163d53e6c1fdd3dbd41191ec9ce77ff" title="Get vector of leading MC particles from an input list of MC particles." alt="" coords="296,156,514,199"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="1219,399,1172,334,1140,300,1105,272,1035,232,958,202,879,181,798,168,719,161,643,160,514,166,514,161,643,154,719,156,799,163,880,176,960,197,1037,227,1108,267,1144,297,1176,331,1224,396"/>
+<area shape="rect" id="Node000013" href="$classlar__content_1_1_mva_pfo_characterisation_algorithm.html#aa9ff9dd7f75bb29fd25d73fd8050a2f1" title="Whether pfo is identified as a clear track." alt="" coords="877,411,1107,453"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="1139,435,1107,435,1107,429,1139,429"/>
+<area shape="rect" id="Node000014" href="$classlar__content_1_1_cheating_beam_particle_slice_selection_tool.html#a320d7b504e6186b598453bb4ee6f8143" title="Template method to determine if an MC particle matches the target criteria for slice selection...." alt="" coords="903,477,1081,536"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="1155,461,1082,483,1081,478,1154,456"/>
+<area shape="rect" id="Node000015" href="$classlar__content_1_1_l_ar_hierarchy_helper_1_1_m_c_hierarchy_1_1_node.html#a087c5bca56b9260851ff4b38ae3f2a6d" title="Check if this is a test beam particle." alt="" coords="902,560,1082,619"/>
+<area shape="poly" id="edge16_Node000001_Node000015" title=" " alt="" coords="1213,467,1165,509,1108,550,1083,563,1081,558,1105,546,1162,505,1209,463"/>
+<area shape="rect" id="Node000017" href="$classlar__content_1_1_l_ar_hierarchy_helper_1_1_match_info.html#a0c554f0f365da32f4fc83da8d1fdaab8" title="Prints information about which reco nodes are matched to the MC nodes, information about hit sharing,..." alt="" coords="908,643,1076,685"/>
+<area shape="poly" id="edge18_Node000001_Node000017" title=" " alt="" coords="1229,469,1210,507,1183,551,1149,595,1108,633,1078,649,1075,645,1105,628,1145,592,1179,548,1205,504,1225,466"/>
+<area shape="rect" id="Node000018" href="$classlar__content_1_1_l_ar_monitoring_helper.html#a344b0f12334ce419e52a7ded5754dae7" title="Print the shared good hits between all Pfos and MCParticles." alt="" coords="903,709,1081,752"/>
+<area shape="poly" id="edge19_Node000001_Node000018" title=" " alt="" coords="1236,469,1220,521,1194,583,1157,645,1134,674,1108,699,1083,715,1080,711,1105,695,1131,671,1153,642,1189,580,1215,519,1231,468"/>
+<area shape="rect" id="Node000019" href="$classlar__content_1_1_cheating_beam_particle_id_tool.html#aaf934322370c1f914f67f771c77d7d4e" title="Select which reconstruction hypotheses to use; neutrino outcomes or cosmic&#45;ray muon outcomes for each..." alt="" coords="887,776,1097,819"/>
+<area shape="poly" id="edge20_Node000001_Node000019" title=" " alt="" coords="1240,469,1228,533,1204,613,1187,654,1165,695,1139,733,1108,766,1092,778,1089,773,1105,762,1135,729,1161,692,1182,652,1199,611,1223,532,1235,468"/>
+<area shape="rect" id="Node000004" href="$classlar__content_1_1_trained_vertex_selection_algorithm.html#a8830901c9a95cd0f1e2f223337abe492" title="Get the interaction type string." alt="" coords="582,72,829,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="875,96,830,96,830,91,875,91"/>
+<area shape="rect" id="Node000005" href="$classlar__content_1_1_trained_vertex_selection_algorithm.html#a19474126585ba332e454985b680c68cd" title="Produce the region and vertex training sets." alt="" coords="276,72,534,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="566,96,534,96,534,91,566,91"/>
+<area shape="rect" id="Node000007" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#aa8c8f2e918c4db379fe3c9023c83c446" title="Returns true if passed particle whose leading meets the passed criteria." alt="" coords="600,256,811,299"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="878,295,812,289,812,284,879,290"/>
+<area shape="rect" id="Node000008" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a1d6a44cc759e8841e9c414dfdd52a3e4" title="Get mapping from individual mc particles (in a provided list) and their leading parent mc particles." alt="" coords="316,307,494,349"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="879,311,829,313,494,327,494,322,829,308,878,306"/>
+<area shape="rect" id="Node000010" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#a0385704b2322408b83152b9de3a6c21c" title="Whether a provided mc particle matches the implemented definition of being leading." alt="" coords="617,189,794,232"/>
+<area shape="poly" id="edge9_Node000006_Node000010" title=" " alt="" coords="919,278,829,247,790,235,792,230,830,241,921,273"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="301,331,228,331,228,325,301,325"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="601,202,514,192,514,187,602,197"/>
+<area shape="rect" id="Node000012" href="$classlar__content_1_1_l_ar_m_c_particle_helper.html#ad73ea17a667420bfd06e0db5059049bc" title="Returns true if passed a leading beam MCParticle." alt="" coords="305,223,505,265"/>
+<area shape="poly" id="edge12_Node000010_Node000012" title=" " alt="" coords="602,225,505,236,505,230,601,220"/>
+<area shape="poly" id="edge11_Node000011_Node000009" title=" " alt="" coords="290,207,277,213,242,233,208,255,152,300,148,296,205,251,239,228,274,208,288,202"/>
+<area shape="rect" id="Node000016" href="$classlar__content_1_1_l_ar_hierarchy_helper_1_1_m_c_hierarchy_1_1_node.html#af1beb5bcfb23ab2014416707b2f5d80f" title="Check if this is a particle induced by a neutrino interaction." alt="" coords="616,560,795,619"/>
+<area shape="poly" id="edge17_Node000015_Node000016" title=" " alt="" coords="886,592,796,592,796,587,886,587"/>
+</map>

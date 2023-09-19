@@ -1,0 +1,8 @@
+<map id="pandora_monitoring::PandoraMonitoring::SortPfosByEnergy" name="pandora_monitoring::PandoraMonitoring::SortPfosByEnergy">
+<area shape="rect" id="Node000001" title="Sort pfos by descending energy." alt="" coords="498,29,635,88"/>
+<area shape="rect" id="Node000002" href="$classpandora__monitoring_1_1_pandora_monitoring.html#a57776172a0049baed050b7bd8c95878a" title="Add Particle flow objects to the Eve event&#45;display." alt="" coords="252,29,450,88"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="483,61,450,61,450,56,483,56"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="385,17,372,10,351,8,332,10,320,15,314,21,314,29,308,29,309,19,317,10,331,5,351,3,373,5,387,12"/>
+<area shape="rect" id="Node000003" href="$class_pandora_monitoring_api.html#a2680ef7dc1ea556f1524b1d79e10ad9f" title="Add Particle flow objects to the Eve event&#45;display." alt="" coords="5,37,204,80"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="236,61,204,61,204,56,236,56"/>
+</map>

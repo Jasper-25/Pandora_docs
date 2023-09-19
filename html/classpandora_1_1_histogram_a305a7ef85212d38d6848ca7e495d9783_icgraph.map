@@ -1,0 +1,5 @@
+<map id="pandora::Histogram::GetBinNumber" name="pandora::Histogram::GetBinNumber">
+<area shape="rect" id="Node000001" title="Get the bin number for a specified value." alt="" coords="188,5,322,48"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_histogram.html#a349cb7822c54fdf75111db71c00acacd" title="Add an entry to the histogram." alt="" coords="5,5,140,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,29,140,29,140,24,172,24"/>
+</map>

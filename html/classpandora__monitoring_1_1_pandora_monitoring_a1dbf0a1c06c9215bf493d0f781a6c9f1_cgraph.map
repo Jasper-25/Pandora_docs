@@ -1,0 +1,5 @@
+<map id="pandora_monitoring::PandoraMonitoring::SortPfosByEnergy" name="pandora_monitoring::PandoraMonitoring::SortPfosByEnergy">
+<area shape="rect" id="Node000001" title="Sort pfos by descending energy." alt="" coords="5,5,143,64"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_particle_flow_object.html#a0ab2128ce73b800bda2bed8b8a669bed" title="Get the particle flow object energy." alt="" coords="191,13,375,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,32,175,32,175,37,143,37"/>
+</map>

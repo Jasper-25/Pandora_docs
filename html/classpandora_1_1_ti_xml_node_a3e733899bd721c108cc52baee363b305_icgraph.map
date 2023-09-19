@@ -1,0 +1,58 @@
+<map id="pandora::TiXmlNode::ToDocument" name="pandora::TiXmlNode::ToDocument">
+<area shape="rect" id="Node000001" title="Cast to a more defined type. Will return null if not of the requested type." alt="" coords="871,501,1007,544"/>
+<area shape="rect" id="Node000002" href="$classpandora_1_1_ti_xml_node.html#ace8e04b793f9d37c1e13e235c78eeeee" title=" " alt="" coords="686,380,823,423"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="890,494,787,425,790,421,893,490"/>
+<area shape="rect" id="Node000026" href="$classpandora_1_1_ti_xml_node.html#aa5cbb7bfb21c80e625801c85cde7d776" title=" " alt="" coords="485,652,621,695"/>
+<area shape="poly" id="edge30_Node000001_Node000026" title=" " alt="" coords="868,553,611,654,609,649,867,548"/>
+<area shape="rect" id="Node000003" href="$classpandora_1_1_ti_xml_node.html#ad235288b475933dd893fb44cba7de814" title=" " alt="" coords="485,100,621,143"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="743,366,729,319,708,263,677,206,658,180,637,157,620,144,623,140,640,153,662,177,682,203,713,261,734,317,748,364"/>
+<area shape="rect" id="Node000004" href="$classpandora_1_1_ti_xml_node.html#aa8584c6d72b94a091c8f4d03268684f9" title=" " alt="" coords="485,167,621,209"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="735,367,695,299,668,262,637,230,610,212,613,208,640,226,672,259,700,296,739,365"/>
+<area shape="rect" id="Node000005" href="$classpandora_1_1_ti_xml_node.html#a69d87cdb076dee52da9cb33e2e7455dc" title=" " alt="" coords="268,17,404,60"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="729,369,689,320,664,295,637,274,613,262,591,257,549,254,508,249,487,240,465,223,450,204,443,185,439,148,437,111,430,92,417,74,403,62,406,58,421,70,435,90,442,110,445,147,448,184,455,202,469,219,489,235,509,244,549,249,592,251,615,257,640,270,668,291,693,316,733,365"/>
+<area shape="rect" id="Node000006" href="$classpandora_1_1_ti_xml_node.html#a9176465c77287cd38dacf1d4bdb4386b" title=" " alt="" coords="485,284,621,327"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="702,375,637,341,611,330,613,325,639,336,704,370"/>
+<area shape="rect" id="Node000013" href="$classpandora_1_1_ti_xml_element.html#aeb5d41a1e3836aefcca8fb66d139276c" title=" " alt="" coords="259,417,413,460"/>
+<area shape="poly" id="edge28_Node000002_Node000013" title=" " alt="" coords="671,411,414,434,413,429,671,406"/>
+<area shape="rect" id="Node000014" href="$classpandora_1_1_ti_xml_element.html#a87e82241f71c0a61a5000735b2116f1c" title=" " alt="" coords="28,539,182,581"/>
+<area shape="poly" id="edge22_Node000002_Node000014" title=" " alt="" coords="734,437,694,485,669,507,640,525,581,548,520,564,457,575,395,581,278,581,182,574,183,569,278,576,395,575,456,570,519,559,579,543,637,520,665,503,691,481,730,434"/>
+<area shape="rect" id="Node000022" href="$classpandora_1_1_ti_xml_comment.html#a46cb90c58cfcbedc0ae67b2fc119f12a" title=" " alt="" coords="472,468,634,511"/>
+<area shape="poly" id="edge23_Node000002_Node000022" title=" " alt="" coords="691,432,605,470,602,465,689,427"/>
+<area shape="rect" id="Node000023" href="$classpandora_1_1_ti_xml_text.html#a92861d27978aa71d0d3805dcbad52f9e" title=" " alt="" coords="487,351,618,393"/>
+<area shape="poly" id="edge24_Node000002_Node000023" title=" " alt="" coords="670,392,619,384,619,379,671,387"/>
+<area shape="rect" id="Node000024" href="$classpandora_1_1_ti_xml_declaration.html#a34394f9579af63de6e76e259d1a769e9" title=" " alt="" coords="467,585,638,628"/>
+<area shape="poly" id="edge26_Node000002_Node000024" title=" " alt="" coords="738,438,698,503,671,538,640,569,612,587,609,582,637,565,667,534,694,500,734,435"/>
+<area shape="rect" id="Node000025" href="$classpandora_1_1_ti_xml_unknown.html#a50f4570225939d01e6a5b9abf561014c" title=" " alt="" coords="473,33,632,76"/>
+<area shape="poly" id="edge27_Node000002_Node000025" title=" " alt="" coords="747,365,737,306,717,232,684,156,663,121,636,90,622,79,625,74,640,86,667,118,689,154,722,231,742,304,752,364"/>
+<area shape="poly" id="edge29_Node000002_Node000026" title=" " alt="" coords="737,438,689,534,677,566,671,592,661,616,640,642,623,655,620,650,636,638,656,613,665,590,672,564,684,532,732,435"/>
+<area shape="poly" id="edge10_Node000006_Node000005" title=" " alt="" coords="474,276,465,267,449,241,441,216,441,168,440,121,433,98,417,74,403,62,406,58,421,70,438,96,446,120,446,168,447,215,454,239,469,264,478,273"/>
+<area shape="rect" id="Node000007" href="$classpandora_1_1_ti_xml_element.html#a07947f5bf2ddced0a64441581427054c" title=" " alt="" coords="259,284,413,327"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="469,308,413,308,413,303,469,303"/>
+<area shape="rect" id="Node000011" href="$classpandora_1_1_ti_xml_document.html#a5f44a24f0eb134815178362a66678941" title=" " alt="" coords="253,351,419,393"/>
+<area shape="poly" id="edge11_Node000006_Node000011" title=" " alt="" coords="470,333,409,353,407,347,469,328"/>
+<area shape="poly" id="edge13_Node000006_Node000013" title=" " alt="" coords="473,337,469,341,454,357,445,373,437,390,421,407,403,419,400,415,417,403,432,387,441,371,449,354,465,337,470,333"/>
+<area shape="rect" id="Node000015" href="$classpandora_1_1_histogram.html#aad92946c82d5f00e63d5394878401950" title="Write the histogram to an xml document." alt="" coords="269,84,403,127"/>
+<area shape="poly" id="edge15_Node000006_Node000015" title=" " alt="" coords="476,277,465,267,453,250,446,234,441,202,436,171,429,156,417,141,402,128,405,124,421,137,434,153,441,170,446,201,451,232,457,248,469,264,480,273"/>
+<area shape="rect" id="Node000016" href="$classpandora_1_1_two_d_histogram.html#acc2f3fbcaf180bf4a5f4a8ef176375f4" title="Write the histogram to an xml document." alt="" coords="253,151,419,193"/>
+<area shape="poly" id="edge16_Node000006_Node000016" title=" " alt="" coords="481,278,465,267,450,252,441,236,432,222,417,207,399,196,402,192,421,203,436,219,446,234,454,248,469,263,484,274"/>
+<area shape="rect" id="Node000017" href="$classpandora_1_1_xml_file_writer.html#a016579e54bd8cef837de7df4208cea24" title="Write a variable to the file." alt="" coords="260,217,412,260"/>
+<area shape="poly" id="edge17_Node000006_Node000017" title=" " alt="" coords="469,282,407,263,409,258,470,277"/>
+<area shape="rect" id="Node000008" href="$classpandora_1_1_ti_xml_element.html#aaba1e6e0013f7b9d1cd30ee22ce3112f" title="Creates a new Element and returns it &#45; the returned element is a copy." alt="" coords="28,405,182,448"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="261,337,254,341,240,354,231,368,222,382,206,396,184,408,181,403,203,391,218,378,227,365,236,351,251,337,258,332"/>
+<area shape="rect" id="Node000009" href="$classpandora_1_1_ti_xml_element.html#a253a19eeb0390763b12e7a2c3921684d" title=" " alt="" coords="28,272,182,315"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="243,303,183,300,183,295,244,298"/>
+<area shape="rect" id="Node000010" href="$classpandora_1_1_ti_xml_element.html#a90f41c211344d713fb9db9749ae91c99" title=" " alt="" coords="28,339,182,381"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="245,330,183,344,182,339,243,324"/>
+<area shape="rect" id="Node000012" href="$classpandora_1_1_ti_xml_document.html#acb1abb163700edfe830ebe504e2c3ddf" title=" " alt="" coords="22,472,188,515"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="261,403,254,407,240,421,231,434,222,448,206,462,185,474,183,469,203,458,218,445,227,431,236,418,251,403,258,399"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="296,472,254,501,206,529,179,541,177,536,203,524,251,497,293,468"/>
+<area shape="rect" id="Node000018" href="$classlar__content_1_1_l_ar_calo_hit_factory.html#a51d0a6755f6fa51443bc0c01d59e78dd" title="Persist any additional (derived class only) object parameters using the specified file writer." alt="" coords="5,72,205,115"/>
+<area shape="poly" id="edge18_Node000017_Node000018" title=" " alt="" coords="255,211,251,207,234,187,226,167,219,147,203,129,185,117,188,113,206,125,224,145,231,165,239,184,255,203,258,206"/>
+<area shape="rect" id="Node000019" href="$classlar__content_1_1_l_ar_m_c_particle_factory.html#a4ef593ac829d862dc5c80db943a6db53" title="Persist any additional (derived class only) object parameters using the specified file writer." alt="" coords="16,139,194,181"/>
+<area shape="poly" id="edge19_Node000017_Node000019" title=" " alt="" coords="257,214,204,196,171,184,172,179,206,191,259,209"/>
+<area shape="rect" id="Node000020" href="$classpandora_1_1_xml_file_writer.html#aee9dca09b3dcd9a567b0c85891d98fe9" title=" " alt="" coords="29,205,181,248"/>
+<area shape="poly" id="edge20_Node000017_Node000020" title=" " alt="" coords="244,237,181,233,182,228,244,231"/>
+<area shape="rect" id="Node000021" href="$classpandora_1_1_xml_file_writer.html#a05fcd3769a7ecc7c7457fe2e45f576d4" title=" " alt="" coords="29,5,181,48"/>
+<area shape="poly" id="edge21_Node000017_Node000021" title=" " alt="" coords="253,209,251,207,237,188,230,169,227,132,223,97,216,79,203,62,180,46,183,42,207,58,221,77,228,95,232,132,235,168,242,186,255,204,257,205"/>
+<area shape="poly" id="edge25_Node000023_Node000013" title=" " alt="" coords="473,399,409,419,407,414,471,394"/>
+</map>
